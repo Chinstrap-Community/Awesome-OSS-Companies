@@ -77,7 +77,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 </table>
 
 
-| <code style="color : #00274C">Company</code> | Description | Core OSS Repo | Website | Headlines | Technologies | Cossmology Profile |
+| $${\color{red}Company}$$ | Description | Core OSS Repo | Website | Headlines | Technologies | Cossmology Profile |
 |---|---|---|---|---|---|---|
 | **Puter** | Privacy-first personal cloud for files & apps | [Puter](https://github.com/heyputer/puter) | [Puter](https://puter.com/) | [Headlines](https://cossmology.com/organizations/puter/headlines) | Operating Systems, Cloud Computing, File Storage | [Cossmology](https://cossmology.com/organizations/puter) |
 | **Encore** | Open source backend framework for type-safe apps. | [encore](https://github.com/encoredev/encore) | [encore.dev](https://encore.dev/) | [Headlines](https://cossmology.com/organizations/encore/headlines) | Go, TypeScript, Distributed Systems | [Cossmology](https://cossmology.com/organizations/encore) |
