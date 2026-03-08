@@ -6,8 +6,6 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 ## Companies
 
-## Companies
-
 | Company | Description | Core OSS Repo | Website | Headlines | Technologies |
 |---|---|---|---|---|---|
 | **[2600Hz](https://cossmology.com/companies/2600hz)** | White label unified communications platform | [kazoo](https://github.com/2600hz/kazoo) | [2600Hz](https://www.2600hz.com/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png">](https://cossmology.com/organizations/2600hz/headlines) | <code>CPaaS</code>, <code>UCaaS</code>, <code>VoIP</code> |
