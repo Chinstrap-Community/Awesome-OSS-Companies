@@ -6,7 +6,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 ## Companies
 
-| Company | Description | Core OSS Repo | Website | Headlines | Technologies |
+| <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
 | **[2600Hz](https://cossmology.com/companies/2600hz)** | White label unified communications platform | [kazoo](https://github.com/2600hz/kazoo) | [2600Hz](https://www.2600hz.com/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png">](https://cossmology.com/organizations/2600hz/headlines) | <code>CPaaS</code>, <code>UCaaS</code>, <code>VoIP</code> |
 | **[AdventureLog](https://cossmology.com/companies/adventurelog)** | Travel companion app for trip logging | [AdventureLog](https://github.com/seanmorley15/AdventureLog) | [AdventureLog](https://adventurelog.app/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png">](https://cossmology.com/organizations/adventurelog/headlines) | <code>Django</code>, <code>PostGIS</code>, <code>Social Media</code>, <code>Svelte</code> |
