@@ -6,6 +6,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 ## Companies
 
+*Companies are organized by primary technology category. Click any category heading below to expand it and view the companies in that category.*
+
 <details>
 <summary><strong>A/B Testing</strong> (1 companies)</summary>
 
