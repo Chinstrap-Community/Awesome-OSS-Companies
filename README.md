@@ -6,12 +6,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 ## Companies
 
-*Companies are organized by primary technology category. Click any category heading below to expand it and view the companies in that category.*
-
-<details>
+<details open>
 <summary><strong>A/B Testing</strong> (1 companies)</summary>
-
-### A/B Testing
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -21,10 +17,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>AGI</strong> (1 companies)</summary>
-
-### AGI
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -34,10 +28,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
-<summary><strong>AI Agents</strong> (32 companies)</summary>
-
-### AI Agents
+<details open>
+<summary><strong>AI Agents</strong> (34 companies)</summary>
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -48,6 +40,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 | **[Cline](https://cossmology.com/companies/cline)** | Open-source AI coding agent for developers. | [Cline](https://github.com/cline/cline) | [Cline](https://cline.bot/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/cline/headlines) | <code>Autonomous Agent</code>, <code>IDE</code>, <code>Vibe Coding</code> |
 | **[Composio](https://cossmology.com/companies/composio)** | AI skill layer for building and automating agents. | [composio](https://github.com/composiohq/composio/) | [Composio](https://composio.dev/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/composio/headlines) | <code>Integration Frameworks</code>, <code>Workflow Automation</code> |
 | **[Continue](https://cossmology.com/companies/continue)** | Open-source AI code agent development platform. | [Continue - AI coding assistant](https://github.com/continuedev/continue) | [Continue](https://www.continue.dev/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/continue/headlines) | <code>AI/ML</code>, <code>Developer Tools</code>, <code>Vibe Coding</code> |
+| **[Coze](https://cossmology.com/companies/coze)** | No-code AI agent development platform | [Coze Studio](https://github.com/coze-dev/coze-studio) | [Coze](https://www.coze.com) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/coze/headlines) | <code>Agent Development Platform</code>, <code>LLM</code>, <code>Low-Code</code>, <code>No-Code</code>, <code>Workflow Automation</code> |
 | **[CrewAI](https://cossmology.com/companies/crewai)** | Platform for building AI agent workflows | [CrewAI](https://github.com/crewAIInc/crewAI) | [CrewAI](https://www.crewai.com/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/crewai/headlines) | <code>LLMs</code>, <code>Python</code> |
 | **[Dust](https://cossmology.com/companies/dust)** | Platform for building custom AI agents | [dust](https://github.com/dust-tt/dust) | [Dust](https://dust.tt/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/dust/headlines) | <code>AI</code>, <code>Agent Development Platform</code>, <code>Machine Learning</code> |
 | **[E2B](https://cossmology.com/companies/e2b)** | AI sandboxes for enterprise-grade agents | [E2B](https://github.com/e2b-dev/E2B) | [E2B](https://e2b.dev/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/e2b/headlines) | <code>AI Infrastructure</code>, <code>Sandboxing</code> |
@@ -63,6 +56,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 | **[Mastra](https://cossmology.com/companies/mastra)** | A typescript framework for building AI agents | [Mastra](https://github.com/mastra-ai/mastra) | [Mastra](https://mastra.ai) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/mastra/headlines) | <code>AI/ML</code>, <code>TypeScript</code> |
 | **[Mem0](https://cossmology.com/companies/mem0)** | Memory layer for LLM and AI applications | [Mem0](https://github.com/mem0ai/mem0) | [Mem0](https://mem0.ai/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/mem0/headlines) | <code>AI/ML</code>, <code>LLM</code> |
 | **[MetaMCP](https://cossmology.com/companies/metamcp)** | Unified MCP server management platform | [metatool-app](https://github.com/metatool-ai/metatool-app) | [MetaMCP](https://metamcp.com/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/metamcp/headlines) | <code>API Integration</code>, <code>MCP</code>, <code>Model Context Protocol</code> |
+| **[Mindverse](https://cossmology.com/companies/mindverse)** | Open-source personal AI identity system | [Second-Me](https://github.com/mindverse/Second-Me) | [Mindverse](https://www.secondme.io) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/mindverse/headlines) | <code>AI Memory</code>, <code>Decentralized</code>, <code>Local-First</code> |
 | **[MyShell.ai](https://cossmology.com/companies/myshell-ai)** | Consumer layer for building & sharing AI agents | [OpenVoice](https://github.com/myshell-ai/OpenVoice) | [MyShell.ai](https://myshell.ai/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/myshell-ai/headlines) | <code>Agent Development Platform</code>, <code>Ecosystem</code>, <code>Voice</code> |
 | **[NimbleEdge](https://cossmology.com/companies/nimbleedge)** | On-device AI agent deployment platform | [DeliteAI](https://github.com/NimbleEdge/deliteAI) | [NimbleEdge](https://www.nimbleedge.com/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/nimbleedge/headlines) | <code>AI/ML</code>, <code>Ecommerce</code>, <code>Edge Computing</code> |
 | **[Pydantic](https://cossmology.com/companies/pydantic)** | Data validation and observability tools | [pydantic](https://github.com/pydantic/pydantic) | [Pydantic](https://pydantic.dev) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/pydantic/headlines) | <code>Data Validation</code>, <code>OpenTelemetry</code>, <code>Python</code> |
@@ -78,10 +72,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>AI Coding Agents</strong> (2 companies)</summary>
-
-### AI Coding Agents
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -92,10 +84,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>AI Coding Assistant</strong> (3 companies)</summary>
-
-### AI Coding Assistant
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -107,10 +97,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>API Gateway</strong> (2 companies)</summary>
-
-### API Gateway
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -121,10 +109,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>API Management</strong> (5 companies)</summary>
-
-### API Management
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -138,10 +124,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>API Platform</strong> (2 companies)</summary>
-
-### API Platform
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -152,10 +136,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>API Security</strong> (1 companies)</summary>
-
-### API Security
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -165,10 +147,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Advanced Materials</strong> (1 companies)</summary>
-
-### Advanced Materials
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -178,10 +158,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Alerting</strong> (1 companies)</summary>
-
-### Alerting
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -191,10 +169,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Analytics</strong> (17 companies)</summary>
-
-### Analytics
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -220,10 +196,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Animation</strong> (1 companies)</summary>
-
-### Animation
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -233,10 +207,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>App Deployment</strong> (3 companies)</summary>
-
-### App Deployment
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -248,10 +220,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Audio</strong> (1 companies)</summary>
-
-### Audio
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -261,10 +231,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Authentication</strong> (8 companies)</summary>
-
-### Authentication
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -281,10 +249,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Authorization</strong> (4 companies)</summary>
-
-### Authorization
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -297,10 +263,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Autonomous Vehicles</strong> (1 companies)</summary>
-
-### Autonomous Vehicles
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -310,10 +274,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>BPM</strong> (1 companies)</summary>
-
-### BPM
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -323,10 +285,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Batch Processing</strong> (1 companies)</summary>
-
-### Batch Processing
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -336,10 +296,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Billing</strong> (4 companies)</summary>
-
-### Billing
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -352,10 +310,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Biotech</strong> (1 companies)</summary>
-
-### Biotech
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -365,10 +321,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Blockchain</strong> (11 companies)</summary>
-
-### Blockchain
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -388,10 +342,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Business Intelligence</strong> (1 companies)</summary>
-
-### Business Intelligence
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -401,10 +353,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Business Process Automation</strong> (2 companies)</summary>
-
-### Business Process Automation
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -415,10 +365,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>CI/CD</strong> (7 companies)</summary>
-
-### CI/CD
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -434,10 +382,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>CMS</strong> (6 companies)</summary>
-
-### CMS
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -452,10 +398,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>CPaaS</strong> (1 companies)</summary>
-
-### CPaaS
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -465,10 +409,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>CRM</strong> (6 companies)</summary>
-
-### CRM
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -483,10 +425,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Caching</strong> (3 companies)</summary>
-
-### Caching
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -498,10 +438,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Calendar</strong> (2 companies)</summary>
-
-### Calendar
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -512,10 +450,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Charging</strong> (1 companies)</summary>
-
-### Charging
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -525,10 +461,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Chatbot</strong> (2 companies)</summary>
-
-### Chatbot
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -539,10 +473,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Chrome Extension</strong> (2 companies)</summary>
-
-### Chrome Extension
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -553,10 +485,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Cloud Cost Management</strong> (1 companies)</summary>
-
-### Cloud Cost Management
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -566,10 +496,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Cloud Data Warehouse</strong> (1 companies)</summary>
-
-### Cloud Data Warehouse
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -579,10 +507,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Cloud Infrastructure</strong> (3 companies)</summary>
-
-### Cloud Infrastructure
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -594,10 +520,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Cloud Platform</strong> (2 companies)</summary>
-
-### Cloud Platform
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -608,10 +532,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Cloud Security</strong> (1 companies)</summary>
-
-### Cloud Security
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -621,10 +543,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Code Analysis</strong> (1 companies)</summary>
-
-### Code Analysis
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -634,10 +554,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Code Editor</strong> (3 companies)</summary>
-
-### Code Editor
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -649,10 +567,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Code Generation</strong> (4 companies)</summary>
-
-### Code Generation
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -665,10 +581,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Code Quality</strong> (1 companies)</summary>
-
-### Code Quality
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -678,10 +592,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Collaboration</strong> (8 companies)</summary>
-
-### Collaboration
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -698,10 +610,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Community Platform</strong> (1 companies)</summary>
-
-### Community Platform
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -711,10 +621,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Compliance</strong> (2 companies)</summary>
-
-### Compliance
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -725,10 +633,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Computer Vision</strong> (4 companies)</summary>
-
-### Computer Vision
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -741,10 +647,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Container Orchestration</strong> (1 companies)</summary>
-
-### Container Orchestration
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -754,10 +658,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Containerization</strong> (3 companies)</summary>
-
-### Containerization
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -769,10 +671,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Content Aggregation</strong> (2 companies)</summary>
-
-### Content Aggregation
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -783,10 +683,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Content Management</strong> (2 companies)</summary>
-
-### Content Management
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -797,10 +695,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Continuous Profiling</strong> (1 companies)</summary>
-
-### Continuous Profiling
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -810,10 +706,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Cost Management</strong> (1 companies)</summary>
-
-### Cost Management
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -823,10 +717,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Cryptography</strong> (2 companies)</summary>
-
-### Cryptography
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -837,10 +729,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Customer Data Platform</strong> (1 companies)</summary>
-
-### Customer Data Platform
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -850,15 +740,14 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
-<summary><strong>Cybersecurity</strong> (6 companies)</summary>
-
-### Cybersecurity
+<details open>
+<summary><strong>Cybersecurity</strong> (7 companies)</summary>
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
 | **[CrowdSec](https://cossmology.com/companies/crowdsec)** | Collaborative cybersecurity threat intelligence platform | [crowdsec](https://github.com/crowdsecurity/crowdsec) | [CrowdSec](https://www.crowdsec.net/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/crowdsec/headlines) | <code>Collaborative Security</code>, <code>Threat Intelligence</code> |
 | **[pfSense](https://cossmology.com/companies/pfsense)** | Open source firewall and network security | [pfSense](https://github.com/pfsense/pfsense) | [pfSense](https://www.pfsense.org/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/pfsense/headlines) | <code>Firewall</code>, <code>Packet Filtering</code>, <code>Routing</code>, <code>VPN</code> |
+| **[ProjectDiscovery](https://cossmology.com/companies/projectdiscovery)** | Vulnerability management with Nuclei scanner. | [Nuclei](https://github.com/projectdiscovery/nuclei) | [ProjectDiscovery](https://projectdiscovery.io/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/projectdiscovery/headlines) | <code>Scanning</code>, <code>Security</code>, <code>Threat Detection</code>, <code>Vulnerability Management</code> |
 | **[Socket](https://cossmology.com/companies/socket)** | Security platform for open source dependencies. | [socket-cli](https://github.com/socketdev/socket-cli) | [Socket](https://socket.dev/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/socket/headlines) | <code>Developer Tools</code>, <code>Supply Chain Security</code> |
 | **[SpecterOps](https://cossmology.com/companies/specterops)** | Identity attack path management solutions | [BloodHound](https://github.com/SpecterOps/BloodHound) | [SpecterOps](https://specterops.io/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/specterops/headlines) | <code>Attack Path Management</code>, <code>Graph Theory</code>, <code>Identity Management</code> |
 | **[Truffle Security](https://cossmology.com/companies/truffle-security)** | Open-source secret scanning engine for tech stacks | [TruffleHog](https://github.com/trufflesecurity/trufflehog) | [Truffle Security](https://trufflesecurity.com/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/truffle-security/headlines) | <code>Git</code>, <code>Secrets Management</code> |
@@ -868,10 +757,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Dashboard</strong> (2 companies)</summary>
-
-### Dashboard
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -882,10 +769,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Data Analytics</strong> (11 companies)</summary>
-
-### Data Analytics
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -905,10 +790,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Data Backup</strong> (2 companies)</summary>
-
-### Data Backup
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -919,10 +802,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Data Integration</strong> (2 companies)</summary>
-
-### Data Integration
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -933,10 +814,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Data Labeling</strong> (2 companies)</summary>
-
-### Data Labeling
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -947,10 +826,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Data Lake</strong> (5 companies)</summary>
-
-### Data Lake
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -965,10 +842,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Data Lakehouse</strong> (1 companies)</summary>
-
-### Data Lakehouse
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -978,10 +853,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Data Orchestration</strong> (2 companies)</summary>
-
-### Data Orchestration
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -992,10 +865,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Data Pipelines</strong> (5 companies)</summary>
-
-### Data Pipelines
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1009,10 +880,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Data Quality</strong> (1 companies)</summary>
-
-### Data Quality
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1022,10 +891,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Data Room</strong> (1 companies)</summary>
-
-### Data Room
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1035,10 +902,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Data Science</strong> (4 companies)</summary>
-
-### Data Science
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1051,10 +916,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Data Security</strong> (1 companies)</summary>
-
-### Data Security
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1064,10 +927,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Data Streaming</strong> (6 companies)</summary>
-
-### Data Streaming
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1082,10 +943,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Data Visualization</strong> (4 companies)</summary>
-
-### Data Visualization
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1098,10 +957,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
-<summary><strong>Database</strong> (42 companies)</summary>
-
-### Database
+<details open>
+<summary><strong>Database</strong> (41 companies)</summary>
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1126,13 +983,12 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 | **[PingCAP](https://cossmology.com/companies/pingcap)** | Distributed SQL database company | [tidb](https://github.com/pingcap/tidb) | [PingCAP](https://www.pingcap.com/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/pingcap/headlines) | <code>Analytical Processing</code>, <code>Distributed Database</code>, <code>Distributed Systems</code>, <code>Hybrid Transactions</code>, <code>SQL</code> |
 | **[PlexeAI](https://cossmology.com/companies/plexeai)** | ML models using natural language | [plexe](https://github.com/plexe-ai/plexe) | [PlexeAI](https://plexe.ai/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/plexeai/headlines) | <code>AI/ML</code>, <code>Machine Learning</code>, <code>No-Code</code> |
 | **[Prisma](https://cossmology.com/companies/prisma)** | Serverless Postgres database with ORM | [Prisma](https://github.com/prisma/prisma) | [Prisma](https://www.prisma.io/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/prisma/headlines) | <code>ORM</code>, <code>TypeScript</code> |
-| **[QuestDB](https://cossmology.com/companies/questdb)** | High-performance time-series database | [questdb](https://github.com/questdb/questdb) | [QuestDB](https://questdb.com/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/questdb/headlines) | <code>ASOF</code>, <code>Java/C++</code>, <code>OHLC</code>, <code>SQL</code>, <code>Time-series</code> |
 | **[QuestDB](https://cossmology.com/companies/questdb-2)** | High-performance open-source time-series database | [questdb](https://github.com/questdb/questdb) |  | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/questdb-2/headlines) | <code>SQL</code>, <code>Time-series</code> |
+| **[QuestDB](https://cossmology.com/companies/questdb)** | High-performance time-series database | [questdb](https://github.com/questdb/questdb) | [QuestDB](https://questdb.com/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/questdb/headlines) | <code>ASOF</code>, <code>Java/C++</code>, <code>OHLC</code>, <code>SQL</code>, <code>Time-series</code> |
 | **[RavenDB](https://cossmology.com/companies/ravendb)** | High-performance NoSQL document database. | [RavenDB](https://github.com/ravendb/ravendb) | [RavenDB](https://ravendb.net/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/ravendb/headlines) | <code>ACID</code>, <code>NoSQL</code> |
 | **[ScyllaDB](https://cossmology.com/companies/scylladb)** | NoSQL database for high-performance applications. | [scylla](https://github.com/scylladb/scylladb) | [ScyllaDB](https://www.scylladb.com/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/scylladb/headlines) | <code>C++</code>, <code>NoSQL</code>, <code>Seastar</code> |
 | **[Skyvern](https://cossmology.com/companies/skyvern)** | AI for automating browser-based workflows. | [skyvern](https://github.com/Skyvern-AI/skyvern) | [Skyvern](https://www.skyvern.com/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/skyvern/headlines) | <code>Large Language Models</code>, <code>Workflow Orchestration</code> |
 | **[Spiral](https://cossmology.com/companies/spiral)** | Data infrastructure for the AI era | [Vortex](https://github.com/vortex-data/vortex) | [Spiral](https://spiraldb.com/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/spiral/headlines) | <code>AI</code>, <code>Columnar Database</code>, <code>Data Infrastructure</code> |
-| **[SST](https://cossmology.com/companies/sst)** | Framework for full-stack apps on infrastructure | [sst](https://github.com/sst/sst) | [SST](https://sst.dev/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/sst/headlines) | <code>AWS</code>, <code>Developer Tools</code>, <code>TypeScript</code> |
 | **[StagDB](https://cossmology.com/companies/stagdb)** | Instant database branching for development teams | [StagDB Community Edition](https://github.com/arbit-tech/stagdb-ce) | [StagDB](https://stagdb.com/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/stagdb/headlines) | <code>Database Management</code>, <code>DevOps</code>, <code>Docker</code>, <code>Python</code>, <code>ZFS</code> |
 | **[superglue](https://cossmology.com/companies/superglue)** | Automates app, API, and database integrations. | [Superglue](https://github.com/superglue-ai/superglue) | [superglue](https://superglue.ai/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/superglue/headlines) | <code>API Integration</code>, <code>Data Pipelines</code>, <code>ETL</code> |
 | **[SurrealDB](https://cossmology.com/companies/surrealdb)** | SurrealDB: a multi-model database for AI agents | [SurrealDB](https://github.com/surrealdb/surrealdb) | [SurrealDB](https://surrealdb.com/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/surrealdb/headlines) | <code>Cloud-Native</code>, <code>Rust</code> |
@@ -1152,10 +1008,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Decentralized</strong> (7 companies)</summary>
-
-### Decentralized
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1171,10 +1025,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Decentralized Identity</strong> (1 companies)</summary>
-
-### Decentralized Identity
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1184,10 +1036,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Deepfake Detection</strong> (1 companies)</summary>
-
-### Deepfake Detection
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1197,10 +1047,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Deployment</strong> (5 companies)</summary>
-
-### Deployment
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1214,10 +1062,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Design Tools</strong> (3 companies)</summary>
-
-### Design Tools
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1229,10 +1075,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Desktop</strong> (1 companies)</summary>
-
-### Desktop
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1242,10 +1086,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>DevOps</strong> (9 companies)</summary>
-
-### DevOps
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1263,10 +1105,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>DevSecOps</strong> (1 companies)</summary>
-
-### DevSecOps
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1276,14 +1116,13 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
-<summary><strong>Developer Tools</strong> (36 companies)</summary>
-
-### Developer Tools
+<details open>
+<summary><strong>Developer Tools</strong> (37 companies)</summary>
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
 | **[All Hands](https://cossmology.com/companies/all-hands)** | Open-source AI coding agent for software dev. | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | [All Hands](https://www.all-hands.dev/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/all-hands/headlines) | <code>AI/ML</code>, <code>Vibe Coding</code> |
+| **[Anomaly](https://cossmology.com/companies/sst)** | Open source dev tools. | [SST](https://github.com/sst/sst) | [Anomaly](https://anoma.ly/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/sst/headlines) | <code>AI Coding Agents</code>, <code>AWS</code>, <code>Database</code>, <code>Terminal User Interface</code>, <code>TypeScript</code>, <code>Zig</code> |
 | **[APILayer](https://cossmology.com/companies/apilayer)** | Provides an API marketplace for developers. | [APILayer](https://github.com/apilayer) | [APILayer](https://apilayer.com/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/apilayer/headlines) | <code>API</code>, <code>Data Services</code> |
 | **[Astral](https://cossmology.com/companies/astral)** | High-performance Python developer tools | [Astral](https://github.com/astral-sh) | [Astral](https://astral.sh/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/astral/headlines) | <code>Package Management</code>, <code>Python</code> |
 | **[Bit](https://cossmology.com/companies/bit)** | Platform for composable software development | [Bit](https://github.com/teambit) | [Bit](https://bit.dev/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/bit/headlines) | <code>JavaScript</code>, <code>Monorepo</code> |
@@ -1324,10 +1163,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Diagramming</strong> (2 companies)</summary>
-
-### Diagramming
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1338,10 +1175,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Differential Privacy</strong> (1 companies)</summary>
-
-### Differential Privacy
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1351,10 +1186,19 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
-<summary><strong>Distributed Systems</strong> (4 companies)</summary>
+<details open>
+<summary><strong>Distributed Computing</strong> (1 companies)</summary>
 
-### Distributed Systems
+| <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
+|---|---|---|---|---|---|
+| **[Anyscale](https://cossmology.com/companies/anyscale)** | AI compute platform built on Ray | [Ray](https://github.com/ray-project/ray) | [Anyscale](https://anyscale.com) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/anyscale/headlines) | <code>AI Infrastructure</code>, <code>Machine Learning</code> |
+
+<br>
+
+</details>
+
+<details open>
+<summary><strong>Distributed Systems</strong> (4 companies)</summary>
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1367,10 +1211,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Document Processing</strong> (1 companies)</summary>
-
-### Document Processing
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1380,10 +1222,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Documentation</strong> (5 companies)</summary>
-
-### Documentation
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1397,10 +1237,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>E-signature</strong> (1 companies)</summary>
-
-### E-signature
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1410,10 +1248,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>EHR</strong> (1 companies)</summary>
-
-### EHR
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1423,10 +1259,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>ERP</strong> (1 companies)</summary>
-
-### ERP
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1436,10 +1270,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>ETL</strong> (1 companies)</summary>
-
-### ETL
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1449,10 +1281,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Ecommerce</strong> (5 companies)</summary>
-
-### Ecommerce
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1466,10 +1296,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Edge AI</strong> (2 companies)</summary>
-
-### Edge AI
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1480,10 +1308,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Edge Computing</strong> (2 companies)</summary>
-
-### Edge Computing
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1494,10 +1320,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Email Marketing</strong> (1 companies)</summary>
-
-### Email Marketing
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1507,10 +1331,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Embedded Systems</strong> (4 companies)</summary>
-
-### Embedded Systems
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1523,10 +1345,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Embeddings</strong> (1 companies)</summary>
-
-### Embeddings
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1536,10 +1356,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Enterprise Search</strong> (1 companies)</summary>
-
-### Enterprise Search
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1549,10 +1367,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>File Storage</strong> (1 companies)</summary>
-
-### File Storage
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1562,10 +1378,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Fintech</strong> (2 companies)</summary>
-
-### Fintech
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1576,10 +1390,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Form Builder</strong> (1 companies)</summary>
-
-### Form Builder
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1589,10 +1401,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>GPU Computing</strong> (2 companies)</summary>
-
-### GPU Computing
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1603,10 +1413,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Gaming</strong> (1 companies)</summary>
-
-### Gaming
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1616,10 +1424,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Generative AI</strong> (3 companies)</summary>
-
-### Generative AI
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1631,10 +1437,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Geospatial</strong> (2 companies)</summary>
-
-### Geospatial
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1645,10 +1449,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>GraphQL</strong> (8 companies)</summary>
-
-### GraphQL
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1665,10 +1467,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>HealthTech</strong> (1 companies)</summary>
-
-### HealthTech
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1678,10 +1478,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>IDE</strong> (5 companies)</summary>
-
-### IDE
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1695,10 +1493,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Identity Management</strong> (4 companies)</summary>
-
-### Identity Management
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1711,10 +1507,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Image Generation</strong> (3 companies)</summary>
-
-### Image Generation
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1726,10 +1520,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>In-Memory Database</strong> (1 companies)</summary>
-
-### In-Memory Database
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1739,10 +1531,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Inference</strong> (3 companies)</summary>
-
-### Inference
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1754,10 +1544,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Infrastructure as Code</strong> (3 companies)</summary>
-
-### Infrastructure as Code
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1769,10 +1557,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Integration Frameworks</strong> (2 companies)</summary>
-
-### Integration Frameworks
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1783,10 +1569,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>IoT</strong> (4 companies)</summary>
-
-### IoT
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1799,10 +1583,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Knowledge Management</strong> (2 companies)</summary>
-
-### Knowledge Management
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1813,10 +1595,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Kubernetes</strong> (10 companies)</summary>
-
-### Kubernetes
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1835,10 +1615,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
-<summary><strong>Large Language Models</strong> (23 companies)</summary>
-
-### Large Language Models
+<details open>
+<summary><strong>Large Language Models</strong> (24 companies)</summary>
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1865,15 +1643,14 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 | **[Tauric Research](https://cossmology.com/companies/tauric-research)** | AI-powered trading intelligence | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | [Tauric Research](https://tauric.ai/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/tauric-research/headlines) | <code>Artificial Intelligence</code>, <code>Machine Learning</code> |
 | **[TraceLoop](https://cossmology.com/companies/traceloop)** | LLM reliability platform for continuous feedback. | [OpenLLMetry](https://github.com/traceloop/openllmetry) | [TraceLoop](https://www.traceloop.com/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/traceloop/headlines) | <code>LLM</code>, <code>Observability</code>, <code>Traces</code>, <code>Vector DB</code> |
 | **[Unsloth AI](https://cossmology.com/companies/unsloth-ai)** | Speeds up LLM fine-tuning with less memory | [Unsloth](https://github.com/unslothai/unsloth) | [Unsloth AI](https://unsloth.ai/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/unsloth-ai/headlines) | <code>AI/ML</code>, <code>LLM Training</code>, <code>LLMs</code> |
+| **[Zyphra](https://cossmology.com/companies/zyphra)** | Open-source frontier AI model developer | [Zonos](https://github.com/Zyphra/Zonos) | [Zyphra](https://www.zyphra.com) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/zyphra/headlines) | <code>AI Models</code>, <code>Audio</code>, <code>Text-to-Speech</code> |
 
 <br>
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Linux</strong> (2 companies)</summary>
-
-### Linux
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1884,10 +1661,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Localization</strong> (1 companies)</summary>
-
-### Localization
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1897,10 +1672,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Low-Code</strong> (5 companies)</summary>
-
-### Low-Code
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1914,10 +1687,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>MLOps</strong> (4 companies)</summary>
-
-### MLOps
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1930,10 +1701,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Machine Learning</strong> (11 companies)</summary>
-
-### Machine Learning
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1953,10 +1722,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Messaging</strong> (4 companies)</summary>
-
-### Messaging
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1969,10 +1736,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Mobile Development</strong> (2 companies)</summary>
-
-### Mobile Development
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1983,10 +1748,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Model Monitoring</strong> (3 companies)</summary>
-
-### Model Monitoring
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -1998,10 +1761,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Monitoring</strong> (6 companies)</summary>
-
-### Monitoring
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2016,10 +1777,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Multi-Agent Systems</strong> (1 companies)</summary>
-
-### Multi-Agent Systems
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2029,10 +1788,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Natural Language Processing</strong> (3 companies)</summary>
-
-### Natural Language Processing
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2044,10 +1801,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Network Monitoring</strong> (1 companies)</summary>
-
-### Network Monitoring
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2057,10 +1812,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Networking</strong> (2 companies)</summary>
-
-### Networking
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2071,10 +1824,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>No-Code</strong> (5 companies)</summary>
-
-### No-Code
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2088,10 +1839,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Note-Taking</strong> (2 companies)</summary>
-
-### Note-Taking
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2102,10 +1851,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Observability</strong> (7 companies)</summary>
-
-### Observability
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2121,10 +1868,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Package Management</strong> (1 companies)</summary>
-
-### Package Management
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2134,10 +1879,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Payments</strong> (2 companies)</summary>
-
-### Payments
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2148,10 +1891,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Performance Monitoring</strong> (1 companies)</summary>
-
-### Performance Monitoring
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2161,10 +1902,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Privacy</strong> (5 companies)</summary>
-
-### Privacy
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2178,10 +1917,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Productivity</strong> (2 companies)</summary>
-
-### Productivity
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2192,10 +1929,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Project Management</strong> (2 companies)</summary>
-
-### Project Management
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2206,10 +1941,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Quantum Computing</strong> (2 companies)</summary>
-
-### Quantum Computing
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2220,10 +1953,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>RAG</strong> (4 companies)</summary>
-
-### RAG
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2236,10 +1967,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Real-time collaboration</strong> (1 companies)</summary>
-
-### Real-time collaboration
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2249,10 +1978,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Red Teaming</strong> (1 companies)</summary>
-
-### Red Teaming
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2262,10 +1989,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Remote Desktop</strong> (1 companies)</summary>
-
-### Remote Desktop
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2275,10 +2000,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Retrieval-Augmented Generation</strong> (1 companies)</summary>
-
-### Retrieval-Augmented Generation
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2288,10 +2011,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Reverse Proxy</strong> (1 companies)</summary>
-
-### Reverse Proxy
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2301,10 +2022,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Rich Text Editor</strong> (1 companies)</summary>
-
-### Rich Text Editor
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2314,10 +2033,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Scheduling</strong> (2 companies)</summary>
-
-### Scheduling
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2328,10 +2045,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Search</strong> (7 companies)</summary>
-
-### Search
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2347,10 +2062,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Search Engine</strong> (1 companies)</summary>
-
-### Search Engine
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2360,10 +2073,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Secrets Management</strong> (1 companies)</summary>
-
-### Secrets Management
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2373,10 +2084,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Security</strong> (4 companies)</summary>
-
-### Security
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2389,10 +2098,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Simulation</strong> (1 companies)</summary>
-
-### Simulation
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2402,10 +2109,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Social Media</strong> (3 companies)</summary>
-
-### Social Media
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2417,10 +2122,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Speech Recognition</strong> (1 companies)</summary>
-
-### Speech Recognition
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2430,10 +2133,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Storage</strong> (1 companies)</summary>
-
-### Storage
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2443,10 +2144,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Supply Chain Security</strong> (2 companies)</summary>
-
-### Supply Chain Security
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2457,10 +2156,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Survey</strong> (1 companies)</summary>
-
-### Survey
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2470,10 +2167,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Synthetic Data</strong> (1 companies)</summary>
-
-### Synthetic Data
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2483,10 +2178,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Testing</strong> (3 companies)</summary>
-
-### Testing
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2498,23 +2191,20 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
-<summary><strong>Text-to-Speech</strong> (1 companies)</summary>
-
-### Text-to-Speech
+<details open>
+<summary><strong>Text-to-Speech</strong> (2 companies)</summary>
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
 | **[Fish Audio](https://cossmology.com/companies/fish-audio)** | AI text-to-speech and voice cloning platform | [fish-speech](https://github.com/fishaudio/fish-speech) | [Fish Audio](https://fish.audio/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/fish-audio/headlines) | <code>AI</code>, <code>Voice Cloning</code> |
+| **[Sesame](https://cossmology.com/companies/sesame)** | Conversational AI voice companions | [CSM](https://github.com/SesameAILabs/csm) | [Sesame](https://www.sesame.com) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/sesame/headlines) | <code>Conversational AI</code>, <code>Generative AI</code>, <code>Machine Learning</code>, <code>Voice</code> |
 
 <br>
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Time Series</strong> (1 companies)</summary>
-
-### Time Series
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2524,10 +2214,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Transcription</strong> (1 companies)</summary>
-
-### Transcription
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2537,10 +2225,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>UI Framework</strong> (1 companies)</summary>
-
-### UI Framework
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2550,10 +2236,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>UI Library</strong> (1 companies)</summary>
-
-### UI Library
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2563,10 +2247,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Vector Database</strong> (5 companies)</summary>
-
-### Vector Database
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2580,10 +2262,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Video</strong> (2 companies)</summary>
-
-### Video
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2594,10 +2274,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Video Conferencing</strong> (2 companies)</summary>
-
-### Video Conferencing
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2608,10 +2286,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Video Generation</strong> (1 companies)</summary>
-
-### Video Generation
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2621,10 +2297,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Virtual Machines</strong> (1 companies)</summary>
-
-### Virtual Machines
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2634,10 +2308,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Virtualization</strong> (1 companies)</summary>
-
-### Virtualization
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2647,10 +2319,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>VoIP</strong> (1 companies)</summary>
-
-### VoIP
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2660,10 +2330,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Voice Recognition</strong> (2 companies)</summary>
-
-### Voice Recognition
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2674,23 +2342,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
-<summary><strong>Vulnerability Management</strong> (1 companies)</summary>
-
-### Vulnerability Management
-
-| <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
-|---|---|---|---|---|---|
-| **[ProjectDiscovery](https://cossmology.com/companies/projectdiscovery)** | Vulnerability management with Nuclei scanner. | [Nuclei](https://github.com/projectdiscovery/nuclei) | [ProjectDiscovery](https://projectdiscovery.io/) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/projectdiscovery/headlines) | <code>Cybersecurity</code>, <code>Scanning</code>, <code>Security</code>, <code>Threat Detection</code> |
-
-<br>
-
-</details>
-
-<details>
+<details open>
 <summary><strong>Web Analytics</strong> (1 companies)</summary>
-
-### Web Analytics
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2700,10 +2353,19 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
-<summary><strong>Web Development</strong> (4 companies)</summary>
+<details open>
+<summary><strong>Web Automation</strong> (1 companies)</summary>
 
-### Web Development
+| <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
+|---|---|---|---|---|---|
+| **[Leopard Labs](https://cossmology.com/companies/leopard-labs)** | Open-source AI web automation agent | [Nanobrowser](https://github.com/nanobrowser/nanobrowser) | [Leopard Labs](https://nanobrowser.ai) | [<img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77">](https://cossmology.com/organizations/leopard-labs/headlines) | <code>AI Agents</code>, <code>Agentic AI</code>, <code>Browser Automation</code>, <code>Chrome Extension</code> |
+
+<br>
+
+</details>
+
+<details open>
+<summary><strong>Web Development</strong> (4 companies)</summary>
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2716,10 +2378,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Web Framework</strong> (6 companies)</summary>
-
-### Web Framework
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2734,10 +2394,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Web Scraping</strong> (1 companies)</summary>
-
-### Web Scraping
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2747,10 +2405,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>WebAssembly</strong> (1 companies)</summary>
-
-### WebAssembly
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2760,10 +2416,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Wiki</strong> (1 companies)</summary>
-
-### Wiki
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2773,10 +2427,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Workflow Automation</strong> (3 companies)</summary>
-
-### Workflow Automation
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2788,10 +2440,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Workflow Orchestration</strong> (6 companies)</summary>
-
-### Workflow Orchestration
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
@@ -2806,10 +2456,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Zero Trust</strong> (2 companies)</summary>
-
-### Zero Trust
 
 | <div style="width:130px">Company</div> | <div style="width:180px">Description</div> | <div style="width:120px">Core OSS Repo</div> | <div style="width:100px">Website</div> | <div style="width:80px">Headlines</div> | <div style="width:290px">Technologies</div> |
 |---|---|---|---|---|---|
