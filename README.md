@@ -1,5 +1,7 @@
 # Awesome OSS Companies
 
+![Awesome OSS Companies](banner.png)
+
 This repository serves as a directory of commercial open source software (COSS) companies. A COSS company is a for-profit organization that has built its core business around one or more open source software projects. We aim for this repository to be a valuable resource for developers, entrepreneurs, investors, and anyone interested in the COSS ecosystem.
 
 The information in this repository is sourced from [Cossmology](https://cossmology.com), a platform provided by [Chinstrap Community](https://chinstrap.community) for tracking and analyzing the commercial open source software landscape. This repository is jointly maintained by [Chinstrap Community](https://chinstrap.community) and [Puter](https://puter.com).
