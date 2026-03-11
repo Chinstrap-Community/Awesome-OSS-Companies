@@ -8,6 +8,9 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 ## Companies
 
+[A/B Testing](#ab-testing) · [AGI](#agi) · [AI Agents](#ai-agents) · [AI Coding Agents](#ai-coding-agents) · [AI Coding Assistant](#ai-coding-assistant) · [API Gateway](#api-gateway) · [API Management](#api-management) · [API Platform](#api-platform) · [API Security](#api-security) · [Advanced Materials](#advanced-materials) · [Alerting](#alerting) · [Analytics](#analytics) · [Animation](#animation) · [App Deployment](#app-deployment) · [Audio](#audio) · [Authentication](#authentication) · [Authorization](#authorization) · [Autonomous Vehicles](#autonomous-vehicles) · [BPM](#bpm) · [Batch Processing](#batch-processing) · [Billing](#billing) · [Biotech](#biotech) · [Blockchain](#blockchain) · [Business Intelligence](#business-intelligence) · [Business Process Automation](#business-process-automation) · [CI/CD](#cicd) · [CMS](#cms) · [CPaaS](#cpaas) · [CRM](#crm) · [Caching](#caching) · [Calendar](#calendar) · [Charging](#charging) · [Chatbot](#chatbot) · [Chrome Extension](#chrome-extension) · [Cloud Cost Management](#cloud-cost-management) · [Cloud Data Warehouse](#cloud-data-warehouse) · [Cloud Infrastructure](#cloud-infrastructure) · [Cloud Platform](#cloud-platform) · [Cloud Security](#cloud-security) · [Code Analysis](#code-analysis) · [Code Editor](#code-editor) · [Code Generation](#code-generation) · [Code Quality](#code-quality) · [Collaboration](#collaboration) · [Community Platform](#community-platform) · [Compliance](#compliance) · [Computer Vision](#computer-vision) · [Container Orchestration](#container-orchestration) · [Containerization](#containerization) · [Content Aggregation](#content-aggregation) · [Content Management](#content-management) · [Continuous Profiling](#continuous-profiling) · [Cost Management](#cost-management) · [Cryptography](#cryptography) · [Customer Data Platform](#customer-data-platform) · [Cybersecurity](#cybersecurity) · [Dashboard](#dashboard) · [Data Analytics](#data-analytics) · [Data Backup](#data-backup) · [Data Integration](#data-integration) · [Data Labeling](#data-labeling) · [Data Lake](#data-lake) · [Data Lakehouse](#data-lakehouse) · [Data Orchestration](#data-orchestration) · [Data Pipelines](#data-pipelines) · [Data Quality](#data-quality) · [Data Room](#data-room) · [Data Science](#data-science) · [Data Security](#data-security) · [Data Streaming](#data-streaming) · [Data Visualization](#data-visualization) · [Database](#database) · [Decentralized](#decentralized) · [Decentralized Identity](#decentralized-identity) · [Deepfake Detection](#deepfake-detection) · [Deployment](#deployment) · [Design Tools](#design-tools) · [Desktop](#desktop) · [DevOps](#devops) · [DevSecOps](#devsecops) · [Developer Tools](#developer-tools) · [Diagramming](#diagramming) · [Differential Privacy](#differential-privacy) · [Distributed Computing](#distributed-computing) · [Distributed Systems](#distributed-systems) · [Document Processing](#document-processing) · [Documentation](#documentation) · [E-signature](#e-signature) · [EHR](#ehr) · [ERP](#erp) · [ETL](#etl) · [Ecommerce](#ecommerce) · [Edge AI](#edge-ai) · [Edge Computing](#edge-computing) · [Email Marketing](#email-marketing) · [Embedded Systems](#embedded-systems) · [Embeddings](#embeddings) · [Enterprise Search](#enterprise-search) · [File Storage](#file-storage) · [Fintech](#fintech) · [Form Builder](#form-builder) · [GPU Computing](#gpu-computing) · [Gaming](#gaming) · [Generative AI](#generative-ai) · [Geospatial](#geospatial) · [GraphQL](#graphql) · [HealthTech](#healthtech) · [IDE](#ide) · [Identity Management](#identity-management) · [Image Generation](#image-generation) · [In-Memory Database](#in-memory-database) · [Inference](#inference) · [Infrastructure as Code](#infrastructure-as-code) · [Integration Frameworks](#integration-frameworks) · [IoT](#iot) · [Knowledge Management](#knowledge-management) · [Kubernetes](#kubernetes) · [Large Language Models](#large-language-models) · [Linux](#linux) · [Localization](#localization) · [Low-Code](#low-code) · [MLOps](#mlops) · [Machine Learning](#machine-learning) · [Messaging](#messaging) · [Mobile Development](#mobile-development) · [Model Monitoring](#model-monitoring) · [Monitoring](#monitoring) · [Multi-Agent Systems](#multi-agent-systems) · [Natural Language Processing](#natural-language-processing) · [Network Monitoring](#network-monitoring) · [Networking](#networking) · [No-Code](#no-code) · [Note-Taking](#note-taking) · [Observability](#observability) · [Package Management](#package-management) · [Payments](#payments) · [Performance Monitoring](#performance-monitoring) · [Privacy](#privacy) · [Productivity](#productivity) · [Project Management](#project-management) · [Quantum Computing](#quantum-computing) · [RAG](#rag) · [Real-time collaboration](#real-time-collaboration) · [Red Teaming](#red-teaming) · [Remote Desktop](#remote-desktop) · [Retrieval-Augmented Generation](#retrieval-augmented-generation) · [Reverse Proxy](#reverse-proxy) · [Rich Text Editor](#rich-text-editor) · [Scheduling](#scheduling) · [Search](#search) · [Search Engine](#search-engine) · [Secrets Management](#secrets-management) · [Security](#security) · [Simulation](#simulation) · [Social Media](#social-media) · [Speech Recognition](#speech-recognition) · [Storage](#storage) · [Supply Chain Security](#supply-chain-security) · [Survey](#survey) · [Synthetic Data](#synthetic-data) · [Testing](#testing) · [Text-to-Speech](#text-to-speech) · [Time Series](#time-series) · [Transcription](#transcription) · [UI Framework](#ui-framework) · [UI Library](#ui-library) · [Vector Database](#vector-database) · [Video](#video) · [Video Conferencing](#video-conferencing) · [Video Generation](#video-generation) · [Virtual Machines](#virtual-machines) · [Virtualization](#virtualization) · [VoIP](#voip) · [Voice Recognition](#voice-recognition) · [Web Analytics](#web-analytics) · [Web Automation](#web-automation) · [Web Development](#web-development) · [Web Framework](#web-framework) · [Web Scraping](#web-scraping) · [WebAssembly](#webassembly) · [Wiki](#wiki) · [Workflow Automation](#workflow-automation) · [Workflow Orchestration](#workflow-orchestration) · [Zero Trust](#zero-trust)
+
+<span id="ab-testing"></span>
 <details open>
 <summary><strong>A/B Testing</strong> (1 companies)</summary>
 
@@ -39,6 +42,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="agi"></span>
 <details open>
 <summary><strong>AGI</strong> (1 companies)</summary>
 
@@ -70,6 +74,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="ai-agents"></span>
 <details open>
 <summary><strong>AI Agents</strong> (34 companies)</summary>
 
@@ -134,6 +139,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="ai-coding-agents"></span>
 <details open>
 <summary><strong>AI Coding Agents</strong> (2 companies)</summary>
 
@@ -166,6 +172,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="ai-coding-assistant"></span>
 <details open>
 <summary><strong>AI Coding Assistant</strong> (3 companies)</summary>
 
@@ -199,6 +206,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="api-gateway"></span>
 <details open>
 <summary><strong>API Gateway</strong> (2 companies)</summary>
 
@@ -231,6 +239,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="api-management"></span>
 <details open>
 <summary><strong>API Management</strong> (5 companies)</summary>
 
@@ -266,6 +275,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="api-platform"></span>
 <details open>
 <summary><strong>API Platform</strong> (2 companies)</summary>
 
@@ -298,6 +308,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="api-security"></span>
 <details open>
 <summary><strong>API Security</strong> (1 companies)</summary>
 
@@ -329,6 +340,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="advanced-materials"></span>
 <details open>
 <summary><strong>Advanced Materials</strong> (1 companies)</summary>
 
@@ -360,6 +372,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="alerting"></span>
 <details open>
 <summary><strong>Alerting</strong> (1 companies)</summary>
 
@@ -391,6 +404,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="analytics"></span>
 <details open>
 <summary><strong>Analytics</strong> (17 companies)</summary>
 
@@ -438,6 +452,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="animation"></span>
 <details open>
 <summary><strong>Animation</strong> (1 companies)</summary>
 
@@ -469,6 +484,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="app-deployment"></span>
 <details open>
 <summary><strong>App Deployment</strong> (3 companies)</summary>
 
@@ -502,6 +518,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="audio"></span>
 <details open>
 <summary><strong>Audio</strong> (1 companies)</summary>
 
@@ -533,6 +550,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="authentication"></span>
 <details open>
 <summary><strong>Authentication</strong> (8 companies)</summary>
 
@@ -571,6 +589,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="authorization"></span>
 <details open>
 <summary><strong>Authorization</strong> (4 companies)</summary>
 
@@ -605,6 +624,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="autonomous-vehicles"></span>
 <details open>
 <summary><strong>Autonomous Vehicles</strong> (1 companies)</summary>
 
@@ -636,6 +656,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="bpm"></span>
 <details open>
 <summary><strong>BPM</strong> (1 companies)</summary>
 
@@ -667,6 +688,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="batch-processing"></span>
 <details open>
 <summary><strong>Batch Processing</strong> (1 companies)</summary>
 
@@ -698,6 +720,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="billing"></span>
 <details open>
 <summary><strong>Billing</strong> (4 companies)</summary>
 
@@ -732,6 +755,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="biotech"></span>
 <details open>
 <summary><strong>Biotech</strong> (1 companies)</summary>
 
@@ -763,6 +787,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="blockchain"></span>
 <details open>
 <summary><strong>Blockchain</strong> (11 companies)</summary>
 
@@ -804,6 +829,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="business-intelligence"></span>
 <details open>
 <summary><strong>Business Intelligence</strong> (1 companies)</summary>
 
@@ -835,6 +861,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="business-process-automation"></span>
 <details open>
 <summary><strong>Business Process Automation</strong> (2 companies)</summary>
 
@@ -867,6 +894,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="cicd"></span>
 <details open>
 <summary><strong>CI/CD</strong> (7 companies)</summary>
 
@@ -904,6 +932,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="cms"></span>
 <details open>
 <summary><strong>CMS</strong> (6 companies)</summary>
 
@@ -940,6 +969,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="cpaas"></span>
 <details open>
 <summary><strong>CPaaS</strong> (1 companies)</summary>
 
@@ -971,6 +1001,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="crm"></span>
 <details open>
 <summary><strong>CRM</strong> (6 companies)</summary>
 
@@ -1007,6 +1038,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="caching"></span>
 <details open>
 <summary><strong>Caching</strong> (3 companies)</summary>
 
@@ -1040,6 +1072,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="calendar"></span>
 <details open>
 <summary><strong>Calendar</strong> (2 companies)</summary>
 
@@ -1072,6 +1105,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="charging"></span>
 <details open>
 <summary><strong>Charging</strong> (1 companies)</summary>
 
@@ -1103,6 +1137,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="chatbot"></span>
 <details open>
 <summary><strong>Chatbot</strong> (2 companies)</summary>
 
@@ -1135,6 +1170,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="chrome-extension"></span>
 <details open>
 <summary><strong>Chrome Extension</strong> (2 companies)</summary>
 
@@ -1167,6 +1203,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="cloud-cost-management"></span>
 <details open>
 <summary><strong>Cloud Cost Management</strong> (1 companies)</summary>
 
@@ -1198,6 +1235,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="cloud-data-warehouse"></span>
 <details open>
 <summary><strong>Cloud Data Warehouse</strong> (1 companies)</summary>
 
@@ -1229,6 +1267,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="cloud-infrastructure"></span>
 <details open>
 <summary><strong>Cloud Infrastructure</strong> (3 companies)</summary>
 
@@ -1262,6 +1301,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="cloud-platform"></span>
 <details open>
 <summary><strong>Cloud Platform</strong> (2 companies)</summary>
 
@@ -1294,6 +1334,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="cloud-security"></span>
 <details open>
 <summary><strong>Cloud Security</strong> (1 companies)</summary>
 
@@ -1325,6 +1366,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="code-analysis"></span>
 <details open>
 <summary><strong>Code Analysis</strong> (1 companies)</summary>
 
@@ -1356,6 +1398,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="code-editor"></span>
 <details open>
 <summary><strong>Code Editor</strong> (3 companies)</summary>
 
@@ -1389,6 +1432,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="code-generation"></span>
 <details open>
 <summary><strong>Code Generation</strong> (4 companies)</summary>
 
@@ -1423,6 +1467,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="code-quality"></span>
 <details open>
 <summary><strong>Code Quality</strong> (1 companies)</summary>
 
@@ -1454,6 +1499,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="collaboration"></span>
 <details open>
 <summary><strong>Collaboration</strong> (8 companies)</summary>
 
@@ -1492,6 +1538,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="community-platform"></span>
 <details open>
 <summary><strong>Community Platform</strong> (1 companies)</summary>
 
@@ -1523,6 +1570,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="compliance"></span>
 <details open>
 <summary><strong>Compliance</strong> (2 companies)</summary>
 
@@ -1555,6 +1603,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="computer-vision"></span>
 <details open>
 <summary><strong>Computer Vision</strong> (4 companies)</summary>
 
@@ -1589,6 +1638,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="container-orchestration"></span>
 <details open>
 <summary><strong>Container Orchestration</strong> (1 companies)</summary>
 
@@ -1620,6 +1670,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="containerization"></span>
 <details open>
 <summary><strong>Containerization</strong> (3 companies)</summary>
 
@@ -1653,6 +1704,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="content-aggregation"></span>
 <details open>
 <summary><strong>Content Aggregation</strong> (2 companies)</summary>
 
@@ -1685,6 +1737,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="content-management"></span>
 <details open>
 <summary><strong>Content Management</strong> (2 companies)</summary>
 
@@ -1717,6 +1770,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="continuous-profiling"></span>
 <details open>
 <summary><strong>Continuous Profiling</strong> (1 companies)</summary>
 
@@ -1748,6 +1802,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="cost-management"></span>
 <details open>
 <summary><strong>Cost Management</strong> (1 companies)</summary>
 
@@ -1779,6 +1834,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="cryptography"></span>
 <details open>
 <summary><strong>Cryptography</strong> (2 companies)</summary>
 
@@ -1811,6 +1867,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="customer-data-platform"></span>
 <details open>
 <summary><strong>Customer Data Platform</strong> (1 companies)</summary>
 
@@ -1842,6 +1899,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="cybersecurity"></span>
 <details open>
 <summary><strong>Cybersecurity</strong> (7 companies)</summary>
 
@@ -1879,6 +1937,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="dashboard"></span>
 <details open>
 <summary><strong>Dashboard</strong> (2 companies)</summary>
 
@@ -1911,6 +1970,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="data-analytics"></span>
 <details open>
 <summary><strong>Data Analytics</strong> (11 companies)</summary>
 
@@ -1952,6 +2012,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="data-backup"></span>
 <details open>
 <summary><strong>Data Backup</strong> (2 companies)</summary>
 
@@ -1984,6 +2045,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="data-integration"></span>
 <details open>
 <summary><strong>Data Integration</strong> (2 companies)</summary>
 
@@ -2016,6 +2078,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="data-labeling"></span>
 <details open>
 <summary><strong>Data Labeling</strong> (2 companies)</summary>
 
@@ -2048,6 +2111,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="data-lake"></span>
 <details open>
 <summary><strong>Data Lake</strong> (5 companies)</summary>
 
@@ -2084,6 +2148,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="data-lakehouse"></span>
 <details open>
 <summary><strong>Data Lakehouse</strong> (1 companies)</summary>
 
@@ -2115,6 +2180,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="data-orchestration"></span>
 <details open>
 <summary><strong>Data Orchestration</strong> (2 companies)</summary>
 
@@ -2147,6 +2213,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="data-pipelines"></span>
 <details open>
 <summary><strong>Data Pipelines</strong> (5 companies)</summary>
 
@@ -2182,6 +2249,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="data-quality"></span>
 <details open>
 <summary><strong>Data Quality</strong> (1 companies)</summary>
 
@@ -2213,6 +2281,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="data-room"></span>
 <details open>
 <summary><strong>Data Room</strong> (1 companies)</summary>
 
@@ -2244,6 +2313,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="data-science"></span>
 <details open>
 <summary><strong>Data Science</strong> (4 companies)</summary>
 
@@ -2278,6 +2348,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="data-security"></span>
 <details open>
 <summary><strong>Data Security</strong> (1 companies)</summary>
 
@@ -2309,6 +2380,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="data-streaming"></span>
 <details open>
 <summary><strong>Data Streaming</strong> (6 companies)</summary>
 
@@ -2345,6 +2417,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="data-visualization"></span>
 <details open>
 <summary><strong>Data Visualization</strong> (4 companies)</summary>
 
@@ -2379,6 +2452,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="database"></span>
 <details open>
 <summary><strong>Database</strong> (41 companies)</summary>
 
@@ -2450,6 +2524,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="decentralized"></span>
 <details open>
 <summary><strong>Decentralized</strong> (7 companies)</summary>
 
@@ -2487,6 +2562,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="decentralized-identity"></span>
 <details open>
 <summary><strong>Decentralized Identity</strong> (1 companies)</summary>
 
@@ -2518,6 +2594,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="deepfake-detection"></span>
 <details open>
 <summary><strong>Deepfake Detection</strong> (1 companies)</summary>
 
@@ -2549,6 +2626,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="deployment"></span>
 <details open>
 <summary><strong>Deployment</strong> (5 companies)</summary>
 
@@ -2584,6 +2662,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="design-tools"></span>
 <details open>
 <summary><strong>Design Tools</strong> (3 companies)</summary>
 
@@ -2617,6 +2696,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="desktop"></span>
 <details open>
 <summary><strong>Desktop</strong> (1 companies)</summary>
 
@@ -2648,6 +2728,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="devops"></span>
 <details open>
 <summary><strong>DevOps</strong> (9 companies)</summary>
 
@@ -2687,6 +2768,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="devsecops"></span>
 <details open>
 <summary><strong>DevSecOps</strong> (1 companies)</summary>
 
@@ -2718,6 +2800,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="developer-tools"></span>
 <details open>
 <summary><strong>Developer Tools</strong> (37 companies)</summary>
 
@@ -2785,6 +2868,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="diagramming"></span>
 <details open>
 <summary><strong>Diagramming</strong> (2 companies)</summary>
 
@@ -2817,6 +2901,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="differential-privacy"></span>
 <details open>
 <summary><strong>Differential Privacy</strong> (1 companies)</summary>
 
@@ -2848,6 +2933,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="distributed-computing"></span>
 <details open>
 <summary><strong>Distributed Computing</strong> (1 companies)</summary>
 
@@ -2879,6 +2965,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="distributed-systems"></span>
 <details open>
 <summary><strong>Distributed Systems</strong> (4 companies)</summary>
 
@@ -2913,6 +3000,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="document-processing"></span>
 <details open>
 <summary><strong>Document Processing</strong> (1 companies)</summary>
 
@@ -2944,6 +3032,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="documentation"></span>
 <details open>
 <summary><strong>Documentation</strong> (5 companies)</summary>
 
@@ -2979,6 +3068,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="e-signature"></span>
 <details open>
 <summary><strong>E-signature</strong> (1 companies)</summary>
 
@@ -3010,6 +3100,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="ehr"></span>
 <details open>
 <summary><strong>EHR</strong> (1 companies)</summary>
 
@@ -3041,6 +3132,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="erp"></span>
 <details open>
 <summary><strong>ERP</strong> (1 companies)</summary>
 
@@ -3072,6 +3164,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="etl"></span>
 <details open>
 <summary><strong>ETL</strong> (1 companies)</summary>
 
@@ -3103,6 +3196,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="ecommerce"></span>
 <details open>
 <summary><strong>Ecommerce</strong> (5 companies)</summary>
 
@@ -3138,6 +3232,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="edge-ai"></span>
 <details open>
 <summary><strong>Edge AI</strong> (2 companies)</summary>
 
@@ -3170,6 +3265,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="edge-computing"></span>
 <details open>
 <summary><strong>Edge Computing</strong> (2 companies)</summary>
 
@@ -3202,6 +3298,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="email-marketing"></span>
 <details open>
 <summary><strong>Email Marketing</strong> (1 companies)</summary>
 
@@ -3233,6 +3330,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="embedded-systems"></span>
 <details open>
 <summary><strong>Embedded Systems</strong> (4 companies)</summary>
 
@@ -3267,6 +3365,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="embeddings"></span>
 <details open>
 <summary><strong>Embeddings</strong> (1 companies)</summary>
 
@@ -3298,6 +3397,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="enterprise-search"></span>
 <details open>
 <summary><strong>Enterprise Search</strong> (1 companies)</summary>
 
@@ -3329,6 +3429,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="file-storage"></span>
 <details open>
 <summary><strong>File Storage</strong> (1 companies)</summary>
 
@@ -3360,6 +3461,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="fintech"></span>
 <details open>
 <summary><strong>Fintech</strong> (2 companies)</summary>
 
@@ -3392,6 +3494,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="form-builder"></span>
 <details open>
 <summary><strong>Form Builder</strong> (1 companies)</summary>
 
@@ -3423,6 +3526,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="gpu-computing"></span>
 <details open>
 <summary><strong>GPU Computing</strong> (2 companies)</summary>
 
@@ -3455,6 +3559,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="gaming"></span>
 <details open>
 <summary><strong>Gaming</strong> (1 companies)</summary>
 
@@ -3486,6 +3591,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="generative-ai"></span>
 <details open>
 <summary><strong>Generative AI</strong> (3 companies)</summary>
 
@@ -3519,6 +3625,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="geospatial"></span>
 <details open>
 <summary><strong>Geospatial</strong> (2 companies)</summary>
 
@@ -3551,6 +3658,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="graphql"></span>
 <details open>
 <summary><strong>GraphQL</strong> (8 companies)</summary>
 
@@ -3589,6 +3697,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="healthtech"></span>
 <details open>
 <summary><strong>HealthTech</strong> (1 companies)</summary>
 
@@ -3620,6 +3729,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="ide"></span>
 <details open>
 <summary><strong>IDE</strong> (5 companies)</summary>
 
@@ -3655,6 +3765,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="identity-management"></span>
 <details open>
 <summary><strong>Identity Management</strong> (4 companies)</summary>
 
@@ -3689,6 +3800,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="image-generation"></span>
 <details open>
 <summary><strong>Image Generation</strong> (3 companies)</summary>
 
@@ -3722,6 +3834,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="in-memory-database"></span>
 <details open>
 <summary><strong>In-Memory Database</strong> (1 companies)</summary>
 
@@ -3753,6 +3866,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="inference"></span>
 <details open>
 <summary><strong>Inference</strong> (3 companies)</summary>
 
@@ -3786,6 +3900,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="infrastructure-as-code"></span>
 <details open>
 <summary><strong>Infrastructure as Code</strong> (3 companies)</summary>
 
@@ -3819,6 +3934,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="integration-frameworks"></span>
 <details open>
 <summary><strong>Integration Frameworks</strong> (2 companies)</summary>
 
@@ -3851,6 +3967,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="iot"></span>
 <details open>
 <summary><strong>IoT</strong> (4 companies)</summary>
 
@@ -3885,6 +4002,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="knowledge-management"></span>
 <details open>
 <summary><strong>Knowledge Management</strong> (2 companies)</summary>
 
@@ -3917,6 +4035,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="kubernetes"></span>
 <details open>
 <summary><strong>Kubernetes</strong> (10 companies)</summary>
 
@@ -3957,6 +4076,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="large-language-models"></span>
 <details open>
 <summary><strong>Large Language Models</strong> (24 companies)</summary>
 
@@ -4011,6 +4131,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="linux"></span>
 <details open>
 <summary><strong>Linux</strong> (2 companies)</summary>
 
@@ -4043,6 +4164,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="localization"></span>
 <details open>
 <summary><strong>Localization</strong> (1 companies)</summary>
 
@@ -4074,6 +4196,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="low-code"></span>
 <details open>
 <summary><strong>Low-Code</strong> (5 companies)</summary>
 
@@ -4109,6 +4232,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="mlops"></span>
 <details open>
 <summary><strong>MLOps</strong> (4 companies)</summary>
 
@@ -4143,6 +4267,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="machine-learning"></span>
 <details open>
 <summary><strong>Machine Learning</strong> (11 companies)</summary>
 
@@ -4184,6 +4309,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="messaging"></span>
 <details open>
 <summary><strong>Messaging</strong> (4 companies)</summary>
 
@@ -4218,6 +4344,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="mobile-development"></span>
 <details open>
 <summary><strong>Mobile Development</strong> (2 companies)</summary>
 
@@ -4250,6 +4377,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="model-monitoring"></span>
 <details open>
 <summary><strong>Model Monitoring</strong> (3 companies)</summary>
 
@@ -4283,6 +4411,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="monitoring"></span>
 <details open>
 <summary><strong>Monitoring</strong> (6 companies)</summary>
 
@@ -4319,6 +4448,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="multi-agent-systems"></span>
 <details open>
 <summary><strong>Multi-Agent Systems</strong> (1 companies)</summary>
 
@@ -4350,6 +4480,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="natural-language-processing"></span>
 <details open>
 <summary><strong>Natural Language Processing</strong> (3 companies)</summary>
 
@@ -4383,6 +4514,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="network-monitoring"></span>
 <details open>
 <summary><strong>Network Monitoring</strong> (1 companies)</summary>
 
@@ -4414,6 +4546,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="networking"></span>
 <details open>
 <summary><strong>Networking</strong> (2 companies)</summary>
 
@@ -4446,6 +4579,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="no-code"></span>
 <details open>
 <summary><strong>No-Code</strong> (5 companies)</summary>
 
@@ -4481,6 +4615,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="note-taking"></span>
 <details open>
 <summary><strong>Note-Taking</strong> (2 companies)</summary>
 
@@ -4513,6 +4648,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="observability"></span>
 <details open>
 <summary><strong>Observability</strong> (7 companies)</summary>
 
@@ -4550,6 +4686,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="package-management"></span>
 <details open>
 <summary><strong>Package Management</strong> (1 companies)</summary>
 
@@ -4581,6 +4718,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="payments"></span>
 <details open>
 <summary><strong>Payments</strong> (2 companies)</summary>
 
@@ -4613,6 +4751,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="performance-monitoring"></span>
 <details open>
 <summary><strong>Performance Monitoring</strong> (1 companies)</summary>
 
@@ -4644,6 +4783,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="privacy"></span>
 <details open>
 <summary><strong>Privacy</strong> (5 companies)</summary>
 
@@ -4679,6 +4819,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="productivity"></span>
 <details open>
 <summary><strong>Productivity</strong> (2 companies)</summary>
 
@@ -4711,6 +4852,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="project-management"></span>
 <details open>
 <summary><strong>Project Management</strong> (2 companies)</summary>
 
@@ -4743,6 +4885,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="quantum-computing"></span>
 <details open>
 <summary><strong>Quantum Computing</strong> (2 companies)</summary>
 
@@ -4775,6 +4918,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="rag"></span>
 <details open>
 <summary><strong>RAG</strong> (4 companies)</summary>
 
@@ -4809,6 +4953,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="real-time-collaboration"></span>
 <details open>
 <summary><strong>Real-time collaboration</strong> (1 companies)</summary>
 
@@ -4840,6 +4985,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="red-teaming"></span>
 <details open>
 <summary><strong>Red Teaming</strong> (1 companies)</summary>
 
@@ -4871,6 +5017,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="remote-desktop"></span>
 <details open>
 <summary><strong>Remote Desktop</strong> (1 companies)</summary>
 
@@ -4902,6 +5049,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="retrieval-augmented-generation"></span>
 <details open>
 <summary><strong>Retrieval-Augmented Generation</strong> (1 companies)</summary>
 
@@ -4933,6 +5081,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="reverse-proxy"></span>
 <details open>
 <summary><strong>Reverse Proxy</strong> (1 companies)</summary>
 
@@ -4964,6 +5113,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="rich-text-editor"></span>
 <details open>
 <summary><strong>Rich Text Editor</strong> (1 companies)</summary>
 
@@ -4995,6 +5145,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="scheduling"></span>
 <details open>
 <summary><strong>Scheduling</strong> (2 companies)</summary>
 
@@ -5027,6 +5178,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="search"></span>
 <details open>
 <summary><strong>Search</strong> (7 companies)</summary>
 
@@ -5064,6 +5216,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="search-engine"></span>
 <details open>
 <summary><strong>Search Engine</strong> (1 companies)</summary>
 
@@ -5095,6 +5248,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="secrets-management"></span>
 <details open>
 <summary><strong>Secrets Management</strong> (1 companies)</summary>
 
@@ -5126,6 +5280,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="security"></span>
 <details open>
 <summary><strong>Security</strong> (4 companies)</summary>
 
@@ -5160,6 +5315,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="simulation"></span>
 <details open>
 <summary><strong>Simulation</strong> (1 companies)</summary>
 
@@ -5191,6 +5347,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="social-media"></span>
 <details open>
 <summary><strong>Social Media</strong> (3 companies)</summary>
 
@@ -5224,6 +5381,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="speech-recognition"></span>
 <details open>
 <summary><strong>Speech Recognition</strong> (1 companies)</summary>
 
@@ -5255,6 +5413,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="storage"></span>
 <details open>
 <summary><strong>Storage</strong> (1 companies)</summary>
 
@@ -5286,6 +5445,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="supply-chain-security"></span>
 <details open>
 <summary><strong>Supply Chain Security</strong> (2 companies)</summary>
 
@@ -5318,6 +5478,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="survey"></span>
 <details open>
 <summary><strong>Survey</strong> (1 companies)</summary>
 
@@ -5349,6 +5510,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="synthetic-data"></span>
 <details open>
 <summary><strong>Synthetic Data</strong> (1 companies)</summary>
 
@@ -5380,6 +5542,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="testing"></span>
 <details open>
 <summary><strong>Testing</strong> (3 companies)</summary>
 
@@ -5413,6 +5576,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="text-to-speech"></span>
 <details open>
 <summary><strong>Text-to-Speech</strong> (2 companies)</summary>
 
@@ -5445,6 +5609,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="time-series"></span>
 <details open>
 <summary><strong>Time Series</strong> (1 companies)</summary>
 
@@ -5476,6 +5641,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="transcription"></span>
 <details open>
 <summary><strong>Transcription</strong> (1 companies)</summary>
 
@@ -5507,6 +5673,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="ui-framework"></span>
 <details open>
 <summary><strong>UI Framework</strong> (1 companies)</summary>
 
@@ -5538,6 +5705,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="ui-library"></span>
 <details open>
 <summary><strong>UI Library</strong> (1 companies)</summary>
 
@@ -5569,6 +5737,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="vector-database"></span>
 <details open>
 <summary><strong>Vector Database</strong> (5 companies)</summary>
 
@@ -5604,6 +5773,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="video"></span>
 <details open>
 <summary><strong>Video</strong> (2 companies)</summary>
 
@@ -5636,6 +5806,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="video-conferencing"></span>
 <details open>
 <summary><strong>Video Conferencing</strong> (2 companies)</summary>
 
@@ -5668,6 +5839,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="video-generation"></span>
 <details open>
 <summary><strong>Video Generation</strong> (1 companies)</summary>
 
@@ -5699,6 +5871,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="virtual-machines"></span>
 <details open>
 <summary><strong>Virtual Machines</strong> (1 companies)</summary>
 
@@ -5730,6 +5903,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="virtualization"></span>
 <details open>
 <summary><strong>Virtualization</strong> (1 companies)</summary>
 
@@ -5761,6 +5935,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="voip"></span>
 <details open>
 <summary><strong>VoIP</strong> (1 companies)</summary>
 
@@ -5792,6 +5967,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="voice-recognition"></span>
 <details open>
 <summary><strong>Voice Recognition</strong> (2 companies)</summary>
 
@@ -5824,6 +6000,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="web-analytics"></span>
 <details open>
 <summary><strong>Web Analytics</strong> (1 companies)</summary>
 
@@ -5855,6 +6032,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="web-automation"></span>
 <details open>
 <summary><strong>Web Automation</strong> (1 companies)</summary>
 
@@ -5886,6 +6064,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="web-development"></span>
 <details open>
 <summary><strong>Web Development</strong> (4 companies)</summary>
 
@@ -5920,6 +6099,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="web-framework"></span>
 <details open>
 <summary><strong>Web Framework</strong> (6 companies)</summary>
 
@@ -5956,6 +6136,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="web-scraping"></span>
 <details open>
 <summary><strong>Web Scraping</strong> (1 companies)</summary>
 
@@ -5987,6 +6168,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="webassembly"></span>
 <details open>
 <summary><strong>WebAssembly</strong> (1 companies)</summary>
 
@@ -6018,6 +6200,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="wiki"></span>
 <details open>
 <summary><strong>Wiki</strong> (1 companies)</summary>
 
@@ -6049,6 +6232,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="workflow-automation"></span>
 <details open>
 <summary><strong>Workflow Automation</strong> (3 companies)</summary>
 
@@ -6082,6 +6266,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="workflow-orchestration"></span>
 <details open>
 <summary><strong>Workflow Orchestration</strong> (6 companies)</summary>
 
@@ -6118,6 +6303,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 </details>
 
+<span id="zero-trust"></span>
 <details open>
 <summary><strong>Zero Trust</strong> (2 companies)</summary>
 
