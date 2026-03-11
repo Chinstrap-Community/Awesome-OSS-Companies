@@ -1,5 +1,3 @@
-# Awesome OSS Companies
-
 ![Awesome OSS Companies](banner.png)
 
 This repository serves as a directory of commercial open source software (COSS) companies. A COSS company is a for-profit organization that has built its core business around one or more open source software projects. We aim for this repository to be a valuable resource for developers, entrepreneurs, investors, and anyone interested in the COSS ecosystem.
