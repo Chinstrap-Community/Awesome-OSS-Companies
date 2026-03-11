@@ -11,22 +11,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>A/B Testing</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/growthbook">GrowthBook</a></strong></td><td>Open-source feature flags and A/B testing platform</td><td><a href="https://github.com/growthbook/growthbook">growthbook</a></td><td><a href="https://www.growthbook.io/">GrowthBook</a></td><td><a href="https://cossmology.com/organizations/growthbook/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Experimentation</code>, <code>Feature Flags</code></td></tr>
@@ -40,22 +40,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>AGI</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/sentient-foundation">Sentient Foundation</a></strong></td><td>Non-profit advancing open-source AI technologies</td><td><a href="https://github.com/sentient-agi/OML-1.0-Fingerprinting">OML 1.0</a></td><td><a href="https://sentient.foundation/">Sentient Foundation</a></td><td><a href="https://cossmology.com/organizations/sentient-foundation/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Developer Tools</code></td></tr>
@@ -69,22 +69,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>AI Agents</strong> (34 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/agentscope">AgentScope</a></strong></td><td>Open-source multi-agent AI framework</td><td><a href="https://github.com/agentscope-ai/agentscope">AgentScope</a></td><td><a href="https://agentscope.io/">AgentScope</a></td><td><a href="https://cossmology.com/organizations/agentscope/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Multi-Agent Systems</code>, <code>Python</code></td></tr>
@@ -131,22 +131,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>AI Coding Agents</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/bloop">Bloop</a></strong></td><td>Tools for orchestrating AI coding agents</td><td><a href="https://github.com/BloopAI/vibe-kanban">vibe-kanban</a></td><td><a href="https://bloop.ai">Bloop</a></td><td><a href="https://cossmology.com/organizations/bloop/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>Kanban</code>, <code>Vibe Coding</code></td></tr>
@@ -161,22 +161,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>AI Coding Assistant</strong> (3 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/copilotkit">CopilotKit</a></strong></td><td>Framework for building in-app AI copilots</td><td><a href="https://github.com/CopilotKit/CopilotKit">CopilotKit</a></td><td><a href="https://www.copilotkit.ai/">CopilotKit</a></td><td><a href="https://cossmology.com/organizations/copilotkit/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Automation</code>, <code>Co-Pilot</code></td></tr>
@@ -192,22 +192,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>API Gateway</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/gravitee-io">Gravitee.io</a></strong></td><td>API management platform for APIs, events, AI.</td><td><a href="https://github.com/gravitee-io/gravitee-api-management">gravitee-api-management</a></td><td><a href="https://www.gravitee.io/">Gravitee.io</a></td><td><a href="https://cossmology.com/organizations/gravitee-io/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API</code>, <code>Apache Kafka</code></td></tr>
@@ -222,22 +222,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>API Management</strong> (5 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/buf">Buf</a></strong></td><td>Schema-driven development for Kafka and gRPC</td><td><a href="https://github.com/bufbuild/buf">buf</a></td><td><a href="https://buf.build/">Buf</a></td><td><a href="https://cossmology.com/organizations/buf/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Go</code>, <code>Protocol Buffers</code>, <code>gRPC</code></td></tr>
@@ -255,22 +255,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>API Platform</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/apollo-graphql">Apollo GraphQL</a></strong></td><td>Apollo GraphQL provides a GraphQL API platform.</td><td><a href="https://github.com/apollographql/apollo-client">Apollo GraphQL - GraphQL implementation for JavaScript</a></td><td><a href="https://www.apollographql.com/">Apollo GraphQL</a></td><td><a href="https://cossmology.com/organizations/apollo-graphql/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API Management</code>, <code>GraphQL</code></td></tr>
@@ -285,22 +285,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>API Security</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/metlo">Metlo</a></strong></td><td>Open-source API security platform</td><td><a href="https://github.com/metlo-labs/metlo">metlo</a></td><td><a href="https://www.metlo.com/">Metlo</a></td><td><a href="https://cossmology.com/organizations/metlo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Attack Detection</code>, <code>Cybersecurity</code></td></tr>
@@ -314,22 +314,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Advanced Materials</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/mentra">Mentra</a></strong></td><td>Open-source smart glasses operating system</td><td><a href="https://github.com/Mentra-Community/MentraOS">MentraOS</a></td><td><a href="https://mentra.glass/">Mentra</a></td><td><a href="https://cossmology.com/organizations/mentra/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Innovative Glass</code>, <code>Optics</code>, <code>Smart Glasses</code></td></tr>
@@ -343,22 +343,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Alerting</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/keep">Keep</a></strong></td><td>Alert management and monitoring platform</td><td><a href="https://github.com/keephq/keep">keep</a></td><td><a href="https://www.keephq.dev/">Keep</a></td><td><a href="https://cossmology.com/organizations/keep/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Automation</code>, <code>Monitoring</code></td></tr>
@@ -372,22 +372,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Analytics</strong> (17 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/cloudera">Cloudera</a></strong></td><td>Hybrid data, analytics, and AI platform provider.</td><td><a href="https://github.com/cloudera">Cloudera</a></td><td><a href="htps://cloudera.com">Cloudera</a></td><td><a href="https://cossmology.com/organizations/cloudera/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Big Data</code>, <code>Cloud</code>, <code>Hadoop</code></td></tr>
@@ -417,22 +417,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Animation</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/theatre-js">Theatre.js</a></strong></td><td>JavaScript animation library for web motion</td><td><a href="https://github.com/theatre-js/theatre">Motion Design Editor</a></td><td><a href="https://www.theatrejs.com/">Theatre.js</a></td><td><a href="https://cossmology.com/organizations/theatre-js/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Design Tools</code>, <code>JavaScript</code></td></tr>
@@ -446,22 +446,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>App Deployment</strong> (3 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/bknd">bknd</a></strong></td><td>Lightweight backend for app development</td><td><a href="https://github.com/bknd-io/bknd">bknd</a></td><td><a href="https://bknd.io/">bknd</a></td><td><a href="https://cossmology.com/organizations/bknd/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Backend</code>, <code>Database</code>, <code>Node.js</code></td></tr>
@@ -477,22 +477,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Audio</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/parallax">Parallax</a></strong></td><td>Platform for producing studio-quality AI podcasts.</td><td><a href="https://github.com/iboughtbed/ai-podcast">Parallax</a></td><td><a href="https://prllxhq.com/">Parallax</a></td><td><a href="https://cossmology.com/organizations/parallax/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Podcasts</code></td></tr>
@@ -506,22 +506,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Authentication</strong> (8 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/authzed">authzed</a></strong></td><td>Authzed offers authorization infrastructure.</td><td><a href="https://github.com/authzed/spicedb">SpiceDB</a></td><td><a href="https://authzed.com/">authzed</a></td><td><a href="https://cossmology.com/organizations/authzed/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Access Control</code>, <code>Authorization</code></td></tr>
@@ -542,22 +542,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Authorization</strong> (4 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/cerbos">Cerbos</a></strong></td><td>Open-source authorization & access control system.</td><td><a href="https://github.com/cerbos/cerbos">Cerbos</a></td><td><a href="https://cerbos.dev/">Cerbos</a></td><td><a href="https://cossmology.com/organizations/cerbos/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Access Control</code>, <code>Policy Enforcement</code></td></tr>
@@ -574,22 +574,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Autonomous Vehicles</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/comma-ai">comma.ai</a></strong></td><td>AI-powered driver assistance system for cars</td><td><a href="https://github.com/commaai/openpilot">openpilot</a></td><td><a href="https://comma.ai/">comma.ai</a></td><td><a href="https://cossmology.com/organizations/comma-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>ADAS</code>, <code>Machine Learning</code></td></tr>
@@ -603,22 +603,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>BPM</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/bonitasoft">Bonitasoft</a></strong></td><td>Business Process Automation platform</td><td><a href="https://github.com/bonitasoft/bonita-platform-releases">Bonita Platform</a></td><td><a href="https://www.bonitasoft.com/">Bonitasoft</a></td><td><a href="https://cossmology.com/organizations/bonitasoft/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Low-Code</code>, <code>Workflow Automation</code></td></tr>
@@ -632,22 +632,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Batch Processing</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/lakesail">Lakesail</a></strong></td><td>Unified framework for batch, stream, and AI</td><td><a href="https://github.com/lakehq/sail">Lakesail</a></td><td><a href="https://lakesail.com/">Lakesail</a></td><td><a href="https://cossmology.com/organizations/lakesail/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Analytics</code>, <code>Query Engine</code>, <code>Stream Processing</code></td></tr>
@@ -661,22 +661,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Billing</strong> (4 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/autumn">Autumn</a></strong></td><td>Stripe for AI Companies</td><td><a href="https://github.com/useautumn/autumn">autumn</a></td><td><a href="https://useautumn.com/">Autumn</a></td><td><a href="https://cossmology.com/organizations/autumn/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Fintech</code>, <code>Payments</code></td></tr>
@@ -693,22 +693,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Biotech</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/chai-discovery">Chai Discovery</a></strong></td><td>AI for molecular engineering and antibody design.</td><td><a href="https://github.com/chaidiscovery/chai-lab">Chai-1</a></td><td><a href="https://www.chaidiscovery.com/">Chai Discovery</a></td><td><a href="https://cossmology.com/organizations/chai-discovery/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Pharmatech</code></td></tr>
@@ -722,22 +722,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Blockchain</strong> (11 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/anoma">Anoma</a></strong></td><td>Distributed OS for intent-centric applications.</td><td><a href="https://github.com/anoma/anoma">anoma</a></td><td><a href="https://anoma.net/">Anoma</a></td><td><a href="https://cossmology.com/organizations/anoma/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Decentralization</code>, <code>Privacy</code></td></tr>
@@ -761,22 +761,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Business Intelligence</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/metabase">Metabase</a></strong></td><td>Open-source business intelligence platform</td><td><a href="https://github.com/metabase/metabase">Metabase</a></td><td><a href="https://www.metabase.com/">Metabase</a></td><td><a href="https://cossmology.com/organizations/metabase/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Analytics</code>, <code>Data Visualization</code></td></tr>
@@ -790,22 +790,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Business Process Automation</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/midday">Midday</a></strong></td><td>AI-powered business management platform</td><td><a href="https://github.com/midday-ai/midday">Midday</a></td><td><a href="https://midday.ai/">Midday</a></td><td><a href="https://cossmology.com/organizations/midday/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Fintech</code>, <code>Invoicing</code>, <code>Time Tracking</code></td></tr>
@@ -820,22 +820,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>CI/CD</strong> (7 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/bytebase">Bytebase</a></strong></td><td>Database CI/CD, security, data masking platform.</td><td><a href="https://github.com/bytebase/bytebase">Bytebase</a></td><td><a href="https://www.bytebase.com/">Bytebase</a></td><td><a href="https://cossmology.com/organizations/bytebase/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Database</code>, <code>DevOps</code></td></tr>
@@ -855,22 +855,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>CMS</strong> (6 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/automattic">Automattic</a></strong></td><td>Web publishing and e-commerce platforms</td><td><a href="https://github.com/WordPress/WordPress">WordPress</a></td><td><a href="https://automattic.com/">Automattic</a></td><td><a href="https://cossmology.com/organizations/automattic/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blog</code>, <code>Ecommerce</code>, <code>PHP</code>, <code>Web Publishing</code></td></tr>
@@ -889,22 +889,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>CPaaS</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/2600hz">2600Hz</a></strong></td><td>White label unified communications platform</td><td><a href="https://github.com/2600hz/kazoo">kazoo</a></td><td><a href="https://www.2600hz.com/">2600Hz</a></td><td><a href="https://cossmology.com/organizations/2600hz/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>UCaaS</code>, <code>VoIP</code></td></tr>
@@ -918,22 +918,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>CRM</strong> (6 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/erxes-inc">erxes Inc</a></strong></td><td>Open-source experience operating system</td><td><a href="https://github.com/erxes/erxes">erxes</a></td><td><a href="https://erxes.io/">erxes Inc</a></td><td><a href="https://cossmology.com/organizations/erxes-inc/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>ERP</code>, <code>Plugins</code></td></tr>
@@ -952,22 +952,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Caching</strong> (3 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/earthly-technologies-inc">Earthly Technologies, Inc.</a></strong></td><td>SDLC monitoring & policy enforcement platform</td><td><a href="https://github.com/earthly/earthly">earthly</a></td><td><a href="https://earthly.dev/">Earthly Technologies, Inc.</a></td><td><a href="https://cossmology.com/organizations/earthly-technologies-inc/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Build Automation</code>, <code>CI/CD</code>, <code>Containerization</code></td></tr>
@@ -983,22 +983,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Calendar</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/cal-com">Cal.com</a></strong></td><td>Open-source scheduling software for meetings.</td><td><a href="https://github.com/calcom/cal.com">Cal.com</a></td><td><a href="https://cal.com/">Cal.com</a></td><td><a href="https://cossmology.com/organizations/cal-com/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>SaaS</code>, <code>Scheduling</code></td></tr>
@@ -1013,22 +1013,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Charging</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/chargelab">ChargeLab</a></strong></td><td>Software for EV charging businesses</td><td><a href="https://github.com/ChargeLab/OpenOCPP/">OpenOCPP</a></td><td><a href="https://chargelab.co/">ChargeLab</a></td><td><a href="https://cossmology.com/organizations/chargelab/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>EV</code>, <code>Hardware Infrastructure</code></td></tr>
@@ -1042,22 +1042,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Chatbot</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/botpress">Botpress</a></strong></td><td>AI agent platform for chatbots and assistants</td><td><a href="https://github.com/botpress/botpress">Botpress</a></td><td><a href="https://botpress.com/">Botpress</a></td><td><a href="https://cossmology.com/organizations/botpress/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Conversational AI</code>, <code>TypeScript</code></td></tr>
@@ -1072,22 +1072,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Chrome Extension</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/brie">Brie</a></strong></td><td>Bug capture browser extension for developers</td><td><a href="https://github.com/briehq/brie-extension">Brie Extension</a></td><td><a href="https://brie.io/">Brie</a></td><td><a href="https://cossmology.com/organizations/brie/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Debugging</code>, <code>JavaScript</code>, <code>QA</code></td></tr>
@@ -1102,22 +1102,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Cloud Cost Management</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/infracost">Infracost</a></strong></td><td>Cloud cost management and FinOps for engineers.</td><td><a href="https://github.com/infracost/infracost">Infracost</a></td><td><a href="https://www.infracost.io/">Infracost</a></td><td><a href="https://cossmology.com/organizations/infracost/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud</code>, <code>Terraform</code></td></tr>
@@ -1131,22 +1131,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Cloud Data Warehouse</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/firebolt">Firebolt</a></strong></td><td>Cloud data warehouse for AI and analytics</td><td><a href="https://github.com/firebolt-db/firebolt-core">Firebolt Core</a></td><td><a href="https://www.firebolt.io/">Firebolt</a></td><td><a href="https://cossmology.com/organizations/firebolt/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Apache Iceberg</code>, <code>BI Tools</code>, <code>Big Data Analytics</code>, <code>Cloud Data</code>, <code>Data Lakes</code></td></tr>
@@ -1160,22 +1160,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Cloud Infrastructure</strong> (3 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/localstack-2">LocalStack</a></strong></td><td>Local cloud emulator for AWS development</td><td><a href="https://github.com/localstack/localstack">localstack</a></td><td><a href="https://www.localstack.cloud/">LocalStack</a></td><td><a href="https://cossmology.com/organizations/localstack-2/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AWS</code>, <code>Cloud Emulation</code>, <code>Local Development</code></td></tr>
@@ -1191,22 +1191,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Cloud Platform</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/neon">Neon</a></strong></td><td>Serverless Postgres for cloud-native apps</td><td><a href="https://github.com/neondatabase/neon">Neon</a></td><td><a href="https://neon.tech/">Neon</a></td><td><a href="https://cossmology.com/organizations/neon/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud</code>, <code>PostgreSQL</code>, <code>Serverless</code></td></tr>
@@ -1221,22 +1221,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Cloud Security</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/sysdig">Sysdig</a></strong></td><td>Cloud security with real-time threat detection</td><td><a href="https://github.com/draios/sysdig">Sysdig</a></td><td><a href="https://sysdig.com/">Sysdig</a></td><td><a href="https://cossmology.com/organizations/sysdig/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Containers</code>, <code>Kubernetes</code></td></tr>
@@ -1250,22 +1250,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Code Analysis</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/asterisk">Asterisk</a></strong></td><td>On-premise AI for code intelligence.</td><td><a href="https://github.com/getAsterisk/opcode">opcode</a></td><td><a href="https://asterisk.so/">Asterisk</a></td><td><a href="https://cossmology.com/organizations/asterisk/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Artificial Intelligence</code>, <code>Code Intelligence</code>, <code>Code Quality</code>, <code>Developer Tools</code></td></tr>
@@ -1279,22 +1279,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Code Editor</strong> (3 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/lap">Lap</a></strong></td><td>Self-hosted cloud development environments</td><td><a href="https://github.com/lapce/lapdev">lapdev</a></td><td><a href="https://lap.dev/">Lap</a></td><td><a href="https://cossmology.com/organizations/lap/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>IDE</code>, <code>Rust</code>, <code>UI</code></td></tr>
@@ -1310,22 +1310,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Code Generation</strong> (4 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/amplication">Amplication</a></strong></td><td>Automates & standardizes backend development.</td><td><a href="https://github.com/amplication/amplication">amplication</a></td><td><a href="https://amplication.com/">Amplication</a></td><td><a href="https://cossmology.com/organizations/amplication/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>Vibe Coding</code></td></tr>
@@ -1342,22 +1342,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Code Quality</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/merico">Merico</a></strong></td><td>Open-source code quality and analysis tools</td><td><a href="https://github.com/merico-dev/lake">Apache DevLak</a></td><td><a href="https://www.devinsight.ai/">Merico</a></td><td><a href="https://cossmology.com/organizations/merico/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Code Analysis</code>, <code>Developer Tools</code></td></tr>
@@ -1371,22 +1371,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Collaboration</strong> (8 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/cap">CAP</a></strong></td><td>Open-source screen recording and sharing tool.</td><td><a href="https://github.com/CapSoftware/Cap">selfcustody</a></td><td><a href="https://cap.so/">CAP</a></td><td><a href="https://cossmology.com/organizations/cap/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Messaging</code>, <code>Screen Recording</code></td></tr>
@@ -1407,22 +1407,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Community Platform</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/forem">Forem</a></strong></td><td>Forem: open-source platform for dev communities.</td><td><a href="https://github.com/forem/forem">Forem</a></td><td><a href="https://forem.com/">Forem</a></td><td><a href="https://cossmology.com/organizations/forem/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Ruby on Rails</code>, <code>Social Media</code></td></tr>
@@ -1436,22 +1436,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Compliance</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/collate">Collate</a></strong></td><td>AI platform for data governance, discovery, ops.</td><td><a href="https://github.com/open-metadata/OpenMetadata">OpenMetadata</a></td><td><a href="https://www.getcollate.io/">Collate</a></td><td><a href="https://cossmology.com/organizations/collate/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Discovery</code>, <code>Governance</code>, <code>Metadata</code>, <code>Observability</code></td></tr>
@@ -1466,22 +1466,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Computer Vision</strong> (4 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/deeplivecam">DeepLiveCam</a></strong></td><td>Real-time face swapping and deepfake tool</td><td><a href="https://github.com/hacksider/Deep-Live-Cam">Deep-Live-Cam</a></td><td><a href="https://deeplive.cam/">DeepLiveCam</a></td><td><a href="https://cossmology.com/organizations/deeplivecam/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>Deepfakes</code></td></tr>
@@ -1498,22 +1498,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Container Orchestration</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/canine">Canine</a></strong></td><td>Open source deployment platform for applications</td><td><a href="https://github.com/czhu12/canine">canine</a></td><td><a href="https://canine.sh/">Canine</a></td><td><a href="https://cossmology.com/organizations/canine/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>DevOps</code>, <code>Kubernetes</code></td></tr>
@@ -1527,22 +1527,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Containerization</strong> (3 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/atomicjar">AtomicJar</a></strong></td><td>Containerized test instances library</td><td><a href="https://github.com/testcontainers/">Testcontainers</a></td><td><a href="https://www.atomicjar.com/">AtomicJar</a></td><td><a href="https://cossmology.com/organizations/atomicjar/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Docker</code>, <code>Testing</code></td></tr>
@@ -1558,22 +1558,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Content Aggregation</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/feedbin">Feedbin</a></strong></td><td>A simple, fast, and nice-looking RSS reader.</td><td><a href="https://github.com/feedbin/feedbin">feedbin</a></td><td><a href="https://feedbin.com">Feedbin</a></td><td><a href="https://cossmology.com/organizations/feedbin/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>RSS</code>, <code>Ruby on Rails</code>, <code>SaaS</code></td></tr>
@@ -1588,22 +1588,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Content Management</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/contentport">ContentPort</a></strong></td><td>Open-source X content platform for founders</td><td><a href="https://github.com/joschan21/contentport">ContentPort</a></td><td><a href="https://www.contentport.io">ContentPort</a></td><td><a href="https://cossmology.com/organizations/contentport/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>Social Media</code>, <code>TypeScript</code></td></tr>
@@ -1618,22 +1618,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Continuous Profiling</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/polar-signals">Polar Signals</a></strong></td><td>Continuous profiling for CPU, GPU, and Memory.</td><td><a href="https://github.com/polarsignals/parca">Parca</a></td><td><a href="https://www.polarsignals.com/">Polar Signals</a></td><td><a href="https://cossmology.com/organizations/polar-signals/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Go</code>, <code>Observability</code></td></tr>
@@ -1647,22 +1647,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Cost Management</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/vantage">Vantage</a></strong></td><td>Cloud cost management and optimization platform</td><td><a href="https://github.com/vantage-sh/">vantage</a></td><td><a href="https://www.vantage.sh/">Vantage</a></td><td><a href="https://cossmology.com/organizations/vantage/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud</code>, <code>Optimization</code></td></tr>
@@ -1676,22 +1676,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Cryptography</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/nexus">Nexus</a></strong></td><td>Open source solutions for verifiable computation</td><td><a href="https://github.com/nexus-xyz/nexus-zkvm">Nexus zkVM</a></td><td><a href="https://nexus.xyz/">Nexus</a></td><td><a href="https://cossmology.com/organizations/nexus/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Blockchain</code>, <code>Rust</code>, <code>Verifiable Computation</code>, <code>Zero Knowledge</code></td></tr>
@@ -1706,22 +1706,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Customer Data Platform</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/rudderstack">RudderStack</a></strong></td><td>Customer data platform for real-time data</td><td><a href="https://github.com/rudderlabs/rudder-server">RudderStack</a></td><td><a href="https://www.rudderstack.com/">RudderStack</a></td><td><a href="https://cossmology.com/organizations/rudderstack/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Streaming</code>, <code>Ecommerce</code>, <code>Event Streaming</code></td></tr>
@@ -1735,22 +1735,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Cybersecurity</strong> (7 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/crowdsec">CrowdSec</a></strong></td><td>Collaborative cybersecurity threat intelligence platform</td><td><a href="https://github.com/crowdsecurity/crowdsec">crowdsec</a></td><td><a href="https://www.crowdsec.net/">CrowdSec</a></td><td><a href="https://cossmology.com/organizations/crowdsec/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Collaborative Security</code>, <code>Threat Intelligence</code></td></tr>
@@ -1770,22 +1770,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Dashboard</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/chartbrew">Chartbrew</a></strong></td><td>Client reports for your team and clients</td><td><a href="https://github.com/chartbrew/chartbrew">Chartbrew</a></td><td><a href="https://chartbrew.com/">Chartbrew</a></td><td><a href="https://cossmology.com/organizations/chartbrew/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Charts</code>, <code>Data Modeling</code>, <code>Data Visualization</code></td></tr>
@@ -1800,22 +1800,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Analytics</strong> (11 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/chaos-genius">Chaos Genius</a></strong></td><td>Automates data & AI cost optimization for cloud.</td><td><a href="https://github.com/chaos-genius/chaosgenius">chaosgenius</a></td><td><a href="https://www.chaosgenius.io/">Chaos Genius</a></td><td><a href="https://cossmology.com/organizations/chaos-genius/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Machine Learning</code>, <code>Root Cause</code>, <code>SaaS</code></td></tr>
@@ -1839,22 +1839,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Backup</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/plakar">Plakar</a></strong></td><td>Encrypted, queryable backup solution for engineers</td><td><a href="https://github.com/PlakarKorp/plakar">plakar</a></td><td><a href="https://plakar.io/">Plakar</a></td><td><a href="https://cossmology.com/organizations/plakar/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Archiving</code>, <code>Deduplication</code>, <code>Versioning</code></td></tr>
@@ -1869,22 +1869,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Integration</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/artie">Artie</a></strong></td><td>Automates data ingestion and CDC streaming</td><td><a href="https://github.com/artie-labs">Artie</a></td><td><a href="https://www.artie.com/">Artie</a></td><td><a href="https://cossmology.com/organizations/artie/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Streaming</code>, <code>Event Streaming</code></td></tr>
@@ -1899,22 +1899,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Labeling</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/argilla">Argilla</a></strong></td><td>AI dataset building tool for engineers</td><td><a href="https://github.com/argilla-io/argilla">argilla</a></td><td><a href="https://argilla.io/">Argilla</a></td><td><a href="https://cossmology.com/organizations/argilla/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Data Management</code>, <code>Training Data</code></td></tr>
@@ -1929,22 +1929,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Lake</strong> (5 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/datastrato">DataStrato</a></strong></td><td>Unified data & AI governance platform.</td><td><a href="https://github.com/apache/gravitino">Apache Gravitino</a></td><td><a href="https://datastrato.ai/">DataStrato</a></td><td><a href="https://cossmology.com/organizations/datastrato/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Apache Gravitino</code>, <code>Data Lakehouse</code></td></tr>
@@ -1963,22 +1963,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Lakehouse</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/embucket">Embucket</a></strong></td><td>Modern data cloud for Snowflake workloads</td><td><a href="https://github.com/embucket/embucket">embucket</a></td><td><a href="https://www.embucket.com">Embucket</a></td><td><a href="https://cossmology.com/organizations/embucket/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Apache DataFusion</code>, <code>Apache Iceberg</code></td></tr>
@@ -1992,22 +1992,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Orchestration</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/alluxio">Alluxio</a></strong></td><td>Alluxio accelerates AI workloads and GPU use.</td><td><a href="https://github.com/Alluxio/alluxio">Alluxio</a></td><td><a href="https://www.alluxio.io/">Alluxio</a></td><td><a href="https://cossmology.com/organizations/alluxio/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud</code>, <code>Data Lake</code></td></tr>
@@ -2022,22 +2022,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Pipelines</strong> (5 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/airbyte">Airbyte</a></strong></td><td>Open-source data integration platform</td><td><a href="https://github.com/airbytehq/airbyte">Airbyte</a></td><td><a href="https://airbyte.com">Airbyte</a></td><td><a href="https://cossmology.com/organizations/airbyte/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Lakes</code>, <code>Data Warehousing</code></td></tr>
@@ -2055,22 +2055,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Quality</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/great-expectations">Great Expectations</a></strong></td><td>Data quality platform and framework.</td><td><a href="https://github.com/great-expectations/great_expectations">great_expectations</a></td><td><a href="https://greatexpectations.io/">Great Expectations</a></td><td><a href="https://cossmology.com/organizations/great-expectations/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Profiling</code>, <code>Data Validation</code></td></tr>
@@ -2084,22 +2084,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Room</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/papermark">Papermark</a></strong></td><td>Open source document sharing and tracking platform</td><td><a href="https://github.com/mfts/papermark">Papermark</a></td><td><a href="https://papermark.com">Papermark</a></td><td><a href="https://cossmology.com/organizations/papermark/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Store</code>, <code>Document Management</code></td></tr>
@@ -2113,22 +2113,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Science</strong> (4 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/anaconda">Anaconda</a></strong></td><td>Unified AI platform for open-source data science.</td><td><a href="https://github.com/anaconda/anaconda-project">anaconda</a></td><td><a href="https://www.anaconda.com/">Anaconda</a></td><td><a href="https://cossmology.com/organizations/anaconda/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Python</code></td></tr>
@@ -2145,22 +2145,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Security</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/virtru">Virtru</a></strong></td><td>Data-centric security for email, files, and apps.</td><td><a href="https://github.com/opentdf/spec/">tdf-spec</a></td><td><a href="https://www.virtru.com/">Virtru</a></td><td><a href="https://cossmology.com/organizations/virtru/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Encryption</code>, <code>Privacy</code></td></tr>
@@ -2174,22 +2174,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Streaming</strong> (6 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/aiven">Aiven</a></strong></td><td>Open source cloud data platform</td><td><a href="https://github.com/aiven-open">Aiven Open</a></td><td><a href="https://aiven.io/">Aiven</a></td><td><a href="https://cossmology.com/organizations/aiven/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Apache Kafka</code>, <code>Cloud</code>, <code>Data Infrastructure</code></td></tr>
@@ -2208,22 +2208,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Visualization</strong> (4 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/magnitude">Magnitude</a></strong></td><td>AI observability and anomaly detection platform</td><td><a href="https://github.com/magnitudedev/magnitude">magnitude</a></td><td><a href="https://magnitude.run/">Magnitude</a></td><td><a href="https://cossmology.com/organizations/magnitude/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Machine Learning</code>, <code>statistical analysis</code></td></tr>
@@ -2240,22 +2240,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Database</strong> (41 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/affine">Affine</a></strong></td><td>All-in-one workspace for docs and databases</td><td><a href="https://github.com/toeverything/AFFiNE">affine</a></td><td><a href="https://affine.pro/">Affine</a></td><td><a href="https://cossmology.com/organizations/affine/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Collaborative Tools</code>, <code>Integrations</code>, <code>Productivity Software</code>, <code>Web Technologies</code></td></tr>
@@ -2309,22 +2309,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Decentralized</strong> (7 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/bittensor">Bittensor</a></strong></td><td>An open-source platform for decentralized AI.</td><td><a href="https://github.com/opentensor/bittensor">Bittensor</a></td><td><a href="https://bittensor.com/">Bittensor</a></td><td><a href="https://cossmology.com/organizations/bittensor/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Machine Learning</code></td></tr>
@@ -2344,22 +2344,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Decentralized Identity</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/indicio">Indicio</a></strong></td><td>Decentralized identity & credential solutions</td><td><a href="https://github.com/Indicio-tech/pydid">pydid</a></td><td><a href="https://indicio.tech/">Indicio</a></td><td><a href="https://cossmology.com/organizations/indicio/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Digital Credentials</code></td></tr>
@@ -2373,22 +2373,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Deepfake Detection</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/resemble-ai">Resemble AI</a></strong></td><td>Voice AI platform for generation & detection</td><td><a href="https://github.com/resemble-ai/chatterbox">Chatterbox</a></td><td><a href="https://www.resemble.ai/">Resemble AI</a></td><td><a href="https://cossmology.com/organizations/resemble-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Voice Synthesis</code></td></tr>
@@ -2402,22 +2402,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Deployment</strong> (5 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/edgee">Edgee</a></strong></td><td>Edgee: Deploy WebAssembly components at the edge.</td><td><a href="https://github.com/edgee-cloud/edgee">Edgee</a></td><td><a href="https://www.edgee.cloud/">Edgee</a></td><td><a href="https://cossmology.com/organizations/edgee/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Edge Computing</code>, <code>Orchestration</code></td></tr>
@@ -2435,22 +2435,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Design Tools</strong> (3 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/font-awesome">Font Awesome</a></strong></td><td>Icon library and toolkit for web design.</td><td><a href="https://github.com/FortAwesome/Font-Awesome">Font Awesome</a></td><td><a href="https://fontawesome.com/">Font Awesome</a></td><td><a href="https://cossmology.com/organizations/font-awesome/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>CSS</code>, <code>Design Systems</code></td></tr>
@@ -2466,22 +2466,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Desktop</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/crabnebula">CrabNebula</a></strong></td><td>Cross-platform app development tools</td><td><a href="https://github.com/tauri-apps/tauri">Tauri</a></td><td><a href="https://crabnebula.dev/">CrabNebula</a></td><td><a href="https://cossmology.com/organizations/crabnebula/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Rust</code>, <code>Tauri</code></td></tr>
@@ -2495,22 +2495,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>DevOps</strong> (9 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/cloudbees">Cloudbees</a></strong></td><td>AI-powered DevOps and software delivery platform.</td><td><a href="https://github.com/jenkinsci/jenkins">Jenkins</a></td><td><a href="https://www.cloudbees.com/">Cloudbees</a></td><td><a href="https://cossmology.com/organizations/cloudbees/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>CI/CD</code>, <code>Cloud</code></td></tr>
@@ -2532,22 +2532,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>DevSecOps</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/gitlab">GitLab</a></strong></td><td>AI-powered DevSecOps platform</td><td><a href="https://github.com/gitlabhq/gitlabhq">GitLab - DevSecOps platform</a></td><td><a href="https://gitlab.com">GitLab</a></td><td><a href="https://cossmology.com/organizations/gitlab/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>CI/CD</code>, <code>Version Control</code></td></tr>
@@ -2561,22 +2561,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Developer Tools</strong> (37 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/all-hands">All Hands</a></strong></td><td>Open-source AI coding agent for software dev.</td><td><a href="https://github.com/All-Hands-AI/OpenHands">OpenHands</a></td><td><a href="https://www.all-hands.dev/">All Hands</a></td><td><a href="https://cossmology.com/organizations/all-hands/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Vibe Coding</code></td></tr>
@@ -2626,22 +2626,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Diagramming</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/excalidraw">Excalidraw</a></strong></td><td>Collaborative whiteboard with hand-drawn feel</td><td><a href="https://github.com/excalidraw/excalidraw">Excalidraw</a></td><td><a href="https://excalidraw.com/">Excalidraw</a></td><td><a href="https://cossmology.com/organizations/excalidraw/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Collaboration</code>, <code>React</code></td></tr>
@@ -2656,22 +2656,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Differential Privacy</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/flower-ai">Flower AI</a></strong></td><td>Framework for federated AI learning</td><td><a href="https://github.com/flower-ai/">flower</a></td><td><a href="https://flower.ai/">Flower AI</a></td><td><a href="https://cossmology.com/organizations/flower-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Federated Learning</code>, <code>MLOps</code></td></tr>
@@ -2685,22 +2685,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Distributed Computing</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/anyscale">Anyscale</a></strong></td><td>AI compute platform built on Ray</td><td><a href="https://github.com/ray-project/ray">Ray</a></td><td><a href="https://anyscale.com">Anyscale</a></td><td><a href="https://cossmology.com/organizations/anyscale/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Infrastructure</code>, <code>Machine Learning</code></td></tr>
@@ -2714,22 +2714,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Distributed Systems</strong> (4 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/akka">Akka</a></strong></td><td>Akka builds and evaluates agentic AI systems.</td><td><a href="https://github.com/akka/akka">akka</a></td><td><a href="https://akka.io/">Akka</a></td><td><a href="https://cossmology.com/organizations/akka/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Actor Model</code>, <code>Concurrency</code>, <code>Fault Tolerance</code></td></tr>
@@ -2746,22 +2746,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Document Processing</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/stirling-pdf">Stirling PDF</a></strong></td><td>Self-hosted PDF application with 50+ tools</td><td><a href="https://github.com/Stirling-Tools/Stirling-PDF">Stirling PDF</a></td><td><a href="https://www.stirlingpdf.com/">Stirling PDF</a></td><td><a href="https://cossmology.com/organizations/stirling-pdf/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>PDF</code>, <code>Productivity Tools</code></td></tr>
@@ -2775,22 +2775,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Documentation</strong> (5 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/fern">Fern</a></strong></td><td>API documentation and SDK generation platform</td><td><a href="https://github.com/fern-api/fern">Fern - API development toolkit</a></td><td><a href="https://buildwithfern.com/">Fern</a></td><td><a href="https://cossmology.com/organizations/fern/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API</code>, <code>SDK</code></td></tr>
@@ -2808,22 +2808,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>E-signature</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/documenso">Documenso</a></strong></td><td>Open-source e-signature platform for businesses</td><td><a href="https://github.com/documenso/documenso">Documenso</a></td><td><a href="https://documenso.com/">Documenso</a></td><td><a href="https://cossmology.com/organizations/documenso/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Document Management</code>, <code>TypeScript</code></td></tr>
@@ -2837,22 +2837,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>EHR</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/medplum">Medplum</a></strong></td><td>Open source healthcare developer platform</td><td><a href="https://github.com/medplum/medplum">Medplum</a></td><td><a href="https://www.medplum.com/">Medplum</a></td><td><a href="https://cossmology.com/organizations/medplum/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API</code>, <code>FHIR</code>, <code>HIPAA</code>, <code>HealthTech</code></td></tr>
@@ -2866,22 +2866,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>ERP</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/carbon-manufacturing-systems">Carbon MS</a></strong></td><td>Open-source manufacturing ERP system</td><td><a href="https://github.com/crbnos/carbon">carbon</a></td><td><a href="https://carbon.ms/">Carbon MS</a></td><td><a href="https://cossmology.com/organizations/carbon-manufacturing-systems/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API</code>, <code>QA</code></td></tr>
@@ -2895,22 +2895,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>ETL</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/zipstack">Zipstack</a></strong></td><td>LLM-powered ETL for unstructured data</td><td><a href="https://github.com/Zipstack/unstract">Unstract</a></td><td><a href="https://unstract.com/">Zipstack</a></td><td><a href="https://cossmology.com/organizations/zipstack/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Document Processing</code>, <code>Unstructured Data</code></td></tr>
@@ -2924,22 +2924,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Ecommerce</strong> (5 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/alokai">Alokai</a></strong></td><td>Frontend as a Service for ecommerce storefronts.</td><td><a href="https://github.com/alokai-technologies/alokai">Alokai (formerly Giant Swarm) - Kubernetes platform</a></td><td><a href="https://alokai.com/">Alokai</a></td><td><a href="https://cossmology.com/organizations/alokai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Frontend</code>, <code>Vue.js</code></td></tr>
@@ -2957,22 +2957,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Edge AI</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/edgerunner-ai">EdgeRunner AI</a></strong></td><td>Provides air-gapped Generative AI for defense.</td><td><a href="https://huggingface.co/edgerunner-ai/EdgeRunner-Command-Nested">EdgeRunner-Command-Nested</a></td><td><a href="https://www.edgerunnerai.com/">EdgeRunner AI</a></td><td><a href="https://cossmology.com/organizations/edgerunner-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Air-gapped</code>, <code>DDIL</code>, <code>LLMs</code></td></tr>
@@ -2987,22 +2987,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Edge Computing</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/fermyon">Fermyon</a></strong></td><td>Fast, powerful edge compute with WebAssembly.</td><td><a href="https://github.com/spinframework/spin">Spin</a></td><td><a href="https://www.fermyon.com/">Fermyon</a></td><td><a href="https://cossmology.com/organizations/fermyon/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Kubernetes</code>, <code>Multi-tenancy</code>, <code>Serverless</code>, <code>WebAssembly</code></td></tr>
@@ -3017,22 +3017,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Email Marketing</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/billionmail">BillionMail</a></strong></td><td>Open-source mail server and marketing</td><td><a href="https://github.com/aaPanel/BillionMail">BillionMail</a></td><td><a href="https://www.billionmail.com/">BillionMail</a></td><td><a href="https://cossmology.com/organizations/billionmail/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Mail Server</code>, <code>Self-Hosted</code></td></tr>
@@ -3046,22 +3046,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Embedded Systems</strong> (4 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/codethink">Codethink</a></strong></td><td>Open source system software experts</td><td><a href="https://github.com/CodethinkLabs/ofc">ofc</a></td><td><a href="https://www.codethink.co.uk/">Codethink</a></td><td><a href="https://cossmology.com/organizations/codethink/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Automotive Software</code>, <code>System Software</code></td></tr>
@@ -3078,22 +3078,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Embeddings</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/chroma">Chroma</a></strong></td><td>Open-source search and retrieval database for AI</td><td><a href="https://github.com/chroma-core/chroma">chroma</a></td><td><a href="https://www.trychroma.com/">Chroma</a></td><td><a href="https://cossmology.com/organizations/chroma/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>LLM</code>, <code>Machine Learning</code>, <code>RAG</code>, <code>Vector Database</code></td></tr>
@@ -3107,22 +3107,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Enterprise Search</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/onyx">Onyx</a></strong></td><td>Open-source AI-powered enterprise search</td><td><a href="https://github.com/onyx-dot-app/onyx">Onyx</a></td><td><a href="https://www.onyx.app/">Onyx</a></td><td><a href="https://cossmology.com/organizations/onyx/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Large Language Models</code>, <code>RAG</code></td></tr>
@@ -3136,22 +3136,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>File Storage</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/seafile">Seafile</a></strong></td><td>Open-source file sync and share software.</td><td><a href="https://github.com/haiwen/seafile">seafile</a></td><td><a href="https://www.seafile.com/">Seafile</a></td><td><a href="https://cossmology.com/organizations/seafile/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>File Sync</code>, <code>Python</code></td></tr>
@@ -3165,22 +3165,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Fintech</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/formance">Formance</a></strong></td><td>Open-source financial core platform</td><td><a href="https://github.com/formancehq/stack">Formance Stack</a></td><td><a href="https://www.formance.com/">Formance</a></td><td><a href="https://cossmology.com/organizations/formance/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Accounting</code>, <code>Payments</code></td></tr>
@@ -3195,22 +3195,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Form Builder</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/heyform">HeyForm</a></strong></td><td>Open-source form builder for small businesses.</td><td><a href="https://github.com/heyform/heyform">heyform</a></td><td><a href="https://heyform.net/">HeyForm</a></td><td><a href="https://cossmology.com/organizations/heyform/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>JavaScript</code>, <code>Web Development</code></td></tr>
@@ -3224,22 +3224,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>GPU Computing</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/herdora">Herdora</a></strong></td><td>Optimizes GPU code for performance and efficiency.</td><td><a href="https://github.com/Herdora/chisel">Chisel</a></td><td><a href="https://herdora.com">Herdora</a></td><td><a href="https://cossmology.com/organizations/herdora/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>GPU</code>, <code>Kernel</code>, <code>Optimization</code></td></tr>
@@ -3254,22 +3254,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Gaming</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/parallel-studios">Parallel Studios</a></strong></td><td>Developer of a free-to-play trading card game.</td><td>Parallel TCG</td><td><a href="https://parallel.life/">Parallel Studios</a></td><td><a href="https://cossmology.com/organizations/parallel-studios/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Rust</code>, <code>WebAssembly</code></td></tr>
@@ -3283,22 +3283,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Generative AI</strong> (3 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/black-forest-labs">Black Forest Labs</a></strong></td><td>Develops generative AI models for image creation.</td><td><a href="https://github.com/black-forest-labs/flux">flux</a></td><td><a href="https://bfl.ai/">Black Forest Labs</a></td><td><a href="https://cossmology.com/organizations/black-forest-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Artificial Intelligence</code>, <code>Computer Vision</code></td></tr>
@@ -3314,22 +3314,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Geospatial</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/dawarich">Dawarich</a></strong></td><td>Dawarich visualizes location history and travel.</td><td><a href="https://github.com/Freika/dawarich">Dawarich</a></td><td><a href="https://dawarich.app/">Dawarich</a></td><td><a href="https://cossmology.com/organizations/dawarich/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Location</code>, <code>Location-based</code>, <code>Navigation</code>, <code>Social Media</code></td></tr>
@@ -3344,22 +3344,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>GraphQL</strong> (8 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/apollo-graphql-2">Apollo GraphQL</a></strong></td><td>GraphQL platform for building unified data graphs</td><td><a href="https://github.com/apollographql/apollo-client">apollo-client</a></td><td><a href="https://www.apollographql.com">Apollo GraphQL</a></td><td><a href="https://cossmology.com/organizations/apollo-graphql-2/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Client Caching</code>, <code>Data Graph</code>, <code>GraphQL API</code></td></tr>
@@ -3380,22 +3380,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>HealthTech</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/tuva-health">Tuva Health</a></strong></td><td>Healthcare data platform with open-source model</td><td><a href="https://github.com/tuva-health/tuva">The Tuva Project</a></td><td><a href="https://tuvahealth.com/">Tuva Health</a></td><td><a href="https://cossmology.com/organizations/tuva-health/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Analytics</code>, <code>FHIR</code>, <code>GraphQL</code>, <code>TypeScript</code></td></tr>
@@ -3409,22 +3409,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>IDE</strong> (5 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/azul">Azul</a></strong></td><td>Azul provides a secure, efficient Java platform.</td><td><a href="https://github.com/openjdk/jdk">OpenJDK</a></td><td><a href="https://www.azul.com/">Azul</a></td><td><a href="https://cossmology.com/organizations/azul/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Java</code>, <code>OpenJDK</code>, <code>Runtime</code></td></tr>
@@ -3442,22 +3442,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Identity Management</strong> (4 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/authentik">authentik</a></strong></td><td>Open-source identity provider for secure access.</td><td><a href="https://github.com/goauthentik/authentik">authentik</a></td><td><a href="https://goauthentik.io/">authentik</a></td><td><a href="https://cossmology.com/organizations/authentik/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Access Management</code>, <code>Django</code>, <code>Go</code>, <code>Identity Provider</code>, <code>Python</code>, <code>Single Sign-On</code></td></tr>
@@ -3474,22 +3474,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Image Generation</strong> (3 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/bria">Bria</a></strong></td><td>Bria: visual Gen AI platform for image editing.</td><td><a href="https://huggingface.co/briaai">Bria AI</a></td><td><a href="https://bria.ai/">Bria</a></td><td><a href="https://cossmology.com/organizations/bria/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Video Generation</code></td></tr>
@@ -3505,22 +3505,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>In-Memory Database</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/rill-data">Rill Data</a></strong></td><td>Fast operational dashboards with embedded database</td><td><a href="https://github.com/rilldata/rill">rill</a></td><td><a href="https://www.rilldata.com/">Rill Data</a></td><td><a href="https://cossmology.com/organizations/rill-data/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>BIaC</code>, <code>SQL</code></td></tr>
@@ -3534,22 +3534,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Inference</strong> (3 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/baseten">Baseten</a></strong></td><td>Platform for deploying and managing AI models.</td><td><a href="https://github.com/basetenlabs/truss">truss</a></td><td><a href="https://www.baseten.co/">Baseten</a></td><td><a href="https://cossmology.com/organizations/baseten/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>LLM Workflows</code>, <code>Model Deployment</code></td></tr>
@@ -3565,22 +3565,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Infrastructure as Code</strong> (3 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/env0">env0</a></strong></td><td>Automates Infrastructure as Code with governance.</td><td><a href="https://github.com/env0/terratag">Terratag</a></td><td><a href="https://www.env0.com/">env0</a></td><td><a href="https://cossmology.com/organizations/env0/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Automation</code>, <code>Policy Enforcement</code></td></tr>
@@ -3596,22 +3596,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Integration Frameworks</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/julep-ai">Julep AI</a></strong></td><td>Serverless AI workflows platform for agents</td><td><a href="https://github.com/julep-ai/julep">julep</a></td><td><a href="https://julep.ai">Julep AI</a></td><td><a href="https://cossmology.com/organizations/julep-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>API Integration</code>, <code>Machine Learning</code>, <code>Node.js</code>, <code>Python</code>, <code>Serverless</code>, <code>Workflow Automation</code></td></tr>
@@ -3626,22 +3626,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>IoT</strong> (4 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/canonical">Canonical</a></strong></td><td>Open-source solutions and support</td><td><a href="https://github.com/canonical">ubuntu</a></td><td><a href="https://canonical.com/">Canonical</a></td><td><a href="https://cossmology.com/organizations/canonical/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Computing</code>, <code>Embedded Linux</code>, <code>Linux</code></td></tr>
@@ -3658,22 +3658,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Knowledge Management</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/epicenter">Epicenter</a></strong></td><td>Local-first workspace with shared plain text memory</td><td><a href="https://github.com/epicenter-so/epicenter">epicenter</a></td><td><a href="https://epicenter.so/">Epicenter</a></td><td><a href="https://cossmology.com/organizations/epicenter/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Local-First</code>, <code>Plain Text</code></td></tr>
@@ -3688,22 +3688,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Kubernetes</strong> (10 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/coreos">CoreOS</a></strong></td><td>Container optimized OS with automatic updates.</td><td><a href="https://github.com/coreos">CoreOS - Container Linux and Kubernetes tools</a></td><td><a href="https://fedoraproject.org/coreos/">CoreOS</a></td><td><a href="https://cossmology.com/organizations/coreos/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Container Management</code>, <code>Linux</code></td></tr>
@@ -3726,22 +3726,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Large Language Models</strong> (24 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/aleph-alpha">Aleph Alpha</a></strong></td><td>Sovereign AI solutions for enterprises.</td><td><a href="https://github.com/Aleph-Alpha/scaling">Scaling</a></td><td><a href="https://aleph-alpha.com/">Aleph Alpha</a></td><td><a href="https://cossmology.com/organizations/aleph-alpha/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>ERP</code>, <code>Generative AI</code></td></tr>
@@ -3778,22 +3778,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Linux</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/ciq">CIQ</a></strong></td><td>Enterprise Linux, HPC, and IT automation</td><td><a href="https://github.com/ctrliq">Rocky Linux</a></td><td><a href="https://ciq.com/">CIQ</a></td><td><a href="https://cossmology.com/organizations/ciq/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>ERP</code>, <code>Embedded Linux</code></td></tr>
@@ -3808,22 +3808,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Localization</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/lingo">Lingo</a></strong></td><td>AI-powered localization platform for apps</td><td><a href="https://github.com/lingodotdev/lingo.dev">Lingo</a></td><td><a href="https://lingo.dev/">Lingo</a></td><td><a href="https://cossmology.com/organizations/lingo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>App Updates</code>, <code>Translation</code></td></tr>
@@ -3837,22 +3837,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Low-Code</strong> (5 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/appsmith">Appsmith</a></strong></td><td>Open-source low-code platform for custom AI apps.</td><td><a href="https://github.com/appsmithorg/appsmith">Appsmith</a></td><td><a href="https://www.appsmith.com/">Appsmith</a></td><td><a href="https://cossmology.com/organizations/appsmith/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Internal Tools</code>, <code>React</code></td></tr>
@@ -3870,22 +3870,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>MLOps</strong> (4 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/arize-ai">Arize AI</a></strong></td><td>AI and agent engineering platform</td><td><a href="https://github.com/Arize-ai/phoenix">Phoenix OSS</a></td><td><a href="https://arize.com/">Arize AI</a></td><td><a href="https://cossmology.com/organizations/arize-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Observability</code>, <code>LLM Evaluation</code>, <code>OpenInference</code>, <code>OpenTelemetry</code></td></tr>
@@ -3902,22 +3902,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Machine Learning</strong> (11 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/agno">Agno</a></strong></td><td>Open-source tools for building AI agent systems.</td><td><a href="https://github.com/agno-agi/agno">agno</a></td><td><a href="https://agno.com">Agno</a></td><td><a href="https://cossmology.com/organizations/agno/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Framework</code>, <code>Agent Memory</code>, <code>Multi-Agent Systems</code></td></tr>
@@ -3941,22 +3941,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Messaging</strong> (4 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/chatwoot">Chatwoot</a></strong></td><td>Open-source customer support with AI</td><td><a href="https://github.com/chatwoot/chatwoot">chatwoot</a></td><td><a href="https://www.chatwoot.com/">Chatwoot</a></td><td><a href="https://cossmology.com/organizations/chatwoot/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cross-Platform</code>, <code>Social Media</code></td></tr>
@@ -3973,22 +3973,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Mobile Development</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/callstack">Callstack</a></strong></td><td>React & React Native development experts</td><td><a href="https://github.com/callstack/reassure">Reassure</a></td><td><a href="https://www.callstack.com/">Callstack</a></td><td><a href="https://cossmology.com/organizations/callstack/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>React</code>, <code>React Native</code></td></tr>
@@ -4003,22 +4003,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Model Monitoring</strong> (3 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/openlit">OpenLit</a></strong></td><td>AI development observability and tracing platform</td><td><a href="https://github.com/openlit/openlit">OpenLIT</a></td><td><a href="https://openlit.io/">OpenLit</a></td><td><a href="https://cossmology.com/organizations/openlit/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Observability</code>, <code>OpenTelemetry</code>, <code>Tracing</code></td></tr>
@@ -4034,22 +4034,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Monitoring</strong> (6 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/bitdrift">Bitdrift</a></strong></td><td>Mobile app debugging and monitoring</td><td><a href="https://github.com/bitdriftlabs/pulse">Pulse</a></td><td><a href="https://bitdrift.io/">Bitdrift</a></td><td><a href="https://cossmology.com/organizations/bitdrift/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Alerting</code>, <code>Mobile Development</code></td></tr>
@@ -4068,22 +4068,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Multi-Agent Systems</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/mgx">MGX</a></strong></td><td>Multi-agent framework for software development</td><td><a href="https://github.com/FoundationAgents/MetaGPT">MetaGPT</a></td><td><a href="https://mgx.dev/">MGX</a></td><td><a href="https://cossmology.com/organizations/mgx/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>NLP</code></td></tr>
@@ -4097,22 +4097,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Natural Language Processing</strong> (3 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/deepset">deepset</a></strong></td><td>AI platform for custom LLM applications.</td><td><a href="https://github.com/deepset-ai/haystack">Haystack</a></td><td><a href="https://www.deepset.ai/">deepset</a></td><td><a href="https://cossmology.com/organizations/deepset/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>LLMs</code></td></tr>
@@ -4128,22 +4128,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Network Monitoring</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/subtrace">Subtrace</a></strong></td><td>Network monitoring tool for HTTP requests.</td><td><a href="https://github.com/subtrace/subtrace">subtrace</a></td><td><a href="https://subtrace.dev/">Subtrace</a></td><td><a href="https://cossmology.com/organizations/subtrace/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Docker</code>, <code>Observability</code></td></tr>
@@ -4157,22 +4157,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Networking</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/isovalent">Isovalent</a></strong></td><td>eBPF-powered Kubernetes networking & security</td><td><a href="https://github.com/cilium/cilium">cilium</a></td><td><a href="https://isovalent.com/">Isovalent</a></td><td><a href="https://cossmology.com/organizations/isovalent/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cilium</code>, <code>Kubernetes</code>, <code>Security</code>, <code>eBPF</code></td></tr>
@@ -4187,22 +4187,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>No-Code</strong> (5 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/automatisch">Automatisch</a></strong></td><td>Open-source business process automation platform.</td><td><a href="https://github.com/automatisch/automatisch">Automatisch</a></td><td><a href="https://automatisch.io/">Automatisch</a></td><td><a href="https://cossmology.com/organizations/automatisch/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Automation</code>, <code>Workflow Automation</code></td></tr>
@@ -4220,22 +4220,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Note-Taking</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/blinko">Blinko</a></strong></td><td>AI-powered open-source note-taking app</td><td><a href="https://github.com/blinkospace/blinko">blinko</a></td><td><a href="https://blinko.space/">Blinko</a></td><td><a href="https://cossmology.com/organizations/blinko/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>Self-Hosted</code></td></tr>
@@ -4250,22 +4250,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Observability</strong> (7 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/agentops">AgentOps</a></strong></td><td>Platform for AI agent observability & debugging.</td><td><a href="https://github.com/AgentOps-AI/agentops">agentops</a></td><td><a href="https://www.agentops.ai/">AgentOps</a></td><td><a href="https://cossmology.com/organizations/agentops/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Evaluation</code>, <code>LLMs</code></td></tr>
@@ -4285,22 +4285,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Package Management</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/quansight">Quansight</a></strong></td><td>Consulting and dev for open source AI/ML</td><td><a href="https://github.com/Quansight">Quansight</a></td><td><a href="https://quansight.com/">Quansight</a></td><td><a href="https://cossmology.com/organizations/quansight/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Conda</code>, <code>Jupyter</code>, <code>Python</code></td></tr>
@@ -4314,22 +4314,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Payments</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/juspay-technologies">Juspay</a></strong></td><td>Open-source payment orchestration platform</td><td><a href="https://github.com/juspay/hyperswitch/">Hyperswitch</a></td><td><a href="https://hyperswitch.io/">Juspay</a></td><td><a href="https://cossmology.com/organizations/juspay-technologies/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API</code>, <code>Rust</code></td></tr>
@@ -4344,22 +4344,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Performance Monitoring</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/kotzilla">Kotzilla</a></strong></td><td>Kotlin app performance monitoring tools</td><td><a href="https://github.com/InsertKoinIO/koin">Koin</a></td><td><a href="https://kotzilla.io/">Kotzilla</a></td><td><a href="https://cossmology.com/organizations/kotzilla/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Koin</code>, <code>Kotlin</code></td></tr>
@@ -4373,22 +4373,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Privacy</strong> (5 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/comp-ai">Comp AI</a></strong></td><td>AI for SOC 2, ISO 27001, HIPAA, GDPR compliance</td><td><a href="https://github.com/trycompai/comp">comp</a></td><td><a href="https://trycomp.ai/">Comp AI</a></td><td><a href="https://cossmology.com/organizations/comp-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Compliance Automation</code>, <code>GDPR</code>, <code>HIPAA</code>, <code>ISO 27001</code>, <code>SOC</code></td></tr>
@@ -4406,22 +4406,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Productivity</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/inbox-zero">Inbox Zero</a></strong></td><td>AI email assistant for inbox automation</td><td><a href="https://github.com/elie222/inbox-zero">Inbox Zero</a></td><td><a href="https://www.getinboxzero.com/">Inbox Zero</a></td><td><a href="https://cossmology.com/organizations/inbox-zero/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Automation</code>, <code>Email</code></td></tr>
@@ -4436,22 +4436,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Project Management</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/plane">Plane</a></strong></td><td>Open-source project management tool with AI.</td><td><a href="https://github.com/makeplane/plane">Plane</a></td><td><a href="https://plane.so/">Plane</a></td><td><a href="https://cossmology.com/organizations/plane/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud</code>, <code>Issue Tracking</code>, <code>Kanban</code></td></tr>
@@ -4466,22 +4466,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Quantum Computing</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/infleqtion">Infleqtion</a></strong></td><td>Quantum tech for sensing and communication</td><td><a href="https://github.com/qLDPCOrg/qLDPC">qLDPC</a></td><td><a href="https://infleqtion.com/">Infleqtion</a></td><td><a href="https://cossmology.com/organizations/infleqtion/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Quantum Circuits</code>, <code>Quantum Sensing</code></td></tr>
@@ -4496,22 +4496,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>RAG</strong> (4 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/cognee-ai">Cognee AI</a></strong></td><td>AI memory engine for LLM applications</td><td><a href="https://github.com/topoteretes/cognee">Cognee</a></td><td><a href="https://www.cognee.ai/">Cognee AI</a></td><td><a href="https://cossmology.com/organizations/cognee-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Memory</code>, <code>AI/ML</code></td></tr>
@@ -4528,22 +4528,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Real-time collaboration</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/liveblocks">Liveblocks</a></strong></td><td>Ready-made AI copilots & collaboration.</td><td><a href="https://github.com/liveblocks/liveblocks">liveblocks/liveblocks</a></td><td><a href="https://liveblocks.io/">Liveblocks</a></td><td><a href="https://cossmology.com/organizations/liveblocks/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Copilots</code>, <code>App Development</code>, <code>Project Management</code></td></tr>
@@ -4557,22 +4557,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Red Teaming</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/promptfoo">Promptfoo</a></strong></td><td>Open-source LLM security and evaluation platform.</td><td><a href="https://github.com/promptfoo/promptfoo">promptfoo</a></td><td><a href="https://www.promptfoo.dev/">Promptfoo</a></td><td><a href="https://cossmology.com/organizations/promptfoo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Security</code>, <code>LLM Testing</code></td></tr>
@@ -4586,22 +4586,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Remote Desktop</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/rustdesk">RustDesk</a></strong></td><td>Open-source remote desktop with self-hosting</td><td><a href="https://github.com/rustdesk/rustdesk">RustDesk</a></td><td><a href="https://rustdesk.com/">RustDesk</a></td><td><a href="https://cossmology.com/organizations/rustdesk/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Rust</code>, <code>Self-Hosted</code></td></tr>
@@ -4615,22 +4615,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Retrieval-Augmented Generation</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/spacedrive">Spacedrive</a></strong></td><td>File manager unifying local and cloud storage.</td><td><a href="https://github.com/spacedriveapp/spacedrive">Spacedrive</a></td><td><a href="https://www.spacedrive.com/">Spacedrive</a></td><td><a href="https://cossmology.com/organizations/spacedrive/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud</code>, <code>Cross-Platform</code>, <code>Rust</code></td></tr>
@@ -4644,22 +4644,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Reverse Proxy</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/cosmos-cloud">Cosmos Cloud</a></strong></td><td>Platform for secure, automated self-hosting.</td><td><a href="https://github.com/azukaar/Cosmos-Server">Cosmos-Server</a></td><td><a href="https://cosmos-cloud.io/">Cosmos Cloud</a></td><td><a href="https://cossmology.com/organizations/cosmos-cloud/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Container Management</code>, <code>Self-hosting</code></td></tr>
@@ -4673,22 +4673,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Rich Text Editor</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/tiptap">Tiptap</a></strong></td><td>Headless and open-source editor framework</td><td><a href="https://github.com/ueberdosis/tiptap">tiptap</a></td><td><a href="https://tiptap.dev/">Tiptap</a></td><td><a href="https://cossmology.com/organizations/tiptap/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>JavaScript</code>, <code>ProseMirror</code>, <code>TypeScript</code></td></tr>
@@ -4702,22 +4702,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Scheduling</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/postiz">Postiz</a></strong></td><td>Social media management and scheduling tool.</td><td><a href="https://github.com/gitroomhq/postiz-app">Postiz</a></td><td><a href="https://postiz.com/">Postiz</a></td><td><a href="https://cossmology.com/organizations/postiz/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Automation</code>, <code>Social Media</code></td></tr>
@@ -4732,22 +4732,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Search</strong> (7 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/jina-ai">Jina AI</a></strong></td><td>Open source neural search framework</td><td><a href="https://github.com/jina-ai">Jina</a></td><td><a href="https://jina.ai/">Jina AI</a></td><td><a href="https://cossmology.com/organizations/jina-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Segmentation</code>, <code>Multimodal Search</code>, <code>Neural Search</code>, <code>Reranking</code></td></tr>
@@ -4767,22 +4767,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Search Engine</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/typesense">Typesense</a></strong></td><td>Open source, lightning-fast search engine.</td><td><a href="https://github.com/typesense/typesense">typesense</a></td><td><a href="https://typesense.org/">Typesense</a></td><td><a href="https://cossmology.com/organizations/typesense/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>C++</code>, <code>Raft</code></td></tr>
@@ -4796,22 +4796,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Secrets Management</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/infisical">Infisical</a></strong></td><td>Secrets management for app configurations</td><td><a href="https://github.com/Infisical/infisical">Infisical - Secrets management platform</a></td><td><a href="https://infisical.com/">Infisical</a></td><td><a href="https://cossmology.com/organizations/infisical/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API</code>, <code>Credential Management</code>, <code>Passkeys</code>, <code>Password Management</code>, <code>cybersecurity</code></td></tr>
@@ -4825,22 +4825,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Security</strong> (4 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/fleet-device-management">Fleet Device Management</a></strong></td><td>Open-source device management for multiple OS.</td><td><a href="https://github.com/fleetdm/fleet">fleet</a></td><td><a href="https://fleetdm.com/">Fleet Device Management</a></td><td><a href="https://cossmology.com/organizations/fleet-device-management/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Device Management</code>, <code>osquery</code></td></tr>
@@ -4857,22 +4857,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Simulation</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/asynchronics">Asynchronics</a></strong></td><td>Space simulation tech for cyberphysical systems.</td><td><a href="https://github.com/asynchronics/nexosim">NeXosim</a></td><td><a href="https://asynchronics.com/">Asynchronics</a></td><td><a href="https://cossmology.com/organizations/asynchronics/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Digital Twin</code>, <code>Rust</code></td></tr>
@@ -4886,22 +4886,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Social Media</strong> (3 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/adventurelog">AdventureLog</a></strong></td><td>Travel companion app for trip logging</td><td><a href="https://github.com/seanmorley15/AdventureLog">AdventureLog</a></td><td><a href="https://adventurelog.app/">AdventureLog</a></td><td><a href="https://cossmology.com/organizations/adventurelog/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Django</code>, <code>PostGIS</code>, <code>Svelte</code></td></tr>
@@ -4917,22 +4917,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Speech Recognition</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/alphacephei">Alphacephei</a></strong></td><td>Speech recognition technology and research.</td><td><a href="https://github.com/alphacep/vosk-api">Vosk</a></td><td><a href="https://alphacephei.com/">Alphacephei</a></td><td><a href="https://cossmology.com/organizations/alphacephei/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Python</code></td></tr>
@@ -4946,22 +4946,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Storage</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/ix-systems">IX Systems</a></strong></td><td>Open-source storage solutions and TrueNAS</td><td><a href="https://github.com/truenas/middleware">TrueNAS</a></td><td><a href="https://www.ixsystems.com/">IX Systems</a></td><td><a href="https://cossmology.com/organizations/ix-systems/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Self-Hosted</code>, <code>ZFS</code></td></tr>
@@ -4975,22 +4975,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Supply Chain Security</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/anchore">Anchore</a></strong></td><td>SBOM-powered software composition analysis.</td><td><a href="https://github.com/anchore/syft">Syft</a></td><td><a href="https://anchore.com/">Anchore</a></td><td><a href="https://cossmology.com/organizations/anchore/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Containers</code>, <code>DevSecOps</code>, <code>SBOM</code></td></tr>
@@ -5005,22 +5005,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Survey</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/formbricks">Formbricks</a></strong></td><td>Open-source experience management platform</td><td><a href="https://github.com/formbricks/formbricks">Formbricks</a></td><td><a href="https://formbricks.com/">Formbricks</a></td><td><a href="https://cossmology.com/organizations/formbricks/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Privacy</code>, <code>Self-Hosted</code></td></tr>
@@ -5034,22 +5034,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Synthetic Data</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/datacebo">DataCebo</a></strong></td><td>Synthetic data solutions for AI development</td><td><a href="https://github.com/sdv-dev/SDV">sdv</a></td><td><a href="https://datacebo.com/">DataCebo</a></td><td><a href="https://cossmology.com/organizations/datacebo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Generative AI</code>, <code>Privacy</code></td></tr>
@@ -5063,22 +5063,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Testing</strong> (3 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/hoppscotch">Hoppscotch</a></strong></td><td>API development platform for testing APIs</td><td><a href="https://github.com/hoppscotch/hoppscotch">Hoppscotch</a></td><td><a href="https://hoppscotch.com/">Hoppscotch</a></td><td><a href="https://cossmology.com/organizations/hoppscotch/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API</code>, <code>API Testing</code>, <code>REST API</code></td></tr>
@@ -5094,22 +5094,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Text-to-Speech</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/fish-audio">Fish Audio</a></strong></td><td>AI text-to-speech and voice cloning platform</td><td><a href="https://github.com/fishaudio/fish-speech">fish-speech</a></td><td><a href="https://fish.audio/">Fish Audio</a></td><td><a href="https://cossmology.com/organizations/fish-audio/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>Voice Cloning</code></td></tr>
@@ -5124,22 +5124,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Time Series</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/influxdata">InfluxData</a></strong></td><td>Time series database for real-time data & AI.</td><td><a href="https://github.com/influxdata/influxdb">influxdb</a></td><td><a href="https://www.influxdata.com/">InfluxData</a></td><td><a href="https://cossmology.com/organizations/influxdata/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Databases</code></td></tr>
@@ -5153,22 +5153,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Transcription</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/hyprnote">Hyprnote</a></strong></td><td>Local-first AI meeting notepad and auto-summarizer</td><td><a href="https://github.com/fastrepl/hyprnote">hyprnote</a></td><td><a href="https://hyprnote.com">Hyprnote</a></td><td><a href="https://cossmology.com/organizations/hyprnote/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Local-first</code>, <code>Note-taking</code></td></tr>
@@ -5182,22 +5182,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>UI Framework</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/uno-platform">Uno Platform</a></strong></td><td>Open-source platform for cross-platform .NET apps</td><td><a href="https://github.com/unoplatform/uno">Uno Platform</a></td><td><a href="https://platform.uno/">Uno Platform</a></td><td><a href="https://cossmology.com/organizations/uno-platform/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>.NET</code>, <code>C#</code>, <code>WebAssembly</code>, <code>XAML</code></td></tr>
@@ -5211,22 +5211,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>UI Library</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/tremor">Tremor</a></strong></td><td>React components for charts and dashboards</td><td><a href="https://github.com/tremorlabs/tremor">tremor</a></td><td><a href="https://tremor.so/">Tremor</a></td><td><a href="https://cossmology.com/organizations/tremor/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Radix UI</code>, <code>React</code>, <code>Tailwind CSS</code>, <code>UI Toolkit</code></td></tr>
@@ -5240,22 +5240,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Vector Database</strong> (5 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/lancedb">LanceDB</a></strong></td><td>Vector database for AI and ML applications</td><td><a href="https://github.com/lancedb/lancedb">Lancedb</a></td><td><a href="https://www.lancedb.com/">LanceDB</a></td><td><a href="https://cossmology.com/organizations/lancedb/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Data</code>, <code>AI/ML</code></td></tr>
@@ -5273,22 +5273,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Video</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/agora">Agora</a></strong></td><td>Real-time voice, video, and chat APIs</td><td><a href="https://github.com/AgoraIO/">Agora</a></td><td><a href="https://www.agora.io/">Agora</a></td><td><a href="https://cossmology.com/organizations/agora/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Messaging</code>, <code>PaaS</code>, <code>Real-Time Communication</code>, <code>Real-time</code>, <code>Video SDK</code>, <code>Voice</code>, <code>Voice SDK</code></td></tr>
@@ -5303,22 +5303,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Video Conferencing</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/jitsi">Jitsi</a></strong></td><td>Open-source video conferencing via WebRTC</td><td><a href="https://github.com/jitsi/jitsi-meet">jitsi-meet</a></td><td><a href="https://meet.jit.si">Jitsi</a></td><td><a href="https://cossmology.com/organizations/jitsi/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Real-time</code>, <code>WebRTC</code></td></tr>
@@ -5333,22 +5333,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Video Generation</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/remotion">Remotion</a></strong></td><td>Programmatic video creation with React</td><td><a href="https://github.com/remotion-dev/remotion">Remotion</a></td><td><a href="https://www.remotion.dev/">Remotion</a></td><td><a href="https://cossmology.com/organizations/remotion/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Programmatic Media</code>, <code>React</code></td></tr>
@@ -5362,22 +5362,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Virtual Machines</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/aenix">Aenix</a></strong></td><td>Cloud transformation solutions for data centers.</td><td><a href="https://github.com/cozystack/cozystack">Cozystack</a></td><td><a href="https://aenix.io/">Aenix</a></td><td><a href="https://cossmology.com/organizations/aenix/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Infrastructure</code>, <code>Kubernetes</code>, <code>PaaS</code></td></tr>
@@ -5391,22 +5391,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Virtualization</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/suse">SUSE</a></strong></td><td>Open source software solutions for enterprise IT</td><td><a href="https://opensource.suse.com/">Suse Open Source</a></td><td><a href="https://www.suse.com/">SUSE</a></td><td><a href="https://cossmology.com/organizations/suse/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud</code>, <code>Linux</code></td></tr>
@@ -5420,22 +5420,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>VoIP</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/wazo">Wazo</a></strong></td><td>Open source IP telecom platform</td><td><a href="https://github.com/wazo-platform/wazo-platform">wazo-platform</a></td><td><a href="https://wazo.io/">Wazo</a></td><td><a href="https://cossmology.com/organizations/wazo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>SIP</code>, <code>WebRTC</code></td></tr>
@@ -5449,22 +5449,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Voice Recognition</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/pyannote">pyannoteAI</a></strong></td><td>AI for speaker diarization and speech processing</td><td><a href="https://github.com/pyannote/pyannote-audio">pyannote-audio</a></td><td><a href="https://www.pyannote.ai/">pyannoteAI</a></td><td><a href="https://cossmology.com/organizations/pyannote/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Audio</code></td></tr>
@@ -5479,22 +5479,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Web Analytics</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/plausible-analytics">Plausible Analytics</a></strong></td><td>Privacy-friendly, lightweight website analytics.</td><td><a href="https://github.com/plausible/analytics">plausible</a></td><td><a href="https://plausible.io/">Plausible Analytics</a></td><td><a href="https://cossmology.com/organizations/plausible-analytics/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Privacy</code></td></tr>
@@ -5508,22 +5508,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Web Automation</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/leopard-labs">Leopard Labs</a></strong></td><td>Open-source AI web automation agent</td><td><a href="https://github.com/nanobrowser/nanobrowser">Nanobrowser</a></td><td><a href="https://nanobrowser.ai">Leopard Labs</a></td><td><a href="https://cossmology.com/organizations/leopard-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>Agentic AI</code>, <code>Browser Automation</code>, <code>Chrome Extension</code></td></tr>
@@ -5537,22 +5537,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Web Development</strong> (4 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/font-tester">Font Tester</a></strong></td><td>Browser extension for live font preview</td><td><a href="https://github.com/PaulleDemon/font-tester-chrome">Font Tester</a></td><td><a href="https://font-tester.foxcraft.tech/">Font Tester</a></td><td><a href="https://cossmology.com/organizations/font-tester/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Chrome Extension</code>, <code>Fonts</code></td></tr>
@@ -5569,22 +5569,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Web Framework</strong> (6 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/astro">Astro</a></strong></td><td>Web framework for fast, content-driven websites.</td><td><a href="https://github.com/withastro/astro">astro</a></td><td><a href="https://astro.build/">Astro</a></td><td><a href="https://cossmology.com/organizations/astro/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>JavaScript</code>, <code>Static Site Generation</code></td></tr>
@@ -5603,22 +5603,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Web Scraping</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/reworkd">Reworkd</a></strong></td><td>Automated web data extraction platform.</td><td><a href="https://github.com/reworkd/AgentGPT">AgentGPT</a></td><td><a href="https://www.reworkd.ai/">Reworkd</a></td><td><a href="https://cossmology.com/organizations/reworkd/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>Automation</code>, <code>Workflow Orchestration</code></td></tr>
@@ -5632,22 +5632,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>WebAssembly</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/dylibso">Dylibso</a></strong></td><td>WebAssembly solutions for production environments</td><td><a href="https://github.com/extism">Extism</a></td><td><a href="https://dylibso.com/">Dylibso</a></td><td><a href="https://cossmology.com/organizations/dylibso/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>WASM</code></td></tr>
@@ -5661,22 +5661,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Wiki</strong> (1 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/appflowy">AppFlowy</a></strong></td><td>AI workspace for projects, wikis, and teams.</td><td><a href="https://github.com/AppFlowy-IO/AppFlowy">AppFlowy</a></td><td><a href="https://appflowy.com/">AppFlowy</a></td><td><a href="https://cossmology.com/organizations/appflowy/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Collaboration</code>, <code>Notes</code>, <code>Project Management</code></td></tr>
@@ -5690,22 +5690,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Workflow Automation</strong> (3 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/comfyui">ComfyUI</a></strong></td><td>Node-based AI application for generative media</td><td><a href="https://github.com/comfyanonymous/ComfyUI">ComfyUI</a></td><td><a href="https://www.comfy.org/">ComfyUI</a></td><td><a href="https://cossmology.com/organizations/comfyui/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>AI Workflows</code></td></tr>
@@ -5721,22 +5721,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Workflow Orchestration</strong> (6 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/hatchet">Hatchet</a></strong></td><td>High-throughput, low-latency computing service.</td><td><a href="https://github.com/hatchet-dev/hatchet">Hatchet</a></td><td><a href="https://hatchet.run/">Hatchet</a></td><td><a href="https://cossmology.com/organizations/hatchet/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Job Orchestration</code>, <code>Queues</code></td></tr>
@@ -5755,22 +5755,22 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Zero Trust</strong> (2 companies)</summary>
 
-<table>
+<table style="table-layout:fixed; width:900px">
 <colgroup>
-<col width="130">
-<col width="180">
-<col width="120">
-<col width="100">
-<col width="80">
-<col width="290">
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
 </colgroup>
 <thead><tr>
-<th>Company</th>
-<th>Description</th>
-<th>Core OSS Repo</th>
-<th>Website</th>
-<th>Headlines</th>
-<th>Technologies</th>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/companies/firezone">Firezone</a></strong></td><td>Zero-trust access and VPN replacement</td><td><a href="https://github.com/firezone/firezone">Firezone - Zero-trust access platform built on WireGuard</a></td><td><a href="https://www.firezone.dev/">Firezone</a></td><td><a href="https://cossmology.com/organizations/firezone/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cybersecurity</code>, <code>VPN</code></td></tr>
