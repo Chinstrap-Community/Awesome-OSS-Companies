@@ -11,6 +11,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>A/B Testing</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -40,6 +42,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>AGI</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -68,6 +72,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>AI Agents</strong> (34 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -131,6 +137,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>AI Coding Agents</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -160,6 +168,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>AI Coding Assistant</strong> (3 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -192,6 +202,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>API Gateway</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -221,6 +233,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>API Management</strong> (5 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -255,6 +269,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>API Platform</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -285,6 +301,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>API Security</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -313,6 +331,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Advanced Materials</strong> (1 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -343,6 +363,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Alerting</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -371,6 +393,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Analytics</strong> (17 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -417,6 +441,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Animation</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -445,6 +471,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>App Deployment</strong> (3 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -477,6 +505,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Audio</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -505,6 +535,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Authentication</strong> (8 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -542,6 +574,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Authorization</strong> (4 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -574,6 +608,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Autonomous Vehicles</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -602,6 +638,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>BPM</strong> (1 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -632,6 +670,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Batch Processing</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -660,6 +700,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Billing</strong> (4 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -693,6 +735,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Biotech</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -721,6 +765,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Blockchain</strong> (11 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -761,6 +807,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Business Intelligence</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -789,6 +837,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Business Process Automation</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -819,6 +869,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>CI/CD</strong> (7 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -855,6 +907,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>CMS</strong> (6 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -889,6 +943,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>CPaaS</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -917,6 +973,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>CRM</strong> (6 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -952,6 +1010,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Caching</strong> (3 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -983,6 +1043,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Calendar</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1013,6 +1075,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Charging</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1041,6 +1105,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Chatbot</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -1072,6 +1138,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Chrome Extension</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1102,6 +1170,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Cloud Cost Management</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1131,6 +1201,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Cloud Data Warehouse</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1159,6 +1231,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Cloud Infrastructure</strong> (3 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -1191,6 +1265,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Cloud Platform</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1221,6 +1297,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Cloud Security</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1250,6 +1328,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Code Analysis</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1278,6 +1358,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Code Editor</strong> (3 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -1309,6 +1391,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Code Generation</strong> (4 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -1342,6 +1426,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Code Quality</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1370,6 +1456,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Collaboration</strong> (8 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -1407,6 +1495,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Community Platform</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1435,6 +1525,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Compliance</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -1465,6 +1557,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Computer Vision</strong> (4 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -1498,6 +1592,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Container Orchestration</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1526,6 +1622,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Containerization</strong> (3 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -1558,6 +1656,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Content Aggregation</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1587,6 +1687,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Content Management</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -1618,6 +1720,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Continuous Profiling</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1647,6 +1751,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Cost Management</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1675,6 +1781,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Cryptography</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -1706,6 +1814,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Customer Data Platform</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1734,6 +1844,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Cybersecurity</strong> (7 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -1770,6 +1882,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Dashboard</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1799,6 +1913,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Data Analytics</strong> (11 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -1839,6 +1955,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Backup</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1868,6 +1986,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Data Integration</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -1899,6 +2019,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Labeling</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1928,6 +2050,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Data Lake</strong> (5 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -1963,6 +2087,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Lakehouse</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -1991,6 +2117,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Data Orchestration</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -2021,6 +2149,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Data Pipelines</strong> (5 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -2055,6 +2185,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Quality</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2084,6 +2216,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Room</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2112,6 +2246,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Data Science</strong> (4 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -2145,6 +2281,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Security</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2173,6 +2311,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Data Streaming</strong> (6 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -2208,6 +2348,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Data Visualization</strong> (4 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2239,6 +2381,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Database</strong> (41 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -2309,6 +2453,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Decentralized</strong> (7 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2344,6 +2490,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Decentralized Identity</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2373,6 +2521,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Deepfake Detection</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2401,6 +2551,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Deployment</strong> (5 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -2435,6 +2587,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Design Tools</strong> (3 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2466,6 +2620,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Desktop</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2494,6 +2650,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>DevOps</strong> (9 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -2532,6 +2690,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>DevSecOps</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2560,6 +2720,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Developer Tools</strong> (37 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -2626,6 +2788,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Diagramming</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2656,6 +2820,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Differential Privacy</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2685,6 +2851,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Distributed Computing</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2713,6 +2881,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Distributed Systems</strong> (4 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -2746,6 +2916,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Document Processing</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2774,6 +2946,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Documentation</strong> (5 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -2808,6 +2982,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>E-signature</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2836,6 +3012,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>EHR</strong> (1 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -2866,6 +3044,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>ERP</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2895,6 +3075,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>ETL</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2923,6 +3105,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Ecommerce</strong> (5 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -2957,6 +3141,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Edge AI</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -2986,6 +3172,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Edge Computing</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -3017,6 +3205,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Email Marketing</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3045,6 +3235,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Embedded Systems</strong> (4 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -3078,6 +3270,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Embeddings</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3106,6 +3300,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Enterprise Search</strong> (1 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -3136,6 +3332,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>File Storage</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3164,6 +3362,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Fintech</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -3195,6 +3395,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Form Builder</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3223,6 +3425,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>GPU Computing</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -3254,6 +3458,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Gaming</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3282,6 +3488,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Generative AI</strong> (3 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -3314,6 +3522,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Geospatial</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3343,6 +3553,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>GraphQL</strong> (8 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -3380,6 +3592,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>HealthTech</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3408,6 +3622,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>IDE</strong> (5 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -3442,6 +3658,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Identity Management</strong> (4 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3474,6 +3692,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Image Generation</strong> (3 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3505,6 +3725,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>In-Memory Database</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3533,6 +3755,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Inference</strong> (3 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -3565,6 +3789,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Infrastructure as Code</strong> (3 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3596,6 +3822,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Integration Frameworks</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3625,6 +3853,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>IoT</strong> (4 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -3658,6 +3888,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Knowledge Management</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3687,6 +3919,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Kubernetes</strong> (10 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -3725,6 +3959,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Large Language Models</strong> (24 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -3778,6 +4014,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Linux</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3808,6 +4046,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Localization</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3836,6 +4076,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Low-Code</strong> (5 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -3870,6 +4112,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>MLOps</strong> (4 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3901,6 +4145,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Machine Learning</strong> (11 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -3941,6 +4187,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Messaging</strong> (4 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -3973,6 +4221,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Mobile Development</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4002,6 +4252,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Model Monitoring</strong> (3 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -4033,6 +4285,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Monitoring</strong> (6 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -4068,6 +4322,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Multi-Agent Systems</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4096,6 +4352,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Natural Language Processing</strong> (3 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -4128,6 +4386,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Network Monitoring</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4156,6 +4416,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Networking</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -4186,6 +4448,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>No-Code</strong> (5 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -4220,6 +4484,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Note-Taking</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4249,6 +4515,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Observability</strong> (7 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -4285,6 +4553,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Package Management</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4313,6 +4583,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Payments</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -4344,6 +4616,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Performance Monitoring</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4372,6 +4646,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Privacy</strong> (5 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -4406,6 +4682,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Productivity</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4435,6 +4713,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Project Management</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -4466,6 +4746,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Quantum Computing</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4495,6 +4777,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>RAG</strong> (4 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -4528,6 +4812,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Real-time collaboration</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4556,6 +4842,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Red Teaming</strong> (1 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -4586,6 +4874,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Remote Desktop</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4614,6 +4904,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Retrieval-Augmented Generation</strong> (1 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -4644,6 +4936,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Reverse Proxy</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4672,6 +4966,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Rich Text Editor</strong> (1 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -4702,6 +4998,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Scheduling</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4731,6 +5029,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Search</strong> (7 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -4767,6 +5067,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Search Engine</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4796,6 +5098,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Secrets Management</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4824,6 +5128,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Security</strong> (4 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -4857,6 +5163,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Simulation</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4885,6 +5193,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Social Media</strong> (3 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -4917,6 +5227,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Speech Recognition</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4946,6 +5258,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Storage</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -4974,6 +5288,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Supply Chain Security</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -5005,6 +5321,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Survey</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -5034,6 +5352,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Synthetic Data</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -5062,6 +5382,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Testing</strong> (3 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -5094,6 +5416,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Text-to-Speech</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -5124,6 +5448,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Time Series</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -5152,6 +5478,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Transcription</strong> (1 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -5182,6 +5510,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>UI Framework</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -5211,6 +5541,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>UI Library</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -5239,6 +5571,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Vector Database</strong> (5 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -5273,6 +5607,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Video</strong> (2 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -5302,6 +5638,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Video Conferencing</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -5333,6 +5671,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Video Generation</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -5361,6 +5701,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Virtual Machines</strong> (1 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -5391,6 +5733,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Virtualization</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -5420,6 +5764,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>VoIP</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -5448,6 +5794,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Voice Recognition</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -5479,6 +5827,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Web Analytics</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -5508,6 +5858,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Web Automation</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -5536,6 +5888,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Web Development</strong> (4 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -5568,6 +5922,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Web Framework</strong> (6 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -5603,6 +5959,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Web Scraping</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -5631,6 +5989,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>WebAssembly</strong> (1 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -5661,6 +6021,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 <details open>
 <summary><strong>Wiki</strong> (1 companies)</summary>
 
+<br>
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -5689,6 +6051,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Workflow Automation</strong> (3 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -5720,6 +6084,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Workflow Orchestration</strong> (6 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -5754,6 +6120,8 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 <details open>
 <summary><strong>Zero Trust</strong> (2 companies)</summary>
+
+<br>
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
