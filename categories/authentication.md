@@ -1,0 +1,36 @@
+# Authentication
+
+[← Back to Index](../README.md)
+
+**10 companies**
+
+<table style="table-layout:fixed; width:900px">
+<colgroup>
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
+</colgroup>
+<thead><tr>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
+</tr></thead>
+<tbody>
+<tr><td><strong><a href="https://cossmology.com/organizations/authzed">authzed</a></strong></td><td>Authzed offers authorization infrastructure.</td><td><a href="https://github.com/authzed/spicedb">SpiceDB</a></td><td><a href="https://authzed.com/">authzed</a></td><td><a href="https://cossmology.com/organizations/authzed/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Access Control</code>, <code>Authentication</code>, <code>Authorization</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/betterauth">Better Auth</a></strong></td><td>TypeScript authentication framework for web apps.</td><td><a href="https://github.com/better-auth/better-auth">better-auth-core</a></td><td><a href="https://www.better-auth.com/">Better Auth</a></td><td><a href="https://cossmology.com/organizations/betterauth/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Authentication</code>, <code>Permission Management</code>, <code>Security</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/bitwarden">Bitwarden</a></strong></td><td>Password manager for secure credential storage.</td><td><a href="https://github.com/bitwarden/clients">Bitwarden Clients</a></td><td><a href="https://bitwarden.com/">Bitwarden</a></td><td><a href="https://cossmology.com/organizations/bitwarden/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Authentication</code>, <code>Passkeys</code>, <code>Password Management</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/casdoor">Casdoor</a></strong></td><td>Open-source IAM/SSO platform with web UI.</td><td><a href="https://github.com/casbin/casbin-oa">Casbin-OA</a></td><td><a href="https://casdoor.org/">Casdoor</a></td><td><a href="https://cossmology.com/organizations/casdoor/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Authentication</code>, <code>CAS</code>, <code>Go</code>, <code>Identity and Access Management</code>, <code>JavaScript</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/hanko">Hanko</a></strong></td><td>Open-source, privacy-first authentication</td><td><a href="https://github.com/teamhanko/hanko">hanko</a></td><td><a href="https://www.hanko.io/">Hanko</a></td><td><a href="https://cossmology.com/organizations/hanko/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Authentication</code>, <code>FIDO</code>, <code>Passkeys</code>, <code>SaaS</code>, <code>WebAuthn</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/logto">Logto</a></strong></td><td>Open-source authentication and identity platform</td><td><a href="https://github.com/logto-io/logto">logto</a></td><td><a href="https://logto.io/">Logto</a></td><td><a href="https://cossmology.com/organizations/logto/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Authentication</code>, <code>Identity Access Management</code>, <code>OAuth</code>, <code>OIDC</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/ory">Ory</a></strong></td><td>API-first identity management for modern apps.</td><td><a href="https://github.com/ory/dockertest">Ory Dockertest</a></td><td><a href="https://www.ory.sh/">Ory</a></td><td><a href="https://cossmology.com/organizations/ory/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Authentication</code>, <code>Identity and Access Management</code>, <code>Security</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/stack-auth">Stack Auth</a></strong></td><td>Open-source authentication and user management</td><td><a href="https://github.com/stack-auth/stack-auth">stack-auth/stack-auth</a></td><td><a href="https://stack-auth.com/">Stack Auth</a></td><td><a href="https://cossmology.com/organizations/stack-auth/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Authentication</code>, <code>JavaScript</code>, <code>Next.js</code>, <code>Open Source</code>, <code>React</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/supertokens">SuperTokens</a></strong></td><td>Open-source user authentication platform</td><td><a href="https://github.com/supertokens/supertokens-auth-react">supertokens-auth-react</a></td><td><a href="https://supertokens.com/">SuperTokens</a></td><td><a href="https://cossmology.com/organizations/supertokens/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Authentication</code>, <code>Session Management</code>, <code>User Management</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/tesseral">Tesseral</a></strong></td><td>Open source auth infrastructure for B2B SaaS</td><td><a href="https://github.com/tesseral-labs/docs">docs</a></td><td><a href="https://tesseral.com/">Tesseral</a></td><td><a href="https://cossmology.com/organizations/tesseral/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Authentication</code>, <code>B2B SaaS</code>, <code>Identity Management</code></td></tr>
+</tbody>
+</table>

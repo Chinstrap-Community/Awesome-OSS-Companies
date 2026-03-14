@@ -1,0 +1,36 @@
+# Search
+
+[← Back to Index](../README.md)
+
+**10 companies**
+
+<table style="table-layout:fixed; width:900px">
+<colgroup>
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
+</colgroup>
+<thead><tr>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
+</tr></thead>
+<tbody>
+<tr><td><strong><a href="https://cossmology.com/organizations/airweave">Airweave</a></strong></td><td>Open-source tool for AI agents.</td><td><a href="https://github.com/airweave-ai/airweave">airweave</a></td><td><a href="https://airweave.ai/">Airweave</a></td><td><a href="https://cossmology.com/organizations/airweave/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Search</code>, <code>Semantic Search</code>, <code>Agents</code>, <code>AI</code>, <code>Data Synchronization</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/jina-ai">Jina AI</a></strong></td><td>Open source neural search framework</td><td><a href="https://github.com/jina-ai">Jina</a></td><td><a href="https://jina.ai/">Jina AI</a></td><td><a href="https://cossmology.com/organizations/jina-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Segmentation</code>, <code>Multimodal Search</code>, <code>Neural Search</code>, <code>Reranking</code>, <code>Search</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/meilisearch">Meilisearch</a></strong></td><td>Fast, typo-tolerant open-source search API</td><td><a href="https://github.com/meilisearch/meilisearch">Meilisearch</a></td><td><a href="https://www.meilisearch.com/">Meilisearch</a></td><td><a href="https://cossmology.com/organizations/meilisearch/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Search</code>, <code>Search Engine</code>, <code>API</code>, <code>Ecommerce</code>, <code>Rust</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/menlo-research-jan">Menlo Research (Jan)</a></strong></td><td>Open-source data analysis and search tools</td><td><a href="https://github.com/menloresearch/jan">Jan</a></td><td><a href="https://jan.ai/">Menlo Research (Jan)</a></td><td><a href="https://cossmology.com/organizations/menlo-research-jan/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>Large Language Models</code>, <code>Search</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/parade">ParadeDB</a></strong></td><td>Elasticsearch alternative built on Postgres</td><td><a href="https://github.com/paradedb/paradedb">ParadeDB</a></td><td><a href="https://www.paradedb.com/">ParadeDB</a></td><td><a href="https://cossmology.com/organizations/parade/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Postgres</code>, <code>Search</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/quickwit">Quickwit</a></strong></td><td>Cloud-native search engine on object storage</td><td><a href="https://github.com/quickwit-oss/quickwit">quickwit</a></td><td><a href="https://quickwit.io">Quickwit</a></td><td><a href="https://cossmology.com/organizations/quickwit/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Search</code>, <code>Cloud Storage</code>, <code>Distributed Tracing</code>, <code>Log Management</code>, <code>Observability</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/research-hub">Research Hub</a></strong></td><td>Platform for scientific research</td><td><a href="https://github.com/ResearchHub/researchhub-web">ResearchHub</a></td><td><a href="https://www.researchhub.com/">Research Hub</a></td><td><a href="https://cossmology.com/organizations/research-hub/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Research</code>, <code>Search</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/spice-ai">Spice AI</a></strong></td><td>Open source data and AI inference engine.</td><td><a href="https://github.com/spiceai/spiceai">Spice AI</a></td><td><a href="https://spice.ai/">Spice AI</a></td><td><a href="https://cossmology.com/organizations/spice-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Infrastructure</code>, <code>Query Engine</code>, <code>Search</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/superlinked">Superlinked</a></strong></td><td>Python framework & cloud for AI search & rec apps.</td><td><a href="https://github.com/superlinked/superlinked">Superlinked</a></td><td><a href="https://superlinked.com/">Superlinked</a></td><td><a href="https://cossmology.com/organizations/superlinked/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Python</code>, <code>Search</code>, <code>Unstructured Data</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/vespaai">Vespa.ai</a></strong></td><td>AI Search Platform for large-scale applications.</td><td></td><td><a href="https://vespa.ai/">Vespa.ai</a></td><td><a href="https://cossmology.com/organizations/vespaai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Machine Learning</code>, <code>Real-time</code>, <code>Search</code>, <code>Vector Database</code></td></tr>
+</tbody>
+</table>

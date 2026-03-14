@@ -1,0 +1,38 @@
+# Blockchain
+
+[← Back to Index](../README.md)
+
+**12 companies**
+
+<table style="table-layout:fixed; width:900px">
+<colgroup>
+<col style="width:130px; min-width:130px; max-width:130px">
+<col style="width:180px; min-width:180px; max-width:180px">
+<col style="width:120px; min-width:120px; max-width:120px">
+<col style="width:100px; min-width:100px; max-width:100px">
+<col style="width:80px; min-width:80px; max-width:80px">
+<col style="width:290px; min-width:290px; max-width:290px">
+</colgroup>
+<thead><tr>
+<th style="width:130px; min-width:130px; max-width:130px; overflow:hidden; text-overflow:ellipsis">Company</th>
+<th style="width:180px; min-width:180px; max-width:180px; overflow:hidden; text-overflow:ellipsis">Description</th>
+<th style="width:120px; min-width:120px; max-width:120px; overflow:hidden; text-overflow:ellipsis">Core OSS Repo</th>
+<th style="width:100px; min-width:100px; max-width:100px; overflow:hidden; text-overflow:ellipsis">Website</th>
+<th style="width:80px; min-width:80px; max-width:80px; overflow:hidden; text-overflow:ellipsis">Headlines</th>
+<th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
+</tr></thead>
+<tbody>
+<tr><td><strong><a href="https://cossmology.com/organizations/anoma">Anoma</a></strong></td><td>Distributed OS for intent-centric applications.</td><td><a href="https://github.com/anoma/anoma">anoma</a></td><td><a href="https://anoma.net/">Anoma</a></td><td><a href="https://cossmology.com/organizations/anoma/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Decentralization</code>, <code>Privacy</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/cake-labs">Cake Labs</a></strong></td><td>Privacy-focused cryptocurrency wallet software</td><td><a href="https://github.com/cake-tech/cake_wallet">Cake Wallet</a></td><td><a href="https://cakelabs.com">Cake Labs</a></td><td><a href="https://cossmology.com/organizations/cake-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Crypto Wallet</code>, <code>Web3</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/fuel-labs">Fuel Labs</a></strong></td><td>High-performance Ethereum layer-2 blockchain.</td><td><a href="https://github.com/FuelLabs/fuel-core">Fuel</a></td><td><a href="https://fuel.network/">Fuel Labs</a></td><td><a href="https://cossmology.com/organizations/fuel-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Smart Contracts</code>, <code>Web3</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/hedera">Hedera</a></strong></td><td>Hashgraph consensus distributed ledger platform</td><td><a href="https://github.com/hashgraph">Hedera</a></td><td><a href="https://hedera.com">Hedera</a></td><td><a href="https://cossmology.com/organizations/hedera/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Cryptocurrency</code>, <code>Distributed Ledger</code>, <code>EVM Compatible</code>, <code>Hashgraph</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/linera">Linera</a></strong></td><td>Scalable blockchain platform for dApps</td><td><a href="https://github.com/linera-io/linera-protocol">linera</a></td><td><a href="https://linera.io/">Linera</a></td><td><a href="https://cossmology.com/organizations/linera/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Consensus Algorithms</code>, <code>Microchains</code>, <code>Sharding</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/openzeppelin">OpenZeppelin</a></strong></td><td>Tools & audits for secure blockchain apps</td><td><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">openzeppelin-contracts</a></td><td><a href="https://openzeppelin.com">OpenZeppelin</a></td><td><a href="https://cossmology.com/organizations/openzeppelin/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Security</code>, <code>Smart Contracts</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/overclock-labs">Overclock Labs</a></strong></td><td>Building Web3 cloud infrastructure and tools.</td><td><a href="https://github.com/akash-network/node">akash</a></td><td><a href="https://akash.network/">Overclock Labs</a></td><td><a href="https://cossmology.com/organizations/overclock-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Decentralized</code>, <code>Web3</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/polygon">Polygon</a></strong></td><td>Blockchain for real-world assets and payments.</td><td><a href="https://github.com/0xpolygonhermez">ZisK</a></td><td><a href="https://polygon.technology/">Polygon</a></td><td><a href="https://cossmology.com/organizations/polygon/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Ethereum</code>, <code>Smart Contracts</code>, <code>Staking</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/request-network-foundation">Request Network Foundation</a></strong></td><td>Web3 infrastructure for invoicing and payments.</td><td></td><td><a href="https://request.network/">Request Network Foundation</a></td><td><a href="https://cossmology.com/organizations/request-network-foundation/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Decentralized Payments</code>, <code>Ethereum</code>, <code>Web3</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/tether">Tether</a></strong></td><td>Issues stablecoins pegged to fiat currencies.</td><td></td><td><a href="https://tether.to/en/">Tether</a></td><td><a href="https://cossmology.com/organizations/tether/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Digital Assets</code>, <code>Stablecoins</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/union">Union</a></strong></td><td>Blockchain aggregation and interoperability</td><td><a href="https://github.com/unionlabs/union">union</a></td><td><a href="https://union.build/">Union</a></td><td><a href="https://cossmology.com/organizations/union/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Interoperability</code>, <code>Zero Knowledge</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/zama">Zama</a></strong></td><td>Enables confidential smart contracts using FHE.</td><td><a href="https://github.com/zama-ai">Zama</a></td><td><a href="https://www.zama.ai/">Zama</a></td><td><a href="https://cossmology.com/organizations/zama/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Homomorphic Encryption</code>, <code>Security</code></td></tr>
+</tbody>
+</table>
