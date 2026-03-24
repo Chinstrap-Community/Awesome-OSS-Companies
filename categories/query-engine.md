@@ -1,8 +1,8 @@
-# PaaS
+# Query Engine
 
 [← Back to Index](../README.md)
 
-**2 companies**
+**1 company**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -22,7 +22,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/caprover">CapRover</a></strong></td><td>Self-hosted open-source PaaS platform</td><td><a href="https://github.com/caprover/caprover">CapRover</a></td><td><a href="https://caprover.com">CapRover</a></td><td><a href="https://cossmology.com/organizations/caprover/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>App Deployment</code>, <code>DevOps</code>, <code>Docker</code>, <code>PaaS</code>, <code>Self-hosted</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/dokploy">Dokploy</a></strong></td><td>Open-source self-hosted PaaS platform</td><td><a href="https://github.com/Dokploy/dokploy">dokploy</a></td><td><a href="https://dokploy.com">Dokploy</a></td><td><a href="https://cossmology.com/organizations/dokploy/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Container Orchestration</code>, <code>Deployment</code>, <code>DevOps</code>, <code>Docker</code>, <code>Docker Compose</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/polars">Polars</a></strong></td><td>High-performance DataFrame library in Rust</td><td><a href="https://github.com/pola-rs/polars">polars</a></td><td><a href="https://pola.rs">Polars</a></td><td><a href="https://cossmology.com/organizations/polars/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Apache Arrow</code>, <code>Data Processing</code>, <code>Python</code>, <code>Query Engine</code>, <code>Rust</code></td></tr>
 </tbody>
 </table>

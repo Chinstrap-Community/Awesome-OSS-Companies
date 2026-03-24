@@ -1,8 +1,8 @@
-# Note-Taking
+# AI Observability
 
 [← Back to Index](../README.md)
 
-**2 companies**
+**1 company**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -22,7 +22,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/blinko">Blinko</a></strong></td><td>AI-powered open-source note-taking app</td><td><a href="https://github.com/blinkospace/blinko">blinko</a></td><td><a href="https://blinko.space/">Blinko</a></td><td><a href="https://cossmology.com/organizations/blinko/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>Note-Taking</code>, <code>Self-Hosted</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/joplin">Joplin</a></strong></td><td>Open source note-taking app with cloud sync</td><td><a href="https://github.com/laurent22/joplin">Joplin</a></td><td><a href="https://joplinapp.org/">Joplin</a></td><td><a href="https://cossmology.com/organizations/joplin/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Note-Taking</code>, <code>Collaborative Tools</code>, <code>Markdown</code>, <code>Notes</code>, <code>Privacy</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/latitude">Latitude</a></strong></td><td>Open-source LLM engineering platform</td><td><a href="https://github.com/latitude-dev/latitude-llm">latitude-llm</a></td><td><a href="https://latitude.so">Latitude</a></td><td><a href="https://cossmology.com/organizations/latitude/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Development Platform</code>, <code>AI Observability</code>, <code>Developer Tools</code>, <code>Generative AI</code>, <code>Large Language Models (LLMs)</code></td></tr>
 </tbody>
 </table>

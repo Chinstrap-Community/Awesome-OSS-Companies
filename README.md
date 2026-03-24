@@ -6,7 +6,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 
 ## Companies
 
-**1007 companies** across **245 categories**
+**982 companies** across **248 categories**
 
 | Category | Companies |
 |---|---|
@@ -15,12 +15,13 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 | [AGI](categories/agi.md) | 1 company |
 | [AI Agents](categories/ai-agents.md) | 51 companies |
 | [AI Chat](categories/ai-chat.md) | 1 company |
-| [AI Coding Agents](categories/ai-coding-agents.md) | 6 companies |
+| [AI Coding Agents](categories/ai-coding-agents.md) | 7 companies |
 | [AI Coding Assistant](categories/ai-coding-assistant.md) | 6 companies |
 | [AI Development Platform](categories/ai-development-platform.md) | 1 company |
 | [AI Framework](categories/ai-framework.md) | 2 companies |
 | [AI Infrastructure](categories/ai-infrastructure.md) | 2 companies |
 | [AI Memory](categories/ai-memory.md) | 1 company |
+| [AI Observability](categories/ai-observability.md) | 1 company |
 | [AI Orchestration](categories/ai-orchestration.md) | 1 company |
 | [AI evaluation](categories/ai-evaluation.md) | 2 companies |
 | [API Gateway](categories/api-gateway.md) | 2 companies |
@@ -37,8 +38,9 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 | [App Deployment](categories/app-deployment.md) | 3 companies |
 | [Application Security](categories/application-security.md) | 2 companies |
 | [Audio](categories/audio.md) | 1 company |
-| [Authentication](categories/authentication.md) | 10 companies |
+| [Authentication](categories/authentication.md) | 11 companies |
 | [Authorization](categories/authorization.md) | 5 companies |
+| [Automotive Software](categories/automotive-software.md) | 1 company |
 | [Autonomous Vehicles](categories/autonomous-vehicles.md) | 1 company |
 | [BPM](categories/bpm.md) | 2 companies |
 | [Backup](categories/backup.md) | 4 companies |
@@ -64,7 +66,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 | [Cloud Data Warehouse](categories/cloud-data-warehouse.md) | 2 companies |
 | [Cloud Infrastructure](categories/cloud-infrastructure.md) | 6 companies |
 | [Cloud Platform](categories/cloud-platform.md) | 4 companies |
-| [Cloud Security](categories/cloud-security.md) | 5 companies |
+| [Cloud Security](categories/cloud-security.md) | 6 companies |
 | [Code Analysis](categories/code-analysis.md) | 1 company |
 | [Code Editor](categories/code-editor.md) | 3 companies |
 | [Code Generation](categories/code-generation.md) | 6 companies |
@@ -108,7 +110,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 | [Data Streaming](categories/data-streaming.md) | 10 companies |
 | [Data Transformation](categories/data-transformation.md) | 2 companies |
 | [Data Visualization](categories/data-visualization.md) | 4 companies |
-| [Database](categories/database.md) | 66 companies |
+| [Database](categories/database.md) | 60 companies |
 | [Decentralized](categories/decentralized.md) | 7 companies |
 | [Decentralized Identity](categories/decentralized-identity.md) | 1 company |
 | [Deepfake Detection](categories/deepfake-detection.md) | 1 company |
@@ -118,7 +120,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 | [DevOps](categories/devops.md) | 16 companies |
 | [DevSecOps](categories/devsecops.md) | 1 company |
 | [Developer Portal](categories/developer-portal.md) | 2 companies |
-| [Developer Tools](categories/developer-tools.md) | 49 companies |
+| [Developer Tools](categories/developer-tools.md) | 47 companies |
 | [Diagramming](categories/diagramming.md) | 2 companies |
 | [Differential Privacy](categories/differential-privacy.md) | 1 company |
 | [Digital Payments](categories/digital-payments.md) | 1 company |
@@ -149,51 +151,49 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 | [Geospatial](categories/geospatial.md) | 3 companies |
 | [Git Hosting](categories/git-hosting.md) | 1 company |
 | [GitOps](categories/gitops.md) | 1 company |
-| [Graph Database](categories/graph-database.md) | 3 companies |
+| [Graph Database](categories/graph-database.md) | 6 companies |
 | [GraphQL](categories/graphql.md) | 9 companies |
 | [HPC](categories/hpc.md) | 1 company |
 | [Headless CMS](categories/headless-cms.md) | 2 companies |
 | [HealthTech](categories/healthtech.md) | 2 companies |
-| [IDE](categories/ide.md) | 8 companies |
+| [IDE](categories/ide.md) | 9 companies |
 | [Identity Management](categories/identity-management.md) | 8 companies |
 | [Image Generation](categories/image-generation.md) | 3 companies |
 | [Image Recognition](categories/image-recognition.md) | 1 company |
-| [In-Memory Database](categories/inmemory-database.md) | 1 company |
-| [Inference](categories/inference.md) | 6 companies |
+| [In-Memory Database](categories/inmemory-database.md) | 3 companies |
+| [Inference](categories/inference.md) | 7 companies |
 | [Infrastructure as Code](categories/infrastructure-as-code.md) | 8 companies |
 | [Integration Frameworks](categories/integration-frameworks.md) | 2 companies |
 | [Intrusion Detection System (IDS)](categories/intrusion-detection-system-ids.md) | 1 company |
 | [IoT](categories/iot.md) | 7 companies |
 | [Knowledge Management](categories/knowledge-management.md) | 5 companies |
-| [Kubernetes](categories/kubernetes.md) | 24 companies |
-| [LLMOps](categories/llmops.md) | 2 companies |
-| [Large Language Models](categories/large-language-models.md) | 33 companies |
+| [Kubernetes](categories/kubernetes.md) | 23 companies |
+| [LLMOps](categories/llmops.md) | 3 companies |
 | [Large Language Models (LLMs)](categories/large-language-models-llms.md) | 1 company |
 | [Link Shortening](categories/link-shortening.md) | 1 company |
 | [Linux](categories/linux.md) | 5 companies |
 | [Localization](categories/localization.md) | 1 company |
 | [Log Management](categories/log-management.md) | 1 company |
-| [Low-Code](categories/lowcode.md) | 7 companies |
+| [Low-Code](categories/lowcode.md) | 8 companies |
 | [MCP](categories/mcp.md) | 2 companies |
 | [MLOps](categories/mlops.md) | 6 companies |
-| [Machine Learning](categories/machine-learning.md) | 17 companies |
+| [Machine Learning](categories/machine-learning.md) | 16 companies |
 | [Messaging](categories/messaging.md) | 6 companies |
 | [Mobile Apps](categories/mobile-apps.md) | 1 company |
 | [Mobile Development](categories/mobile-development.md) | 3 companies |
 | [Model Monitoring](categories/model-monitoring.md) | 3 companies |
 | [Monitoring](categories/monitoring.md) | 12 companies |
-| [Multi-Agent Systems](categories/multiagent-systems.md) | 5 companies |
+| [Multi-Agent Systems](categories/multiagent-systems.md) | 6 companies |
 | [Natural Language Processing](categories/natural-language-processing.md) | 3 companies |
 | [Network Management](categories/network-management.md) | 1 company |
 | [Network Monitoring](categories/network-monitoring.md) | 4 companies |
 | [Network Security](categories/network-security.md) | 1 company |
 | [Networking](categories/networking.md) | 2 companies |
 | [No-Code](categories/nocode.md) | 6 companies |
-| [Note-Taking](categories/notetaking.md) | 2 companies |
 | [Object Storage](categories/object-storage.md) | 1 company |
 | [Observability](categories/observability.md) | 13 companies |
 | [PLM](categories/plm.md) | 1 company |
-| [PaaS](categories/paas.md) | 1 company |
+| [PaaS](categories/paas.md) | 2 companies |
 | [Package Management](categories/package-management.md) | 1 company |
 | [Payments](categories/payments.md) | 2 companies |
 | [Performance Monitoring](categories/performance-monitoring.md) | 1 company |
@@ -203,6 +203,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 | [Productivity](categories/productivity.md) | 5 companies |
 | [Project Management](categories/project-management.md) | 7 companies |
 | [Quantum Computing](categories/quantum-computing.md) | 2 companies |
+| [Query Engine](categories/query-engine.md) | 1 company |
 | [RAG](categories/rag.md) | 5 companies |
 | [Real-time collaboration](categories/realtime-collaboration.md) | 1 company |
 | [Red Teaming](categories/red-teaming.md) | 1 company |
@@ -212,13 +213,13 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 | [Retrieval-Augmented Generation](categories/retrievalaugmented-generation.md) | 2 companies |
 | [Reverse Proxy](categories/reverse-proxy.md) | 1 company |
 | [Rich Text Editor](categories/rich-text-editor.md) | 1 company |
-| [Robotics](categories/robotics.md) | 1 company |
+| [Robotics](categories/robotics.md) | 2 companies |
 | [Sandboxing](categories/sandboxing.md) | 1 company |
 | [Scheduling](categories/scheduling.md) | 3 companies |
 | [Search](categories/search.md) | 10 companies |
 | [Search Engine](categories/search-engine.md) | 2 companies |
 | [Secrets Management](categories/secrets-management.md) | 1 company |
-| [Security](categories/security.md) | 8 companies |
+| [Security](categories/security.md) | 6 companies |
 | [Simulation](categories/simulation.md) | 2 companies |
 | [Social Media](categories/social-media.md) | 3 companies |
 | [Speech Recognition](categories/speech-recognition.md) | 1 company |
@@ -229,16 +230,18 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 | [Test Automation](categories/test-automation.md) | 1 company |
 | [Testing](categories/testing.md) | 5 companies |
 | [Text-to-Speech](categories/texttospeech.md) | 3 companies |
-| [Time Series](categories/time-series.md) | 2 companies |
+| [Time Series](categories/time-series.md) | 3 companies |
 | [Transactional Email](categories/transactional-email.md) | 1 company |
 | [Transcription](categories/transcription.md) | 1 company |
 | [Translation](categories/translation.md) | 3 companies |
 | [UI Framework](categories/ui-framework.md) | 1 company |
 | [UI Library](categories/ui-library.md) | 1 company |
+| [Unstructured Data](categories/unstructured-data.md) | 1 company |
 | [Vector Database](categories/vector-database.md) | 6 companies |
 | [Version Control](categories/version-control.md) | 1 company |
 | [Video](categories/video.md) | 3 companies |
 | [Video Conferencing](categories/video-conferencing.md) | 2 companies |
+| [Video Editing](categories/video-editing.md) | 1 company |
 | [Video Generation](categories/video-generation.md) | 1 company |
 | [Virtual Machines](categories/virtual-machines.md) | 1 company |
 | [Virtualization](categories/virtualization.md) | 4 companies |
@@ -249,7 +252,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 | [Web Development](categories/web-development.md) | 5 companies |
 | [Web Framework](categories/web-framework.md) | 7 companies |
 | [Web Publishing](categories/web-publishing.md) | 1 company |
-| [Web Scraping](categories/web-scraping.md) | 2 companies |
+| [Web Scraping](categories/web-scraping.md) | 3 companies |
 | [WebAssembly](categories/webassembly.md) | 2 companies |
 | [Wiki](categories/wiki.md) | 2 companies |
 | [Workflow Automation](categories/workflow-automation.md) | 3 companies |

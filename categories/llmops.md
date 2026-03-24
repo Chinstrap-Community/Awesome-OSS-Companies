@@ -2,7 +2,7 @@
 
 [← Back to Index](../README.md)
 
-**2 companies**
+**3 companies**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -22,6 +22,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
+<tr><td><strong><a href="https://cossmology.com/organizations/agenta">Agenta</a></strong></td><td>Open-source LLMOps platform</td><td><a href="https://github.com/Agenta-AI/agenta">Agenta</a></td><td><a href="https://agenta.ai">Agenta</a></td><td><a href="https://cossmology.com/organizations/agenta/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Observability</code>, <code>Developer Tools</code>, <code>LLM Evaluation</code>, <code>LLMOps</code>, <code>MLOps</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/portkey">Portkey</a></strong></td><td>Unified control plane for production AI</td><td><a href="https://github.com/Portkey-AI/gateway">gateway</a></td><td><a href="https://portkey.ai">Portkey</a></td><td><a href="https://cossmology.com/organizations/portkey/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Governance</code>, <code>AI Infrastructure</code>, <code>AI Observability</code>, <code>LLM Gateway</code>, <code>LLMOps</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/whylabs">WhyLabs</a></strong></td><td>AI observability and LLM security platform</td><td><a href="https://github.com/whylabs/whylogs">whylogs</a></td><td><a href="https://whylabs.ai/">WhyLabs</a></td><td><a href="https://cossmology.com/organizations/whylabs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Observability</code>, <code>LLMOps</code>, <code>MLOps</code></td></tr>
 </tbody>

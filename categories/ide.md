@@ -2,7 +2,7 @@
 
 [← Back to Index](../README.md)
 
-**8 companies**
+**9 companies**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -30,5 +30,6 @@
 <tr><td><strong><a href="https://cossmology.com/organizations/obs-project">OBS Project</a></strong></td><td>Free open source video recording & streaming</td><td><a href="https://github.com/obsproject/bouf">bouf</a></td><td><a href="https://obsproject.com/">OBS Project</a></td><td><a href="https://cossmology.com/organizations/obs-project/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>C++</code>, <code>IDE</code>, <code>Streaming</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/owncast">Owncast</a></strong></td><td>Free open source live video and web chat</td><td><a href="https://github.com/owncast/activity">activity</a></td><td><a href="https://owncast.online/">Owncast</a></td><td><a href="https://cossmology.com/organizations/owncast/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Go</code>, <code>IDE</code>, <code>Streaming</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/sidequestjs">Sidequest.js</a></strong></td><td>Durable, distributed, cloud-agnostic Node.js queue</td><td><a href="https://github.com/sidequestjs/sidequest">Sidequest</a></td><td><a href="https://sidequestjs.com/">Sidequest.js</a></td><td><a href="https://cossmology.com/organizations/sidequestjs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>IDE</code>, <code>JavaScript</code>, <code>Job Processing</code>, <code>Node.js</code>, <code>TypeScript</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/zed-industries">Zed Industries</a></strong></td><td>Fast, collaborative code editor with AI</td><td><a href="https://github.com/zed-industries/zed">Zed</a></td><td><a href="https://zed.dev/">Zed Industries</a></td><td><a href="https://cossmology.com/organizations/zed-industries/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Code Editor</code>, <code>Developer Tools</code>, <code>IDE</code>, <code>Vibe Coding</code></td></tr>
 </tbody>
 </table>

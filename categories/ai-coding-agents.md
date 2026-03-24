@@ -2,7 +2,7 @@
 
 [← Back to Index](../README.md)
 
-**6 companies**
+**7 companies**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -27,6 +27,7 @@
 <tr><td><strong><a href="https://cossmology.com/organizations/emdash">Emdash</a></strong></td><td>Open-source agentic dev environment</td><td><a href="https://github.com/generalaction/emdash">emdash</a></td><td><a href="https://emdash.sh">Emdash</a></td><td><a href="https://cossmology.com/organizations/emdash/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Agentic AI</code>, <code>AI Coding Agents</code>, <code>Developer Tools</code>, <code>Development Environment</code>, <code>Git</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/hamster">Hamster</a></strong></td><td>AI-native delivery for product teams</td><td><a href="https://github.com/eyaltoledano/claude-task-master">Taskmaster</a></td><td><a href="https://tryhamster.com">Hamster</a></td><td><a href="https://cossmology.com/organizations/hamster/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Coding Agents</code>, <code>AI Development Tools</code>, <code>CLI Tools</code>, <code>Developer Tools</code>, <code>Project Management</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/manaflow">Manaflow</a></strong></td><td>Open-source AI coding agent manager</td><td><a href="https://github.com/manaflow-ai/cmux">cmux</a></td><td><a href="https://manaflow.com">Manaflow</a></td><td><a href="https://cossmology.com/organizations/manaflow/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Coding Agents</code>, <code>Agent Workflows</code>, <code>AI Agents</code>, <code>AI Development Tools</code>, <code>Developer Tools</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/million-software">Million Software</a></strong></td><td>Open-source React tools and coding agents</td><td><a href="https://github.com/aidenybai/million">Million.js</a></td><td><a href="https://million.dev">Million Software</a></td><td><a href="https://cossmology.com/organizations/million-software/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Coding Agents</code>, <code>Compilers</code>, <code>Developer Tools</code>, <code>Performance</code>, <code>React</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/potpie-ai">Potpie AI</a></strong></td><td>Codebase-aware AI agents for engineering</td><td><a href="https://github.com/potpie-ai/potpie">potpie</a></td><td><a href="https://potpie.ai">Potpie AI</a></td><td><a href="https://cossmology.com/organizations/potpie-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Agentic AI</code>, <code>AI Coding Agents</code>, <code>Code Intelligence</code></td></tr>
 </tbody>
 </table>

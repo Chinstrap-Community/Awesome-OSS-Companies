@@ -2,7 +2,7 @@
 
 [← Back to Index](../README.md)
 
-**2 companies**
+**3 companies**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -24,5 +24,6 @@
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/greptime">Greptime</a></strong></td><td>Observability DB for metrics, logs, and traces</td><td><a href="https://github.com/GreptimeTeam/greptimedb">GreptimeDB</a></td><td><a href="https://greptime.com">Greptime</a></td><td><a href="https://cossmology.com/organizations/greptime/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud-Native</code>, <code>Rust</code>, <code>Time Series</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/influxdata">InfluxData</a></strong></td><td>Time series database for real-time data & AI.</td><td><a href="https://github.com/influxdata/influxdb">influxdb</a></td><td><a href="https://www.influxdata.com/">InfluxData</a></td><td><a href="https://cossmology.com/organizations/influxdata/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Databases</code>, <code>Time Series</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/timescale">Timescale</a></strong></td><td>PostgreSQL-based time-series database</td><td><a href="https://github.com/timescale/timescaledb">TimescaleDB</a></td><td><a href="https://www.timescale.com">Timescale</a></td><td><a href="https://cossmology.com/organizations/timescale/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Database</code>, <code>Vector Database</code>, <code>IoT</code>, <code>PostgreSQL</code>, <code>Time-series</code></td></tr>
 </tbody>
 </table>

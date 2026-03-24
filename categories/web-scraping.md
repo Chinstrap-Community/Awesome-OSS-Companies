@@ -2,7 +2,7 @@
 
 [← Back to Index](../README.md)
 
-**2 companies**
+**3 companies**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -22,6 +22,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
+<tr><td><strong><a href="https://cossmology.com/organizations/apify">Apify</a></strong></td><td>Web scraping and data extraction platform</td><td><a href="https://github.com/apify/crawlee">Crawlee</a></td><td><a href="https://apify.com">Apify</a></td><td><a href="https://cossmology.com/organizations/apify/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Browser Automation</code>, <code>Cloud</code>, <code>Crawling</code>, <code>Data Extraction</code>, <code>Web Scraping</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/reworkd">Reworkd</a></strong></td><td>Automated web data extraction platform.</td><td><a href="https://github.com/reworkd/AgentGPT">AgentGPT</a></td><td><a href="https://www.reworkd.ai/">Reworkd</a></td><td><a href="https://cossmology.com/organizations/reworkd/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>Automation</code>, <code>Web Scraping</code>, <code>Workflow Orchestration</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/scrapegraphai">ScrapeGraphAI</a></strong></td><td>AI-powered web scraping API for agents</td><td><a href="https://github.com/ScrapeGraphAI/Scrapegraph-ai">Scrapegraph-ai</a></td><td><a href="https://scrapegraphai.com">ScrapeGraphAI</a></td><td><a href="https://cossmology.com/organizations/scrapegraphai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API</code>, <code>Web Scraping</code>, <code>AI Agents</code>, <code>Data Extraction</code>, <code>LLM</code></td></tr>
 </tbody>

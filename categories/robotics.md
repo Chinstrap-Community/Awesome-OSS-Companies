@@ -2,7 +2,7 @@
 
 [← Back to Index](../README.md)
 
-**1 company**
+**2 companies**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -22,6 +22,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
+<tr><td><strong><a href="https://cossmology.com/organizations/auterion">Auterion</a></strong></td><td>OS and software for autonomous drones</td><td><a href="https://github.com/PX4/PX4-Autopilot">PX4 Autopilot</a></td><td><a href="https://auterion.com">Auterion</a></td><td><a href="https://cossmology.com/organizations/auterion/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Autonomous Vehicles</code>, <code>Embedded Systems</code>, <code>Operating Systems</code>, <code>Robotics</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/opentrons">Opentrons</a></strong></td><td>Lab automation robots for scientists</td><td><a href="https://github.com/Opentrons/opentrons">opentrons</a></td><td><a href="https://opentrons.com/">Opentrons</a></td><td><a href="https://cossmology.com/organizations/opentrons/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Automation</code>, <code>Python</code>, <code>Robotics</code></td></tr>
 </tbody>
 </table>
