@@ -4,9 +4,15 @@ This repository serves as a directory of commercial open source software (COSS) 
 
 The information in this repository is sourced from [Cossmology](https://cossmology.com), a platform provided by [Chinstrap Community](https://chinstrap.community) for tracking and analyzing the commercial open source software landscape. This repository is jointly maintained by [Chinstrap Community](https://chinstrap.community) and [Puter](https://puter.com).
 
-## Companies
+## Browse the Full List
 
-**982 companies** across **248 categories**
+**[View all 1,019 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
+
+The searchable page lets you filter by category or search across company names, descriptions, and technology tags — all in one place.
+
+## Companies by Category
+
+**1,019 companies** across **255 categories**
 
 | Category | Companies |
 |---|---|
