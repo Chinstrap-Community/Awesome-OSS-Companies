@@ -3,26 +3,38 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Awesome OSS Companies</title>
+  <title>Awesome OSS Companies | Cossmology</title>
   <style>
     *, *::before, *::after { box-sizing: border-box; }
+
+    :root {
+      --navy:   #00274c;
+      --yellow: #ffcb05;
+      --green:  #16a34a;
+      --bg:     #f9fafb;
+      --white:  #ffffff;
+      --text:   #111827;
+      --muted:  #6b7280;
+      --border: #e5e7eb;
+      --hover:  #f3f4f6;
+    }
 
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background: #f6f8fa;
-      color: #24292f;
+      background: var(--bg);
+      color: var(--text);
     }
 
+    /* ── Header ── */
     header {
-      background: #ffffff;
-      border-bottom: 1px solid #d0d7de;
-      padding: 20px 24px 16px;
+      background: var(--navy);
+      padding: 0 24px;
       position: sticky;
       top: 0;
       z-index: 100;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.07);
+      box-shadow: 0 2px 8px rgba(0,0,0,0.25);
     }
 
     .header-top {
@@ -30,140 +42,181 @@
       align-items: center;
       gap: 16px;
       flex-wrap: wrap;
-      margin-bottom: 12px;
+      padding: 14px 0 10px;
+      border-bottom: 1px solid rgba(255,203,5,0.25);
     }
 
-    .header-top img {
-      height: 40px;
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
       flex-shrink: 0;
     }
-
-    .header-top h1 {
-      margin: 0;
-      font-size: 1.4rem;
-      font-weight: 700;
-      color: #24292f;
-      flex: 1;
-      min-width: 200px;
+    .brand img {
+      height: 36px;
+    }
+    .brand-text {
+      display: flex;
+      flex-direction: column;
+    }
+    .brand-name {
+      font-size: 1.25rem;
+      font-weight: 800;
+      color: var(--yellow);
+      letter-spacing: -0.01em;
+      line-height: 1.1;
+    }
+    .brand-sub {
+      font-size: 0.7rem;
+      color: rgba(255,255,255,0.55);
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
     }
 
-    .header-top .github-link {
+    .header-title {
+      flex: 1;
+      min-width: 0;
+    }
+    .header-title h1 {
+      margin: 0;
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--white);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .header-title p {
+      margin: 2px 0 0;
+      font-size: 0.75rem;
+      color: rgba(255,255,255,0.55);
+    }
+
+    .github-link {
       display: inline-flex;
       align-items: center;
       gap: 6px;
-      font-size: 0.85rem;
-      color: #57606a;
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: var(--navy);
+      background: var(--yellow);
       text-decoration: none;
-      border: 1px solid #d0d7de;
       border-radius: 6px;
-      padding: 5px 10px;
+      padding: 6px 12px;
       white-space: nowrap;
       flex-shrink: 0;
+      transition: opacity 0.15s;
     }
-    .header-top .github-link:hover { background: #f3f4f6; color: #24292f; }
+    .github-link:hover { opacity: 0.88; }
 
+    /* ── Controls bar ── */
     .controls {
       display: flex;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: wrap;
       align-items: center;
+      padding: 10px 0 12px;
     }
 
     .controls input[type="search"] {
       flex: 1;
       min-width: 200px;
-      max-width: 500px;
-      padding: 7px 12px;
-      border: 1px solid #d0d7de;
+      max-width: 480px;
+      padding: 8px 12px;
+      border: 1px solid rgba(255,255,255,0.2);
       border-radius: 6px;
-      font-size: 0.9rem;
+      font-size: 0.875rem;
       outline: none;
-      background: #f6f8fa;
+      background: rgba(255,255,255,0.1);
+      color: var(--white);
     }
+    .controls input[type="search"]::placeholder { color: rgba(255,255,255,0.45); }
     .controls input[type="search"]:focus {
-      border-color: #0969da;
-      background: #fff;
-      box-shadow: 0 0 0 3px rgba(9,105,218,0.12);
+      border-color: var(--yellow);
+      background: rgba(255,255,255,0.15);
+      box-shadow: 0 0 0 3px rgba(255,203,5,0.2);
     }
 
     .controls select {
-      padding: 7px 10px;
-      border: 1px solid #d0d7de;
+      padding: 8px 10px;
+      border: 1px solid rgba(255,255,255,0.2);
       border-radius: 6px;
-      font-size: 0.9rem;
-      background: #f6f8fa;
+      font-size: 0.875rem;
+      background: rgba(255,255,255,0.1);
+      color: var(--white);
       cursor: pointer;
       outline: none;
-      max-width: 260px;
+      max-width: 240px;
     }
-    .controls select:focus {
-      border-color: #0969da;
-      background: #fff;
-    }
-
-    .stats {
-      font-size: 0.82rem;
-      color: #57606a;
-      white-space: nowrap;
-      padding: 7px 0;
-    }
+    .controls select option { background: var(--navy); color: var(--white); }
+    .controls select:focus { border-color: var(--yellow); }
 
     .clear-btn {
-      padding: 7px 12px;
-      border: 1px solid #d0d7de;
+      padding: 8px 12px;
+      border: 1px solid rgba(255,255,255,0.2);
       border-radius: 6px;
-      font-size: 0.85rem;
-      background: #fff;
+      font-size: 0.82rem;
+      background: transparent;
       cursor: pointer;
-      color: #57606a;
+      color: rgba(255,255,255,0.7);
+      transition: all 0.15s;
     }
-    .clear-btn:hover { background: #f3f4f6; color: #24292f; }
+    .clear-btn:hover { background: rgba(255,255,255,0.1); color: var(--white); }
 
+    .stats {
+      font-size: 0.8rem;
+      color: rgba(255,255,255,0.55);
+      white-space: nowrap;
+      padding: 8px 0;
+    }
+
+    /* ── Main content ── */
     main {
       padding: 20px 24px;
-      max-width: 1400px;
+      max-width: 1500px;
       margin: 0 auto;
     }
 
+    /* ── Table ── */
     table {
       width: 100%;
       border-collapse: collapse;
-      background: #fff;
-      border: 1px solid #d0d7de;
+      background: var(--white);
+      border: 1px solid var(--border);
       border-radius: 8px;
       overflow: hidden;
-      font-size: 0.875rem;
+      font-size: 0.855rem;
       table-layout: fixed;
     }
 
     thead th {
-      background: #f6f8fa;
-      border-bottom: 1px solid #d0d7de;
+      background: var(--navy);
+      color: var(--yellow);
+      border-bottom: 2px solid var(--yellow);
       padding: 10px 12px;
       text-align: left;
-      font-weight: 600;
-      font-size: 0.8rem;
-      color: #57606a;
+      font-weight: 700;
+      font-size: 0.75rem;
       text-transform: uppercase;
-      letter-spacing: 0.04em;
-      position: sticky;
-      top: 0;
+      letter-spacing: 0.06em;
     }
 
-    /* Column widths */
-    th:nth-child(1), td:nth-child(1) { width: 14%; }  /* Company */
-    th:nth-child(2), td:nth-child(2) { width: 26%; }  /* Description */
-    th:nth-child(3), td:nth-child(3) { width: 11%; }  /* Category */
-    th:nth-child(4), td:nth-child(4) { width: 11%; }  /* OSS Project */
-    th:nth-child(5), td:nth-child(5) { width: 10%; }  /* Website */
-    th:nth-child(6), td:nth-child(6) { width: 28%; }  /* Technologies */
+    /* Column widths — 7 columns total */
+    th:nth-child(1), td:nth-child(1) { width: 12%; }   /* Company */
+    th:nth-child(2), td:nth-child(2) { width: 22%; }   /* Description */
+    th:nth-child(3), td:nth-child(3) { width: 10%; }   /* Category */
+    th:nth-child(4), td:nth-child(4) { width: 10%; }   /* OSS Project */
+    th:nth-child(5), td:nth-child(5) { width: 9%;  }   /* Website */
+    th:nth-child(6), td:nth-child(6) { width: 9%;  }   /* Headlines */
+    th:nth-child(7), td:nth-child(7) { width: 28%; }   /* Technologies */
 
     tbody tr {
-      border-bottom: 1px solid #eaeef2;
+      border-bottom: 1px solid var(--border);
       transition: background 0.1s;
     }
     tbody tr:last-child { border-bottom: none; }
-    tbody tr:hover { background: #f6f8fa; }
+    tbody tr:hover { background: #fffbeb; }  /* very light yellow tint on hover */
 
     td {
       padding: 10px 12px;
@@ -173,67 +226,75 @@
     }
 
     td a {
-      color: #0969da;
+      color: #004a9f;
       text-decoration: none;
       font-weight: 500;
     }
-    td a:hover { text-decoration: underline; }
+    td a:hover { color: var(--navy); text-decoration: underline; }
 
     .company-name {
-      font-weight: 600;
-      display: block;
+      font-weight: 700;
+      color: var(--navy);
     }
 
-    .cossmology-link {
-      font-size: 0.75rem;
-      color: #57606a !important;
-      font-weight: 400 !important;
+    .headlines-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--navy) !important;
+      background: var(--yellow);
+      border-radius: 5px;
+      padding: 3px 8px;
+      text-decoration: none !important;
+      transition: opacity 0.15s;
+      white-space: nowrap;
     }
+    .headlines-link:hover { opacity: 0.82; text-decoration: none !important; }
 
     .tag {
       display: inline-block;
-      background: #ddf4ff;
-      color: #0550ae;
-      border: 1px solid #b6e3ff;
+      background: #fffbeb;
+      color: #7d4e00;
+      border: 1px solid #fde68a;
       border-radius: 4px;
       padding: 1px 6px;
-      font-size: 0.72rem;
+      font-size: 0.71rem;
       margin: 1px 2px 1px 0;
       white-space: nowrap;
     }
 
     .category-badge {
       display: inline-block;
-      background: #fff8c5;
-      color: #7d4e00;
-      border: 1px solid #f0d080;
+      background: #e0f0ff;
+      color: #003a7a;
+      border: 1px solid #b3d4f5;
       border-radius: 4px;
       padding: 2px 7px;
-      font-size: 0.78rem;
-      font-weight: 500;
+      font-size: 0.76rem;
+      font-weight: 600;
     }
 
     .no-results {
       text-align: center;
       padding: 60px 20px;
-      color: #57606a;
+      color: var(--muted);
       font-size: 1rem;
     }
 
-    .oss-link {
-      font-size: 0.82rem;
+    /* ── Responsive ── */
+    @media (max-width: 1100px) {
+      th:nth-child(7), td:nth-child(7) { display: none; }
     }
-
-    @media (max-width: 900px) {
+    @media (max-width: 860px) {
       main { padding: 12px; }
-      header { padding: 12px; }
-      table { font-size: 0.8rem; }
-      th:nth-child(6), td:nth-child(6) { display: none; }
-    }
-
-    @media (max-width: 600px) {
+      header { padding: 0 12px; }
       th:nth-child(3), td:nth-child(3) { display: none; }
+    }
+    @media (max-width: 600px) {
       th:nth-child(5), td:nth-child(5) { display: none; }
+      th:nth-child(4), td:nth-child(4) { display: none; }
     }
   </style>
 </head>
@@ -241,10 +302,18 @@
 
 <header>
   <div class="header-top">
-    <img src="https://raw.githubusercontent.com/Chinstrap-Community/Awesome-OSS-Companies/main/banner.png" alt="Awesome OSS Companies" onerror="this.style.display='none'">
-    <h1>Awesome OSS Companies</h1>
-    <a class="github-link" href="https://github.com/Chinstrap-Community/Awesome-OSS-Companies" target="_blank">
-      <svg height="16" viewBox="0 0 16 16" width="16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+    <a class="brand" href="https://cossmology.com" target="_blank" rel="noopener">
+      <div class="brand-text">
+        <span class="brand-name">Cossmology</span>
+        <span class="brand-sub">by Chinstrap Community</span>
+      </div>
+    </a>
+    <div class="header-title">
+      <h1>Awesome OSS Companies</h1>
+      <p>A directory of commercial open source software (COSS) companies</p>
+    </div>
+    <a class="github-link" href="https://github.com/Chinstrap-Community/Awesome-OSS-Companies" target="_blank" rel="noopener">
+      <svg height="15" viewBox="0 0 16 16" width="15" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
       View on GitHub
     </a>
   </div>
@@ -268,6 +337,7 @@
         <th>Category</th>
         <th>OSS Project</th>
         <th>Website</th>
+        <th>Headlines</th>
         <th>Technologies</th>
       </tr>
     </thead>
@@ -290,11 +360,13 @@ const table = document.getElementById('companiesTable');
 function buildRow(c) {
   const techTags = c.tech_tags.map(t => `<span class="tag">${t}</span>`).join('');
   const ossCell = c.oss_url
-    ? `<a href="${c.oss_url}" class="oss-link" target="_blank" rel="noopener">${c.oss_name || c.oss_url}</a>`
+    ? `<a href="${c.oss_url}" target="_blank" rel="noopener">${c.oss_name || c.oss_url}</a>`
     : '';
   const websiteCell = c.website_url
     ? `<a href="${c.website_url}" target="_blank" rel="noopener">${c.name}</a>`
     : '';
+  const headlinesUrl = `https://cossmology.com/organizations/${c.shortname}/headlines`;
+  const headlinesCell = `<a class="headlines-link" href="${headlinesUrl}" target="_blank" rel="noopener">Headlines ›</a>`;
   const companyCell = `<a class="company-name" href="${c.cossmology_url}" target="_blank" rel="noopener">${c.name}</a>`;
   const categoryCell = `<span class="category-badge">${c.category}</span>`;
 
@@ -304,6 +376,7 @@ function buildRow(c) {
     <td>${categoryCell}</td>
     <td>${ossCell}</td>
     <td>${websiteCell}</td>
+    <td>${headlinesCell}</td>
     <td>${techTags}</td>
   </tr>`;
 }
@@ -311,7 +384,6 @@ function buildRow(c) {
 // Render all rows once on load
 tbody.innerHTML = COMPANIES.map(buildRow).join('');
 const allRows = Array.from(tbody.querySelectorAll('tr'));
-updateStats(allRows.length, allRows.length);
 
 function updateStats(shown, total) {
   statsEl.textContent = shown === total
@@ -354,7 +426,6 @@ clearBtn.addEventListener('click', () => {
   searchInput.focus();
 });
 
-// Initial stats
 filterTable();
 </script>
 </body>
