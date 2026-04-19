@@ -1,0 +1,43 @@
+name: Regenerate GitHub Pages
+
+# Runs automatically whenever changes are pushed/merged to main.
+# Also allows manual triggering from the Actions tab.
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "categories/**"
+      - "scripts/generate_pages.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Regenerate docs/index.html
+        run: python3 scripts/generate_pages.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/index.html
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No changes to docs/index.html — skipping commit."
+          else
+            git commit -m "chore: regenerate docs/index.html from category files [skip ci]"
+            git push
+          fi
