@@ -16,7 +16,6 @@
       --text:   #111827;
       --muted:  #6b7280;
       --border: #e5e7eb;
-      --hover:  #f3f4f6;
     }
 
     body {
@@ -27,7 +26,6 @@
       color: var(--text);
     }
 
-    /* ── Header ── */
     header {
       background: var(--navy);
       padding: 0 24px;
@@ -53,13 +51,7 @@
       text-decoration: none;
       flex-shrink: 0;
     }
-    .brand img {
-      height: 36px;
-    }
-    .brand-text {
-      display: flex;
-      flex-direction: column;
-    }
+    .brand-text { display: flex; flex-direction: column; }
     .brand-name {
       font-size: 1.25rem;
       font-weight: 800;
@@ -74,10 +66,7 @@
       text-transform: uppercase;
     }
 
-    .header-title {
-      flex: 1;
-      min-width: 0;
-    }
+    .header-title { flex: 1; min-width: 0; }
     .header-title h1 {
       margin: 0;
       font-size: 1rem;
@@ -110,7 +99,6 @@
     }
     .github-link:hover { opacity: 0.88; }
 
-    /* ── Controls bar ── */
     .controls {
       display: flex;
       gap: 8px;
@@ -171,14 +159,12 @@
       padding: 8px 0;
     }
 
-    /* ── Main content ── */
     main {
       padding: 20px 24px;
       max-width: 1500px;
       margin: 0 auto;
     }
 
-    /* ── Table ── */
     table {
       width: 100%;
       border-collapse: collapse;
@@ -202,21 +188,20 @@
       letter-spacing: 0.06em;
     }
 
-    /* Column widths — 7 columns total */
-    th:nth-child(1), td:nth-child(1) { width: 12%; }   /* Company */
-    th:nth-child(2), td:nth-child(2) { width: 22%; }   /* Description */
-    th:nth-child(3), td:nth-child(3) { width: 10%; }   /* Category */
-    th:nth-child(4), td:nth-child(4) { width: 10%; }   /* OSS Project */
-    th:nth-child(5), td:nth-child(5) { width: 9%;  }   /* Website */
-    th:nth-child(6), td:nth-child(6) { width: 9%;  }   /* Headlines */
-    th:nth-child(7), td:nth-child(7) { width: 28%; }   /* Technologies */
+    th:nth-child(1), td:nth-child(1) { width: 12%; }
+    th:nth-child(2), td:nth-child(2) { width: 22%; }
+    th:nth-child(3), td:nth-child(3) { width: 10%; }
+    th:nth-child(4), td:nth-child(4) { width: 10%; }
+    th:nth-child(5), td:nth-child(5) { width: 9%;  }
+    th:nth-child(6), td:nth-child(6) { width: 9%;  }
+    th:nth-child(7), td:nth-child(7) { width: 28%; }
 
     tbody tr {
       border-bottom: 1px solid var(--border);
       transition: background 0.1s;
     }
     tbody tr:last-child { border-bottom: none; }
-    tbody tr:hover { background: #fffbeb; }  /* very light yellow tint on hover */
+    tbody tr:hover { background: #fffbeb; }
 
     td {
       padding: 10px 12px;
@@ -225,17 +210,10 @@
       overflow-wrap: break-word;
     }
 
-    td a {
-      color: #004a9f;
-      text-decoration: none;
-      font-weight: 500;
-    }
+    td a { color: #004a9f; text-decoration: none; font-weight: 500; }
     td a:hover { color: var(--navy); text-decoration: underline; }
 
-    .company-name {
-      font-weight: 700;
-      color: var(--navy);
-    }
+    .company-name { font-weight: 700; color: var(--navy); }
 
     .headlines-link {
       display: inline-flex;
@@ -283,7 +261,6 @@
       font-size: 1rem;
     }
 
-    /* ── Responsive ── */
     @media (max-width: 1100px) {
       th:nth-child(7), td:nth-child(7) { display: none; }
     }
@@ -293,8 +270,8 @@
       th:nth-child(3), td:nth-child(3) { display: none; }
     }
     @media (max-width: 600px) {
-      th:nth-child(5), td:nth-child(5) { display: none; }
       th:nth-child(4), td:nth-child(4) { display: none; }
+      th:nth-child(5), td:nth-child(5) { display: none; }
     }
   </style>
 </head>
@@ -321,7 +298,261 @@
     <input type="search" id="searchInput" placeholder="Search companies, descriptions, technologies..." autocomplete="off">
     <select id="categoryFilter">
       <option value="">All categories (255)</option>
-      <option value="5G/4G RAN">5G/4G RAN</option><option value="A/B Testing">A/B Testing</option><option value="AGI">AGI</option><option value="AI Agents">AI Agents</option><option value="AI Chat">AI Chat</option><option value="AI Coding Agents">AI Coding Agents</option><option value="AI Coding Assistant">AI Coding Assistant</option><option value="AI Development Platform">AI Development Platform</option><option value="AI Framework">AI Framework</option><option value="AI Infrastructure">AI Infrastructure</option><option value="AI Memory">AI Memory</option><option value="AI Observability">AI Observability</option><option value="AI Orchestration">AI Orchestration</option><option value="AI evaluation">AI evaluation</option><option value="API Gateway">API Gateway</option><option value="API Management">API Management</option><option value="API Platform">API Platform</option><option value="API Security">API Security</option><option value="Accounting">Accounting</option><option value="Advanced Materials">Advanced Materials</option><option value="Agent Memory">Agent Memory</option><option value="Alerting">Alerting</option><option value="Algorithmic Trading">Algorithmic Trading</option><option value="Analytics">Analytics</option><option value="Animation">Animation</option><option value="App Deployment">App Deployment</option><option value="Application Security">Application Security</option><option value="Audio">Audio</option><option value="Authentication">Authentication</option><option value="Authorization">Authorization</option><option value="Automotive Software">Automotive Software</option><option value="Autonomous Vehicles">Autonomous Vehicles</option><option value="BPM">BPM</option><option value="Backup">Backup</option><option value="Batch Processing">Batch Processing</option><option value="Billing">Billing</option><option value="Bioinformatics">Bioinformatics</option><option value="Biotech">Biotech</option><option value="Block Storage">Block Storage</option><option value="Blockchain">Blockchain</option><option value="Browser Automation">Browser Automation</option><option value="Business Intelligence">Business Intelligence</option><option value="Business Process Automation">Business Process Automation</option><option value="CI/CD">CI/CD</option><option value="CMS">CMS</option><option value="CPaaS">CPaaS</option><option value="CRM">CRM</option><option value="Caching">Caching</option><option value="Calendar">Calendar</option><option value="Charging">Charging</option><option value="Chatbot">Chatbot</option><option value="Chrome Extension">Chrome Extension</option><option value="Cloud Cost Management">Cloud Cost Management</option><option value="Cloud Data Warehouse">Cloud Data Warehouse</option><option value="Cloud Infrastructure">Cloud Infrastructure</option><option value="Cloud Platform">Cloud Platform</option><option value="Cloud Security">Cloud Security</option><option value="Code Analysis">Code Analysis</option><option value="Code Editor">Code Editor</option><option value="Code Generation">Code Generation</option><option value="Code Quality">Code Quality</option><option value="Code Search">Code Search</option><option value="Collaboration">Collaboration</option><option value="Community Platform">Community Platform</option><option value="Compilers">Compilers</option><option value="Compliance">Compliance</option><option value="Computer Vision">Computer Vision</option><option value="Container Orchestration">Container Orchestration</option><option value="Containerization">Containerization</option><option value="Content Aggregation">Content Aggregation</option><option value="Content Management">Content Management</option><option value="Continuous Profiling">Continuous Profiling</option><option value="Conversational AI">Conversational AI</option><option value="Cost Management">Cost Management</option><option value="Crash Reporting">Crash Reporting</option><option value="Cross-Platform">Cross-Platform</option><option value="Crypto Wallet">Crypto Wallet</option><option value="Cryptography">Cryptography</option><option value="Customer Data Platform">Customer Data Platform</option><option value="Cybersecurity">Cybersecurity</option><option value="Dashboard">Dashboard</option><option value="Data Analytics">Data Analytics</option><option value="Data Backup">Data Backup</option><option value="Data Engineering">Data Engineering</option><option value="Data Integration">Data Integration</option><option value="Data Labeling">Data Labeling</option><option value="Data Lake">Data Lake</option><option value="Data Lakehouse">Data Lakehouse</option><option value="Data Lineage">Data Lineage</option><option value="Data Management">Data Management</option><option value="Data Observability">Data Observability</option><option value="Data Orchestration">Data Orchestration</option><option value="Data Pipelines">Data Pipelines</option><option value="Data Quality">Data Quality</option><option value="Data Room">Data Room</option><option value="Data Science">Data Science</option><option value="Data Security">Data Security</option><option value="Data Streaming">Data Streaming</option><option value="Data Transformation">Data Transformation</option><option value="Data Visualization">Data Visualization</option><option value="Database">Database</option><option value="Decentralized">Decentralized</option><option value="Decentralized Identity">Decentralized Identity</option><option value="Deepfake Detection">Deepfake Detection</option><option value="Deployment">Deployment</option><option value="Design Tools">Design Tools</option><option value="Desktop">Desktop</option><option value="DevOps">DevOps</option><option value="DevSecOps">DevSecOps</option><option value="Developer Portal">Developer Portal</option><option value="Developer Tools">Developer Tools</option><option value="Diagramming">Diagramming</option><option value="Differential Privacy">Differential Privacy</option><option value="Digital Payments">Digital Payments</option><option value="Distributed Computing">Distributed Computing</option><option value="Distributed Systems">Distributed Systems</option><option value="Document Intelligence">Document Intelligence</option><option value="Document Processing">Document Processing</option><option value="Documentation">Documentation</option><option value="E-commerce Platform">E-commerce Platform</option><option value="E-learning">E-learning</option><option value="E-signature">E-signature</option><option value="EHR">EHR</option><option value="ERP">ERP</option><option value="ETL">ETL</option><option value="Ecommerce">Ecommerce</option><option value="Edge AI">Edge AI</option><option value="Edge Computing">Edge Computing</option><option value="Email Marketing">Email Marketing</option><option value="Embedded Systems">Embedded Systems</option><option value="Embeddings">Embeddings</option><option value="Enterprise Search">Enterprise Search</option><option value="File Sharing">File Sharing</option><option value="File Storage">File Storage</option><option value="Fintech">Fintech</option><option value="Form Builder">Form Builder</option><option value="GPU Computing">GPU Computing</option><option value="Gaming">Gaming</option><option value="Generative AI">Generative AI</option><option value="Geospatial">Geospatial</option><option value="Git Hosting">Git Hosting</option><option value="GitOps">GitOps</option><option value="Graph Database">Graph Database</option><option value="GraphQL">GraphQL</option><option value="HPC">HPC</option><option value="Headless CMS">Headless CMS</option><option value="HealthTech">HealthTech</option><option value="IDE">IDE</option><option value="Identity Management">Identity Management</option><option value="Image Generation">Image Generation</option><option value="Image Recognition">Image Recognition</option><option value="In-Memory Database">In-Memory Database</option><option value="Inference">Inference</option><option value="Infrastructure as Code">Infrastructure as Code</option><option value="Integration Frameworks">Integration Frameworks</option><option value="Intrusion Detection System (IDS)">Intrusion Detection System (IDS)</option><option value="IoT">IoT</option><option value="Knowledge Management">Knowledge Management</option><option value="Kubernetes">Kubernetes</option><option value="LLM Evaluation">LLM Evaluation</option><option value="LLM Gateway">LLM Gateway</option><option value="LLM Training">LLM Training</option><option value="LLMOps">LLMOps</option><option value="Large Language Models (LLMs)">Large Language Models (LLMs)</option><option value="Link Shortening">Link Shortening</option><option value="Linux">Linux</option><option value="Localization">Localization</option><option value="Log Management">Log Management</option><option value="Low-Code">Low-Code</option><option value="MCP">MCP</option><option value="MLOps">MLOps</option><option value="Machine Learning">Machine Learning</option><option value="Messaging">Messaging</option><option value="Mobile Apps">Mobile Apps</option><option value="Mobile Automation">Mobile Automation</option><option value="Mobile Development">Mobile Development</option><option value="Model Monitoring">Model Monitoring</option><option value="Monitoring">Monitoring</option><option value="Multi-Agent Systems">Multi-Agent Systems</option><option value="Multimodal">Multimodal</option><option value="Natural Language Processing">Natural Language Processing</option><option value="Network Management">Network Management</option><option value="Network Monitoring">Network Monitoring</option><option value="Network Security">Network Security</option><option value="Networking">Networking</option><option value="No-Code">No-Code</option><option value="Note-taking">Note-taking</option><option value="Object Storage">Object Storage</option><option value="Observability">Observability</option><option value="PLM">PLM</option><option value="PaaS">PaaS</option><option value="Package Management">Package Management</option><option value="Payments">Payments</option><option value="Performance Monitoring">Performance Monitoring</option><option value="Performance Testing">Performance Testing</option><option value="Platform Engineering">Platform Engineering</option><option value="Privacy">Privacy</option><option value="Productivity">Productivity</option><option value="Project Management">Project Management</option><option value="Quantum Computing">Quantum Computing</option><option value="Query Engine">Query Engine</option><option value="RAG">RAG</option><option value="Real-time collaboration">Real-time collaboration</option><option value="Red Teaming">Red Teaming</option><option value="Remote Desktop">Remote Desktop</option><option value="Reporting">Reporting</option><option value="Research">Research</option><option value="Retrieval-Augmented Generation">Retrieval-Augmented Generation</option><option value="Reverse Proxy">Reverse Proxy</option><option value="Rich Text Editor">Rich Text Editor</option><option value="Robotics">Robotics</option><option value="Sandboxing">Sandboxing</option><option value="Scheduling">Scheduling</option><option value="Search">Search</option><option value="Search Engine">Search Engine</option><option value="Secrets Management">Secrets Management</option><option value="Security">Security</option><option value="Simulation">Simulation</option><option value="Social Media">Social Media</option><option value="Speech Recognition">Speech Recognition</option><option value="Storage">Storage</option><option value="Supply Chain Security">Supply Chain Security</option><option value="Survey">Survey</option><option value="Synthetic Data">Synthetic Data</option><option value="Test Automation">Test Automation</option><option value="Testing">Testing</option><option value="Text-to-Speech">Text-to-Speech</option><option value="Time Series">Time Series</option><option value="Transactional Email">Transactional Email</option><option value="Transcription">Transcription</option><option value="Translation">Translation</option><option value="UI Framework">UI Framework</option><option value="UI Library">UI Library</option><option value="Unstructured Data">Unstructured Data</option><option value="Vector Database">Vector Database</option><option value="Version Control">Version Control</option><option value="Video">Video</option><option value="Video Conferencing">Video Conferencing</option><option value="Video Editing">Video Editing</option><option value="Video Generation">Video Generation</option><option value="Virtual Machines">Virtual Machines</option><option value="Virtualization">Virtualization</option><option value="VoIP">VoIP</option><option value="Voice Recognition">Voice Recognition</option><option value="Web Analytics">Web Analytics</option><option value="Web Automation">Web Automation</option><option value="Web Development">Web Development</option><option value="Web Framework">Web Framework</option><option value="Web Publishing">Web Publishing</option><option value="Web Scraping">Web Scraping</option><option value="WebAssembly">WebAssembly</option><option value="Wiki">Wiki</option><option value="Workflow Automation">Workflow Automation</option><option value="Workflow Orchestration">Workflow Orchestration</option><option value="Zero Trust">Zero Trust</option>
+      <option value="5G/4G RAN">5G/4G RAN</option>
+      <option value="A/B Testing">A/B Testing</option>
+      <option value="AGI">AGI</option>
+      <option value="AI Agents">AI Agents</option>
+      <option value="AI Chat">AI Chat</option>
+      <option value="AI Coding Agents">AI Coding Agents</option>
+      <option value="AI Coding Assistant">AI Coding Assistant</option>
+      <option value="AI Development Platform">AI Development Platform</option>
+      <option value="AI Framework">AI Framework</option>
+      <option value="AI Infrastructure">AI Infrastructure</option>
+      <option value="AI Memory">AI Memory</option>
+      <option value="AI Observability">AI Observability</option>
+      <option value="AI Orchestration">AI Orchestration</option>
+      <option value="AI evaluation">AI evaluation</option>
+      <option value="API Gateway">API Gateway</option>
+      <option value="API Management">API Management</option>
+      <option value="API Platform">API Platform</option>
+      <option value="API Security">API Security</option>
+      <option value="Accounting">Accounting</option>
+      <option value="Advanced Materials">Advanced Materials</option>
+      <option value="Agent Memory">Agent Memory</option>
+      <option value="Alerting">Alerting</option>
+      <option value="Algorithmic Trading">Algorithmic Trading</option>
+      <option value="Analytics">Analytics</option>
+      <option value="Animation">Animation</option>
+      <option value="App Deployment">App Deployment</option>
+      <option value="Application Security">Application Security</option>
+      <option value="Audio">Audio</option>
+      <option value="Authentication">Authentication</option>
+      <option value="Authorization">Authorization</option>
+      <option value="Automotive Software">Automotive Software</option>
+      <option value="Autonomous Vehicles">Autonomous Vehicles</option>
+      <option value="BPM">BPM</option>
+      <option value="Backup">Backup</option>
+      <option value="Batch Processing">Batch Processing</option>
+      <option value="Billing">Billing</option>
+      <option value="Bioinformatics">Bioinformatics</option>
+      <option value="Biotech">Biotech</option>
+      <option value="Block Storage">Block Storage</option>
+      <option value="Blockchain">Blockchain</option>
+      <option value="Browser Automation">Browser Automation</option>
+      <option value="Business Intelligence">Business Intelligence</option>
+      <option value="Business Process Automation">Business Process Automation</option>
+      <option value="CI/CD">CI/CD</option>
+      <option value="CMS">CMS</option>
+      <option value="CPaaS">CPaaS</option>
+      <option value="CRM">CRM</option>
+      <option value="Caching">Caching</option>
+      <option value="Calendar">Calendar</option>
+      <option value="Charging">Charging</option>
+      <option value="Chatbot">Chatbot</option>
+      <option value="Chrome Extension">Chrome Extension</option>
+      <option value="Cloud Cost Management">Cloud Cost Management</option>
+      <option value="Cloud Data Warehouse">Cloud Data Warehouse</option>
+      <option value="Cloud Infrastructure">Cloud Infrastructure</option>
+      <option value="Cloud Platform">Cloud Platform</option>
+      <option value="Cloud Security">Cloud Security</option>
+      <option value="Code Analysis">Code Analysis</option>
+      <option value="Code Editor">Code Editor</option>
+      <option value="Code Generation">Code Generation</option>
+      <option value="Code Quality">Code Quality</option>
+      <option value="Code Search">Code Search</option>
+      <option value="Collaboration">Collaboration</option>
+      <option value="Community Platform">Community Platform</option>
+      <option value="Compilers">Compilers</option>
+      <option value="Compliance">Compliance</option>
+      <option value="Computer Vision">Computer Vision</option>
+      <option value="Container Orchestration">Container Orchestration</option>
+      <option value="Containerization">Containerization</option>
+      <option value="Content Aggregation">Content Aggregation</option>
+      <option value="Content Management">Content Management</option>
+      <option value="Continuous Profiling">Continuous Profiling</option>
+      <option value="Conversational AI">Conversational AI</option>
+      <option value="Cost Management">Cost Management</option>
+      <option value="Crash Reporting">Crash Reporting</option>
+      <option value="Cross-Platform">Cross-Platform</option>
+      <option value="Crypto Wallet">Crypto Wallet</option>
+      <option value="Cryptography">Cryptography</option>
+      <option value="Customer Data Platform">Customer Data Platform</option>
+      <option value="Cybersecurity">Cybersecurity</option>
+      <option value="Dashboard">Dashboard</option>
+      <option value="Data Analytics">Data Analytics</option>
+      <option value="Data Backup">Data Backup</option>
+      <option value="Data Engineering">Data Engineering</option>
+      <option value="Data Integration">Data Integration</option>
+      <option value="Data Labeling">Data Labeling</option>
+      <option value="Data Lake">Data Lake</option>
+      <option value="Data Lakehouse">Data Lakehouse</option>
+      <option value="Data Lineage">Data Lineage</option>
+      <option value="Data Management">Data Management</option>
+      <option value="Data Observability">Data Observability</option>
+      <option value="Data Orchestration">Data Orchestration</option>
+      <option value="Data Pipelines">Data Pipelines</option>
+      <option value="Data Quality">Data Quality</option>
+      <option value="Data Room">Data Room</option>
+      <option value="Data Science">Data Science</option>
+      <option value="Data Security">Data Security</option>
+      <option value="Data Streaming">Data Streaming</option>
+      <option value="Data Transformation">Data Transformation</option>
+      <option value="Data Visualization">Data Visualization</option>
+      <option value="Database">Database</option>
+      <option value="Decentralized">Decentralized</option>
+      <option value="Decentralized Identity">Decentralized Identity</option>
+      <option value="Deepfake Detection">Deepfake Detection</option>
+      <option value="Deployment">Deployment</option>
+      <option value="Design Tools">Design Tools</option>
+      <option value="Desktop">Desktop</option>
+      <option value="DevOps">DevOps</option>
+      <option value="DevSecOps">DevSecOps</option>
+      <option value="Developer Portal">Developer Portal</option>
+      <option value="Developer Tools">Developer Tools</option>
+      <option value="Diagramming">Diagramming</option>
+      <option value="Differential Privacy">Differential Privacy</option>
+      <option value="Digital Payments">Digital Payments</option>
+      <option value="Distributed Computing">Distributed Computing</option>
+      <option value="Distributed Systems">Distributed Systems</option>
+      <option value="Document Intelligence">Document Intelligence</option>
+      <option value="Document Processing">Document Processing</option>
+      <option value="Documentation">Documentation</option>
+      <option value="E-commerce Platform">E-commerce Platform</option>
+      <option value="E-learning">E-learning</option>
+      <option value="E-signature">E-signature</option>
+      <option value="EHR">EHR</option>
+      <option value="ERP">ERP</option>
+      <option value="ETL">ETL</option>
+      <option value="Ecommerce">Ecommerce</option>
+      <option value="Edge AI">Edge AI</option>
+      <option value="Edge Computing">Edge Computing</option>
+      <option value="Email Marketing">Email Marketing</option>
+      <option value="Embedded Systems">Embedded Systems</option>
+      <option value="Embeddings">Embeddings</option>
+      <option value="Enterprise Search">Enterprise Search</option>
+      <option value="File Sharing">File Sharing</option>
+      <option value="File Storage">File Storage</option>
+      <option value="Fintech">Fintech</option>
+      <option value="Form Builder">Form Builder</option>
+      <option value="GPU Computing">GPU Computing</option>
+      <option value="Gaming">Gaming</option>
+      <option value="Generative AI">Generative AI</option>
+      <option value="Geospatial">Geospatial</option>
+      <option value="Git Hosting">Git Hosting</option>
+      <option value="GitOps">GitOps</option>
+      <option value="Graph Database">Graph Database</option>
+      <option value="GraphQL">GraphQL</option>
+      <option value="HPC">HPC</option>
+      <option value="Headless CMS">Headless CMS</option>
+      <option value="HealthTech">HealthTech</option>
+      <option value="IDE">IDE</option>
+      <option value="Identity Management">Identity Management</option>
+      <option value="Image Generation">Image Generation</option>
+      <option value="Image Recognition">Image Recognition</option>
+      <option value="In-Memory Database">In-Memory Database</option>
+      <option value="Inference">Inference</option>
+      <option value="Infrastructure as Code">Infrastructure as Code</option>
+      <option value="Integration Frameworks">Integration Frameworks</option>
+      <option value="Intrusion Detection System (IDS)">Intrusion Detection System (IDS)</option>
+      <option value="IoT">IoT</option>
+      <option value="Knowledge Management">Knowledge Management</option>
+      <option value="Kubernetes">Kubernetes</option>
+      <option value="LLM Evaluation">LLM Evaluation</option>
+      <option value="LLM Gateway">LLM Gateway</option>
+      <option value="LLM Training">LLM Training</option>
+      <option value="LLMOps">LLMOps</option>
+      <option value="Large Language Models (LLMs)">Large Language Models (LLMs)</option>
+      <option value="Link Shortening">Link Shortening</option>
+      <option value="Linux">Linux</option>
+      <option value="Localization">Localization</option>
+      <option value="Log Management">Log Management</option>
+      <option value="Low-Code">Low-Code</option>
+      <option value="MCP">MCP</option>
+      <option value="MLOps">MLOps</option>
+      <option value="Machine Learning">Machine Learning</option>
+      <option value="Messaging">Messaging</option>
+      <option value="Mobile Apps">Mobile Apps</option>
+      <option value="Mobile Automation">Mobile Automation</option>
+      <option value="Mobile Development">Mobile Development</option>
+      <option value="Model Monitoring">Model Monitoring</option>
+      <option value="Monitoring">Monitoring</option>
+      <option value="Multi-Agent Systems">Multi-Agent Systems</option>
+      <option value="Multimodal">Multimodal</option>
+      <option value="Natural Language Processing">Natural Language Processing</option>
+      <option value="Network Management">Network Management</option>
+      <option value="Network Monitoring">Network Monitoring</option>
+      <option value="Network Security">Network Security</option>
+      <option value="Networking">Networking</option>
+      <option value="No-Code">No-Code</option>
+      <option value="Note-taking">Note-taking</option>
+      <option value="Object Storage">Object Storage</option>
+      <option value="Observability">Observability</option>
+      <option value="PLM">PLM</option>
+      <option value="PaaS">PaaS</option>
+      <option value="Package Management">Package Management</option>
+      <option value="Payments">Payments</option>
+      <option value="Performance Monitoring">Performance Monitoring</option>
+      <option value="Performance Testing">Performance Testing</option>
+      <option value="Platform Engineering">Platform Engineering</option>
+      <option value="Privacy">Privacy</option>
+      <option value="Productivity">Productivity</option>
+      <option value="Project Management">Project Management</option>
+      <option value="Quantum Computing">Quantum Computing</option>
+      <option value="Query Engine">Query Engine</option>
+      <option value="RAG">RAG</option>
+      <option value="Real-time collaboration">Real-time collaboration</option>
+      <option value="Red Teaming">Red Teaming</option>
+      <option value="Remote Desktop">Remote Desktop</option>
+      <option value="Reporting">Reporting</option>
+      <option value="Research">Research</option>
+      <option value="Retrieval-Augmented Generation">Retrieval-Augmented Generation</option>
+      <option value="Reverse Proxy">Reverse Proxy</option>
+      <option value="Rich Text Editor">Rich Text Editor</option>
+      <option value="Robotics">Robotics</option>
+      <option value="Sandboxing">Sandboxing</option>
+      <option value="Scheduling">Scheduling</option>
+      <option value="Search">Search</option>
+      <option value="Search Engine">Search Engine</option>
+      <option value="Secrets Management">Secrets Management</option>
+      <option value="Security">Security</option>
+      <option value="Simulation">Simulation</option>
+      <option value="Social Media">Social Media</option>
+      <option value="Speech Recognition">Speech Recognition</option>
+      <option value="Storage">Storage</option>
+      <option value="Supply Chain Security">Supply Chain Security</option>
+      <option value="Survey">Survey</option>
+      <option value="Synthetic Data">Synthetic Data</option>
+      <option value="Test Automation">Test Automation</option>
+      <option value="Testing">Testing</option>
+      <option value="Text-to-Speech">Text-to-Speech</option>
+      <option value="Time Series">Time Series</option>
+      <option value="Transactional Email">Transactional Email</option>
+      <option value="Transcription">Transcription</option>
+      <option value="Translation">Translation</option>
+      <option value="UI Framework">UI Framework</option>
+      <option value="UI Library">UI Library</option>
+      <option value="Unstructured Data">Unstructured Data</option>
+      <option value="Vector Database">Vector Database</option>
+      <option value="Version Control">Version Control</option>
+      <option value="Video">Video</option>
+      <option value="Video Conferencing">Video Conferencing</option>
+      <option value="Video Editing">Video Editing</option>
+      <option value="Video Generation">Video Generation</option>
+      <option value="Virtual Machines">Virtual Machines</option>
+      <option value="Virtualization">Virtualization</option>
+      <option value="VoIP">VoIP</option>
+      <option value="Voice Recognition">Voice Recognition</option>
+      <option value="Web Analytics">Web Analytics</option>
+      <option value="Web Automation">Web Automation</option>
+      <option value="Web Development">Web Development</option>
+      <option value="Web Framework">Web Framework</option>
+      <option value="Web Publishing">Web Publishing</option>
+      <option value="Web Scraping">Web Scraping</option>
+      <option value="WebAssembly">WebAssembly</option>
+      <option value="Wiki">Wiki</option>
+      <option value="Workflow Automation">Workflow Automation</option>
+      <option value="Workflow Orchestration">Workflow Orchestration</option>
+      <option value="Zero Trust">Zero Trust</option>
     </select>
     <button class="clear-btn" id="clearBtn">Clear</button>
     <span class="stats" id="stats"></span>
@@ -381,7 +612,6 @@ function buildRow(c) {
   </tr>`;
 }
 
-// Render all rows once on load
 tbody.innerHTML = COMPANIES.map(buildRow).join('');
 const allRows = Array.from(tbody.querySelectorAll('tr'));
 
