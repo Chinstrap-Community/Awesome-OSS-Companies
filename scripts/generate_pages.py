@@ -284,6 +284,8 @@ def build_html(companies: list[dict]) -> str:
     .table-wrap {{
       border: 1px solid var(--border);
       border-radius: 8px;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
     }}
 
     /* Round the first/last th and td corners to match the wrapper border-radius */
@@ -294,6 +296,7 @@ def build_html(companies: list[dict]) -> str:
 
     table {{
       width: 100%;
+      min-width: 900px;
       border-collapse: separate;
       border-spacing: 0;
       background: var(--white);
@@ -408,17 +411,16 @@ def build_html(companies: list[dict]) -> str:
       font-size: 1rem;
     }}
 
-    @media (max-width: 1100px) {{
-      th:nth-child(7), td:nth-child(7) {{ display: none; }}
-    }}
     @media (max-width: 860px) {{
       main {{ padding: 12px; }}
       header {{ padding: 0 12px; }}
-      th:nth-child(3), td:nth-child(3) {{ display: none; }}
     }}
     @media (max-width: 600px) {{
-      th:nth-child(4), td:nth-child(4) {{ display: none; }}
-      th:nth-child(5), td:nth-child(5) {{ display: none; }}
+      .header-top {{ flex-direction: column; align-items: flex-start; gap: 8px; }}
+      .github-link {{ align-self: flex-end; }}
+      .controls {{ flex-wrap: wrap; gap: 6px; }}
+      .controls input {{ min-width: 0; flex: 1 1 100%; }}
+      .controls select {{ max-width: none; flex: 1 1 auto; }}
     }}
   </style>
 </head>
