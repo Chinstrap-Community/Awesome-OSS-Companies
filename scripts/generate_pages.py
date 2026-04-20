@@ -461,7 +461,7 @@ function buildRow(c) {{
     <td>${{ossCell}}</td>
     <td>${{websiteCell}}</td>
     <td class="headlines-cell">${{headlinesCell}}</td>
-    <td>${{tagsCell}}</td>
+    <td>${{techTags}}</td>
   </tr>`;
 }}
 
