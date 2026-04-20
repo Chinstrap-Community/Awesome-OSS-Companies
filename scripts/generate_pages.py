@@ -212,6 +212,9 @@ def build_html(companies: list[dict]) -> str:
     }}
     .github-link:hover {{ opacity: 0.88; }}
 
+    /* Measure sticky header height so table thead can offset correctly */
+    header {{ --header-height: 0px; }}
+
     .controls {{
       display: flex;
       gap: 8px;
@@ -287,6 +290,26 @@ def build_html(companies: list[dict]) -> str:
       overflow: hidden;
       font-size: 0.855rem;
       table-layout: fixed;
+    }}
+
+    thead {{
+      position: sticky;
+      top: var(--header-height, 0);
+      z-index: 10;
+    }}
+
+    .thead-hint {{
+      background: var(--navy);
+      border-bottom: none;
+    }}
+    .thead-hint td {{
+      padding: 6px 12px 4px;
+      text-align: center;
+      font-size: 0.78rem;
+      font-style: italic;
+      color: rgba(255,255,255,0.65);
+      font-weight: 400;
+      letter-spacing: 0.01em;
     }}
 
     thead th {{
@@ -415,6 +438,9 @@ def build_html(companies: list[dict]) -> str:
 <main>
   <table id="companiesTable">
     <thead>
+      <tr class="thead-hint">
+        <td colspan="7">Click on a company&#8217;s name to see its Cossmology profile!</td>
+      </tr>
       <tr>
         <th>Company</th>
         <th>Description</th>
@@ -510,6 +536,15 @@ clearBtn.addEventListener('click', () => {{
 }});
 
 filterTable();
+
+// Set sticky thead offset to match the sticky header height
+function setHeaderHeight() {{
+  const h = document.querySelector('header').getBoundingClientRect().height;
+  document.querySelector('table').style.setProperty('--header-height', h + 'px');
+  document.querySelector('thead').style.top = h + 'px';
+}}
+setHeaderHeight();
+window.addEventListener('resize', setHeaderHeight);
 </script>
 </body>
 </html>
