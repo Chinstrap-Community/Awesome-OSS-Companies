@@ -328,6 +328,9 @@ def build_html(companies: list[dict]) -> str:
 
     .company-name {{ font-weight: 700; color: var(--navy); }}
 
+    td.headlines-cell {{
+      text-align: center;
+    }}
     .headlines-link {{
       display: inline-block;
       text-decoration: none !important;
@@ -335,8 +338,8 @@ def build_html(companies: list[dict]) -> str:
       line-height: 0;
     }}
     .headlines-link img {{
-      width: 36px;
-      height: 36px;
+      width: 64px;
+      height: 64px;
       display: block;
     }}
     .headlines-link:hover {{ opacity: 0.8; }}
@@ -457,8 +460,8 @@ function buildRow(c) {{
     <td>${{categoryCell}}</td>
     <td>${{ossCell}}</td>
     <td>${{websiteCell}}</td>
-    <td>${{headlinesCell}}</td>
-    <td>${{techTags}}</td>
+    <td class="headlines-cell">${{headlinesCell}}</td>
+    <td>${{tagsCell}}</td>
   </tr>`;
 }}
 
