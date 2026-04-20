@@ -329,20 +329,17 @@ def build_html(companies: list[dict]) -> str:
     .company-name {{ font-weight: 700; color: var(--navy); }}
 
     .headlines-link {{
-      display: inline-flex;
-      align-items: center;
-      gap: 4px;
-      font-size: 0.8rem;
-      font-weight: 600;
-      color: var(--navy) !important;
-      background: var(--yellow);
-      border-radius: 5px;
-      padding: 3px 8px;
+      display: inline-block;
       text-decoration: none !important;
       transition: opacity 0.15s;
-      white-space: nowrap;
+      line-height: 0;
     }}
-    .headlines-link:hover {{ opacity: 0.82; text-decoration: none !important; }}
+    .headlines-link img {{
+      width: 36px;
+      height: 36px;
+      display: block;
+    }}
+    .headlines-link:hover {{ opacity: 0.8; }}
 
     .tag {{
       display: inline-block;
@@ -450,7 +447,7 @@ function buildRow(c) {{
     ? `<a href="${{c.website_url}}" target="_blank" rel="noopener">${{c.name}}</a>`
     : '';
   const headlinesUrl = `https://cossmology.com/organizations/${{c.shortname}}/headlines`;
-  const headlinesCell = `<a class="headlines-link" href="${{headlinesUrl}}" target="_blank" rel="noopener">Headlines ›</a>`;
+  const headlinesCell = `<a class="headlines-link" href="${{headlinesUrl}}" target="_blank" rel="noopener" title="View headlines on Cossmology"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" alt="Headlines" loading="lazy"></a>`;
   const companyCell = `<a class="company-name" href="${{c.cossmology_url}}" target="_blank" rel="noopener">${{c.name}}</a>`;
   const categoryCell = `<span class="category-badge">${{c.category}}</span>`;
 
