@@ -281,38 +281,46 @@ def build_html(companies: list[dict]) -> str:
       margin: 0 auto;
     }}
 
-    table {{
-      width: 100%;
-      border-collapse: collapse;
-      background: var(--white);
+    .table-wrap {{
       border: 1px solid var(--border);
       border-radius: 8px;
-      overflow: hidden;
+    }}
+
+    /* Round the first/last th and td corners to match the wrapper border-radius */
+    thead tr:first-child th:first-child {{ border-top-left-radius: 7px; }}
+    thead tr:first-child th:last-child  {{ border-top-right-radius: 7px; }}
+    tbody tr:last-child td:first-child  {{ border-bottom-left-radius: 7px; }}
+    tbody tr:last-child td:last-child   {{ border-bottom-right-radius: 7px; }}
+
+    table {{
+      width: 100%;
+      border-collapse: separate;
+      border-spacing: 0;
+      background: var(--white);
       font-size: 0.855rem;
       table-layout: fixed;
     }}
 
-    thead {{
-      position: sticky;
-      top: var(--header-height, 0);
-      z-index: 10;
-    }}
-
-    .thead-hint {{
-      background: var(--navy);
-      border-bottom: none;
-    }}
     .thead-hint td {{
-      padding: 6px 12px 4px;
+      position: sticky;
+      top: var(--header-height, 0px);
+      z-index: 10;
+      background: var(--navy);
+      padding: 5px 12px 4px;
       text-align: center;
       font-size: 0.78rem;
       font-style: italic;
       color: rgba(255,255,255,0.65);
       font-weight: 400;
       letter-spacing: 0.01em;
+      border-bottom: none;
+      box-shadow: none;
     }}
 
     thead th {{
+      position: sticky;
+      top: calc(var(--header-height, 0px) + 29px);
+      z-index: 10;
       background: var(--navy);
       color: var(--yellow);
       border-bottom: 2px solid var(--yellow);
@@ -322,6 +330,7 @@ def build_html(companies: list[dict]) -> str:
       font-size: 0.75rem;
       text-transform: uppercase;
       letter-spacing: 0.06em;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.15);
     }}
 
     th:nth-child(1), td:nth-child(1) {{ width: 12%; }}
@@ -332,11 +341,13 @@ def build_html(companies: list[dict]) -> str:
     th:nth-child(6), td:nth-child(6) {{ width: 9%; text-align: center; }}
     th:nth-child(7), td:nth-child(7) {{ width: 28%; }}
 
-    tbody tr {{
+    tbody tr td {{
       border-bottom: 1px solid var(--border);
+    }}
+    tbody tr:last-child td {{ border-bottom: none; }}
+    tbody tr {{
       transition: background 0.1s;
     }}
-    tbody tr:last-child {{ border-bottom: none; }}
     tbody tr:hover {{ background: #fffbeb; }}
 
     td {{
@@ -436,6 +447,7 @@ def build_html(companies: list[dict]) -> str:
 </header>
 
 <main>
+  <div class="table-wrap">
   <table id="companiesTable">
     <thead>
       <tr class="thead-hint">
@@ -453,6 +465,7 @@ def build_html(companies: list[dict]) -> str:
     </thead>
     <tbody id="tableBody"></tbody>
   </table>
+  </div>
   <div class="no-results" id="noResults" style="display:none;">No companies match your search.</div>
 </main>
 
@@ -537,11 +550,23 @@ clearBtn.addEventListener('click', () => {{
 
 filterTable();
 
-// Set sticky thead offset to match the sticky header height
+// Set sticky offsets: hint row sits just below the sticky nav header;
+// column-name th row sits below the hint row.
 function setHeaderHeight() {{
-  const h = document.querySelector('header').getBoundingClientRect().height;
-  document.querySelector('table').style.setProperty('--header-height', h + 'px');
-  document.querySelector('thead').style.top = h + 'px';
+  const navH = document.querySelector('header').getBoundingClientRect().height;
+  const hintRow = document.querySelector('.thead-hint td');
+  if (hintRow) {{
+    hintRow.style.top = navH + 'px';
+    // Measure hint row height after positioning
+    const hintH = hintRow.getBoundingClientRect().height;
+    document.querySelectorAll('thead th').forEach(th => {{
+      th.style.top = (navH + hintH) + 'px';
+    }});
+  }} else {{
+    document.querySelectorAll('thead th').forEach(th => {{
+      th.style.top = navH + 'px';
+    }});
+  }}
 }}
 setHeaderHeight();
 window.addEventListener('resize', setHeaderHeight);
