@@ -1,9 +1,6 @@
 # Data Engineering
-
 [← Back to Index](../README.md)
-
 **2 companies**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -23,6 +20,6 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/mage-ai">Mage AI</a></strong></td><td>Open-source data pipeline platform</td><td><a href="https://github.com/mage-ai/mage-ai">mage-ai</a></td><td><a href="https://mage.ai">Mage AI</a></td><td><a href="https://cossmology.com/organizations/mage-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Engineering</code>, <code>Data Integration</code>, <code>Data Orchestration</code>, <code>Data Pipelines</code>, <code>ETL</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/meltano">Meltano</a></strong></td><td>Open-source CLI-based ELT platform</td><td><a href="https://github.com/meltano/meltano">meltano</a></td><td><a href="https://meltano.com">Meltano</a></td><td><a href="https://cossmology.com/organizations/meltano/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Engineering</code>, <code>CLI Tools</code>, <code>Data Integration</code>, <code>Data Pipeline</code>, <code>ETL</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/meltano">Meltano</a></strong></td><td>Open-source CLI-based ELT platform</td><td><a href="https://github.com/meltano/meltano">meltano</a></td><td><a href="https://meltano.com">Meltano</a></td><td><a href="https://cossmology.com/organizations/meltano/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>CLI Tools</code>, <code>Data Engineering</code>, <code>Data Integration</code>, <code>Data Pipelines</code>, <code>ETL</code></td></tr>
 </tbody>
 </table>

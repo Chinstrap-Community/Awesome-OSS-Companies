@@ -1,9 +1,6 @@
 # Virtual Machines
-
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/aenix">Aenix</a></strong></td><td>Cloud transformation solutions for data centers.</td><td><a href="https://github.com/aenix-io/kubefarm">Kubefarm</a></td><td><a href="https://aenix.io/">Aenix</a></td><td><a href="https://cossmology.com/organizations/aenix/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Infrastructure</code>, <code>Kubernetes</code>, <code>PaaS</code>, <code>Virtual Machines</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/aenix">Aenix</a></strong></td><td>Cloud transformation solutions for data centers.</td><td><a href="https://github.com/cozystack/cozystack">Cozystack</a></td><td><a href="https://aenix.io/">Aenix</a></td><td><a href="https://cossmology.com/organizations/aenix/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Infrastructure</code>, <code>Kubernetes</code>, <code>PaaS</code>, <code>Virtual Machines</code></td></tr>
 </tbody>
 </table>

@@ -1,9 +1,6 @@
 # Knowledge Management
-
 [← Back to Index](../README.md)
-
-**5 companies**
-
+**6 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -27,6 +24,6 @@
 <tr><td><strong><a href="https://cossmology.com/organizations/logseq">Logseq</a></strong></td><td>A privacy-first, open-source knowledge base</td><td><a href="https://github.com/logseq/logseq">Logseq</a></td><td><a href="https://logseq.com/">Logseq</a></td><td><a href="https://cossmology.com/organizations/logseq/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Knowledge Management</code>, <code>Note-taking</code>, <code>Privacy</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/outline">Outline</a></strong></td><td>Team knowledge base and wiki for organized teams</td><td><a href="https://github.com/outline/outline">Outline</a></td><td><a href="https://www.getoutline.com/">Outline</a></td><td><a href="https://cossmology.com/organizations/outline/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Documentation</code>, <code>Knowledge Base</code>, <code>Knowledge Management</code>, <code>Wiki</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/siyuan">SiYuan</a></strong></td><td>Privacy-first personal knowledge management system</td><td><a href="https://github.com/siyuan-note/siyuan">SiYuan</a></td><td><a href="https://b3log.org/siyuan/">SiYuan</a></td><td><a href="https://cossmology.com/organizations/siyuan/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Knowledge Management</code>, <code>Note-taking</code>, <code>Open Source</code></td></tr>
-</tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/surfsense">SurfSense</a></strong></td><td>Open-source NotebookLM alternative for teams</td><td><a href="https://github.com/MODSetter/SurfSense">SurfSense</a></td><td><a href="https://www.surfsense.net">SurfSense</a></td><td><a href="https://cossmology.com/organizations/surfsense/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>Collaboration</code>, <code>Knowledge Management</code>, <code>RAG</code></td></tr>
+</tbody>
 </table>

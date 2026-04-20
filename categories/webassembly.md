@@ -1,9 +1,6 @@
 # WebAssembly
-
 [← Back to Index](../README.md)
-
 **2 companies**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,7 +19,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/dylibso">Dylibso</a></strong></td><td>WebAssembly solutions for production environments</td><td><a href="https://github.com/dylibso/modsurfer">Modsurfer</a></td><td><a href="https://dylibso.com/">Dylibso</a></td><td><a href="https://cossmology.com/organizations/dylibso/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>WASM</code>, <code>WebAssembly</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/lunatic-inc">Lunatic Inc.</a></strong></td><td>Erlang-inspired WebAssembly runtime for distrib...</td><td><a href="https://github.com/lunatic-solutions/as-lunatic">as-lunatic</a></td><td><a href="https://lunatic.solutions/">Lunatic Inc.</a></td><td><a href="https://cossmology.com/organizations/lunatic-inc/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AssemblyScript</code>, <code>Rust</code>, <code>WebAssembly</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/dylibso">Dylibso</a></strong></td><td>WebAssembly solutions for production environments</td><td><a href="https://github.com/extism">Extism</a></td><td><a href="https://dylibso.com/">Dylibso</a></td><td><a href="https://cossmology.com/organizations/dylibso/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>WASM</code>, <code>WebAssembly</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/lunatic-inc">Lunatic Inc.</a></strong></td><td>Erlang-inspired WebAssembly runtime for distrib...</td><td><a href="https://github.com/lunatic-solutions/lunatic">lunatic</a></td><td><a href="https://lunatic.solutions/">Lunatic Inc.</a></td><td><a href="https://cossmology.com/organizations/lunatic-inc/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AssemblyScript</code>, <code>Rust</code>, <code>WebAssembly</code></td></tr>
 </tbody>
 </table>

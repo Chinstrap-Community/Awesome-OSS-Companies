@@ -1,9 +1,6 @@
 # Continuous Profiling
-
 [← Back to Index](../README.md)
-
-**2 companies**
-
+**1 company**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,7 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/polar-signals">Polar Signals</a></strong></td><td>Continuous profiling for CPU, GPU, and Memory.</td><td><a href="https://github.com/polarsignals/parca">Parca</a></td><td><a href="https://www.polarsignals.com/">Polar Signals</a></td><td><a href="https://cossmology.com/organizations/polar-signals/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Continuous Profiling</code>, <code>Go</code>, <code>Observability</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/polar-signals-2">Polar Signals</a></strong></td><td>Continuous profiling for performance & costs</td><td><a href="https://github.com/parca-dev">Parca</a></td><td><a href="https://www.polarsignals.com/">Polar Signals</a></td><td><a href="https://cossmology.com/organizations/polar-signals-2/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud</code>, <code>Continuous Profiling</code>, <code>eBPF</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/polar-signals">Polar Signals</a></strong></td><td>Continuous profiling for performance &amp; costs</td><td><a href="https://github.com/parca-dev">Parca</a></td><td><a href="https://www.polarsignals.com/">Polar Signals</a></td><td><a href="https://cossmology.com/organizations/polar-signals/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud</code>, <code>Continuous Profiling</code>, <code>eBPF</code></td></tr>
 </tbody>
 </table>

@@ -1,9 +1,6 @@
 # Web Development
-
 [← Back to Index](../README.md)
-
 **5 companies**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -24,8 +21,8 @@
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/cypress">Cypress</a></strong></td><td>Testing framework for JavaScript applications</td><td><a href="https://github.com/cypress-io/cypress">Cypress App</a></td><td><a href="https://www.cypress.io/">Cypress</a></td><td><a href="https://cossmology.com/organizations/cypress/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Automation</code>, <code>Continuous Integration</code>, <code>JavaScript</code>, <code>Testing Framework</code>, <code>Web Development</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/font-tester">Font Tester</a></strong></td><td>Browser extension for live font preview</td><td><a href="https://github.com/PaulleDemon/font-tester-chrome">Font Tester</a></td><td><a href="https://font-tester.foxcraft.tech/">Font Tester</a></td><td><a href="https://cossmology.com/organizations/font-tester/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Chrome Extension</code>, <code>Fonts</code>, <code>Web Development</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/http-toolkit">HTTP Toolkit</a></strong></td><td>Open source HTTP debugging toolkit</td><td><a href="https://github.com/httptoolkit/httptoolkit">HTTP Toolkit</a></td><td><a href="https://httptoolkit.com">HTTP Toolkit</a></td><td><a href="https://cossmology.com/organizations/http-toolkit/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API Testing</code>, <code>Debugging</code>, <code>Developer Tools</code>, <code>HTTP</code>, <code>Security</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/nuxt">Nuxt</a></strong></td><td>Open source full-stack Vue framework</td><td><a href="https://github.com/nuxt/nuxt">Nuxt</a></td><td><a href="https://nuxt.com">Nuxt</a></td><td><a href="https://cossmology.com/organizations/nuxt/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Frontend</code>, <code>Full-stack</code>, <code>TypeScript</code>, <code>Vue.js</code>, <code>Web Development</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/reflex-2">Reflex</a></strong></td><td>Python-based full-stack web app framework</td><td><a href="https://github.com/reflex-dev/reflex">reflex</a></td><td><a href="https://reflex.dev/">Reflex</a></td><td><a href="https://cossmology.com/organizations/reflex-2/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Full-stack</code>, <code>Python</code>, <code>Web Development</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/wasp">Wasp</a></strong></td><td>Full-stack web apps with a config language</td><td><a href="https://github.com/wasp-lang/wasp">Wasp</a></td><td><a href="https://wasp.sh/">Wasp</a></td><td><a href="https://cossmology.com/organizations/wasp/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Node.js</code>, <code>Prisma</code>, <code>React</code>, <code>Web Development</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/reflex">Reflex</a></strong></td><td>Python-based full-stack web app framework</td><td><a href="https://github.com/reflex-dev/reflex">reflex</a></td><td><a href="https://reflex.dev/">Reflex</a></td><td><a href="https://cossmology.com/organizations/reflex/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Full-stack</code>, <code>Python</code>, <code>Web Development</code></td></tr>
 </tbody>
 </table>

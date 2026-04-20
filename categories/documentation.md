@@ -1,9 +1,6 @@
 # Documentation
-
 [← Back to Index](../README.md)
-
 **6 companies**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -27,6 +24,6 @@
 <tr><td><strong><a href="https://cossmology.com/organizations/netbox-labs">NetBox Labs</a></strong></td><td>OSS Infrastructure Resource Modeling Platform</td><td><a href="https://github.com/netbox-community/netbox">netbox</a></td><td><a href="https://netboxlabs.com/">NetBox Labs</a></td><td><a href="https://cossmology.com/organizations/netbox-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Documentation</code>, <code>Network Automation</code>, <code>Networking</code>, <code>Network Management</code>, <code>Observability</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/opsmill">OpsMill</a></strong></td><td>Infrastructure data management platform for IT.</td><td><a href="https://github.com/opsmill/infrahub">Infrahub</a></td><td><a href="https://opsmill.com/">OpsMill</a></td><td><a href="https://cossmology.com/organizations/opsmill/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Automation</code>, <code>CI</code>, <code>Documentation</code>, <code>Infrastructure Management</code>, <code>Network Infrastructure</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/scalar">Scalar</a></strong></td><td>Open-source API documentation and client platform.</td><td><a href="https://github.com/scalar/scalar">Scalar</a></td><td><a href="https://scalar.com/">Scalar</a></td><td><a href="https://cossmology.com/organizations/scalar/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API</code>, <code>API Testing</code>, <code>Documentation</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/stoplight">Stoplight</a></strong></td><td>API design and documentation management</td><td><a href="https://github.com/stoplightio/elements">Elements</a></td><td><a href="https://stoplight.io/">Stoplight</a></td><td><a href="https://cossmology.com/organizations/stoplight/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API Design</code>, <code>API Documentation</code>, <code>API Testing</code>, <code>Documentation</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/stoplight">Stoplight</a></strong></td><td>API design and documentation management</td><td><a href="https://github.com/stoplightio/studio">Studio</a></td><td><a href="https://stoplight.io/">Stoplight</a></td><td><a href="https://cossmology.com/organizations/stoplight/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API Design</code>, <code>API Documentation</code>, <code>API Testing</code>, <code>Documentation</code></td></tr>
 </tbody>
 </table>

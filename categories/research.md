@@ -1,9 +1,6 @@
 # Research
-
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/expected-parrot">Expected Parrot</a></strong></td><td>Open-source platform for AI-powered surveys</td><td><a href="https://github.com/expectedparrot/edsl">EDSL</a></td><td><a href="https://expectedparrot.com">Expected Parrot</a></td><td><a href="https://cossmology.com/organizations/expected-parrot/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Research</code>, <code>AI Agents</code>, <code>Data Labeling</code>, <code>Large Language Models (LLMs)</code>, <code>Python</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/expected-parrot">Expected Parrot</a></strong></td><td>Open-source platform for AI-powered surveys</td><td><a href="https://github.com/expectedparrot/edsl">EDSL</a></td><td><a href="https://expectedparrot.com">Expected Parrot</a></td><td><a href="https://cossmology.com/organizations/expected-parrot/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>Data Labeling</code>, <code>LLMs</code>, <code>Python</code>, <code>Research</code></td></tr>
 </tbody>
 </table>

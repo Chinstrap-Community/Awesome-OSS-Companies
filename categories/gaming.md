@@ -1,9 +1,6 @@
 # Gaming
-
 [← Back to Index](../README.md)
-
 **2 companies**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,7 +19,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/heroic-labs">Heroic Labs</a></strong></td><td>Social infrastructure for games and apps.</td><td><a href="https://github.com/heroiclabs/hiro">Hiro</a></td><td><a href="https://heroiclabs.com/">Heroic Labs</a></td><td><a href="https://cossmology.com/organizations/heroic-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Gaming</code>, <code>Go</code>, <code>Real-time</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/heroic-labs">Heroic Labs</a></strong></td><td>Social infrastructure for games and apps.</td><td><a href="https://github.com/heroiclabs/nakama">Nakama</a></td><td><a href="https://heroiclabs.com/">Heroic Labs</a></td><td><a href="https://cossmology.com/organizations/heroic-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Gaming</code>, <code>Go</code>, <code>Real-time</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/parallel-studios">Parallel Studios</a></strong></td><td>Developer of a free-to-play trading card game.</td><td></td><td><a href="https://parallel.life/">Parallel Studios</a></td><td><a href="https://cossmology.com/organizations/parallel-studios/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Gaming</code>, <code>Rust</code>, <code>WebAssembly</code></td></tr>
 </tbody>
 </table>

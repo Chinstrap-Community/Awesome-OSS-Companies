@@ -1,9 +1,6 @@
 # Enterprise Search
-
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/onyx">Onyx</a></strong></td><td>Open-source AI-powered enterprise search</td><td><a href="https://github.com/onyx-dot-app/onyx">Onyx</a></td><td><a href="https://www.onyx.app/">Onyx</a></td><td><a href="https://cossmology.com/organizations/onyx/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Enterprise Search</code>, <code>Large Language Models</code>, <code>RAG</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/onyx">Onyx</a></strong></td><td>Open-source AI-powered enterprise search</td><td><a href="https://github.com/onyx-dot-app/onyx">Onyx</a></td><td><a href="https://www.onyx.app/">Onyx</a></td><td><a href="https://cossmology.com/organizations/onyx/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Enterprise Search</code>, <code>LLMs</code>, <code>RAG</code></td></tr>
 </tbody>
 </table>

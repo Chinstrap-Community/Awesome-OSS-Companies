@@ -1,9 +1,6 @@
 # Diagramming
-
 [← Back to Index](../README.md)
-
-**2 companies**
-
+**3 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -23,6 +20,7 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/excalidraw">Excalidraw</a></strong></td><td>Collaborative whiteboard with hand-drawn feel</td><td><a href="https://github.com/excalidraw/excalidraw">Excalidraw</a></td><td><a href="https://excalidraw.com/">Excalidraw</a></td><td><a href="https://cossmology.com/organizations/excalidraw/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Collaboration</code>, <code>Diagramming</code>, <code>React</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/mermaid-chart">Mermaid Chart</a></strong></td><td>Text-based diagramming platform</td><td><a href="https://github.com/mermaid-js/mermaid">mermaid</a></td><td><a href="https://www.mermaidchart.com">Mermaid Chart</a></td><td><a href="https://cossmology.com/organizations/mermaid-chart/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>Collaboration</code>, <code>Diagramming</code>, <code>Documentation</code>, <code>Markdown</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/terrastruct">Terrastruct</a></strong></td><td>Diagramming tools for software architecture</td><td><a href="https://github.com/terrastruct/d2">D2</a></td><td><a href="https://terrastruct.com/">Terrastruct</a></td><td><a href="https://cossmology.com/organizations/terrastruct/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Diagramming</code>, <code>Software Architecture</code>, <code>Visualization</code></td></tr>
 </tbody>
 </table>

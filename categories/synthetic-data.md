@@ -1,9 +1,6 @@
 # Synthetic Data
-
 [← Back to Index](../README.md)
-
 **2 companies**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -23,6 +20,6 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/datacebo">DataCebo</a></strong></td><td>Synthetic data solutions for AI development</td><td><a href="https://github.com/sdv-dev/SDV">sdv</a></td><td><a href="https://datacebo.com/">DataCebo</a></td><td><a href="https://cossmology.com/organizations/datacebo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Generative AI</code>, <code>Privacy</code>, <code>Synthetic Data</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/neosync">Neosync</a></strong></td><td>Open Source Data Anonymization and Synthetic Data</td><td></td><td><a href="https://www.neosync.dev/">Neosync</a></td><td><a href="https://cossmology.com/organizations/neosync/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud-Native</code>, <code>Data Anonymization</code>, <code>Data Security</code>, <code>Synthetic Data</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/neosync">Neosync</a></strong></td><td>Open Source Data Anonymization and Synthetic Data</td><td><a href="https://github.com/nucleuscloud/neosync">Neosync</a></td><td><a href="https://www.neosync.dev/">Neosync</a></td><td><a href="https://cossmology.com/organizations/neosync/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Native</code>, <code>Data Anonymization</code>, <code>Data Security</code>, <code>Synthetic Data</code></td></tr>
 </tbody>
 </table>

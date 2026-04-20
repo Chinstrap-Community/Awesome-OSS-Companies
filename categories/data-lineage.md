@@ -1,9 +1,6 @@
 # Data Lineage
-
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/grai">Grai</a></strong></td><td>Open-source data lineage tool</td><td><a href="https://github.com/dbt-labs/jaffle-shop-classic">jaffle_shop</a></td><td><a href="https://www.grai.io/">Grai</a></td><td><a href="https://cossmology.com/organizations/grai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Lineage</code>, <code>Data Observability</code>, <code>Python</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/grai">Grai</a></strong></td><td>Open-source data lineage tool</td><td><a href="https://github.com/grai-io/grai-core">grai-core</a></td><td><a href="https://www.grai.io/">Grai</a></td><td><a href="https://cossmology.com/organizations/grai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Lineage</code>, <code>Data Observability</code>, <code>Python</code></td></tr>
 </tbody>
 </table>

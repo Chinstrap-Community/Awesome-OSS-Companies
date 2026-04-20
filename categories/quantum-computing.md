@@ -1,9 +1,6 @@
 # Quantum Computing
-
 [← Back to Index](../README.md)
-
 **2 companies**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -23,6 +20,6 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/infleqtion">Infleqtion</a></strong></td><td>Quantum tech for sensing and communication</td><td><a href="https://github.com/qLDPCOrg/qLDPC">qLDPC</a></td><td><a href="https://infleqtion.com/">Infleqtion</a></td><td><a href="https://cossmology.com/organizations/infleqtion/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Quantum Circuits</code>, <code>Quantum Computing</code>, <code>Quantum Sensing</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/quandela">Quandela</a></strong></td><td>Develops photonic quantum computers & software.</td><td><a href="https://github.com/Quandela/Perceval">Perceval</a></td><td><a href="https://www.quandela.com/">Quandela</a></td><td><a href="https://cossmology.com/organizations/quandela/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Photonics</code>, <code>Quantum Circuits</code>, <code>Quantum Computing</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/quandela">Quandela</a></strong></td><td>Develops photonic quantum computers &amp; software.</td><td><a href="https://github.com/Quandela/Perceval">Perceval</a></td><td><a href="https://www.quandela.com/">Quandela</a></td><td><a href="https://cossmology.com/organizations/quandela/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Photonics</code>, <code>Quantum Circuits</code>, <code>Quantum Computing</code></td></tr>
 </tbody>
 </table>

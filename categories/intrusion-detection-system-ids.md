@@ -1,9 +1,6 @@
 # Intrusion Detection System (IDS)
-
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/snort">Snort</a></strong></td><td>Open Source Intrusion Prevention System</td><td><a href="https://github.com/dugsong/libdnet.git">libdnet</a></td><td><a href="https://www.snort.org/">Snort</a></td><td><a href="https://cossmology.com/organizations/snort/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Intrusion Detection System (IDS)</code>, <code>Intrusion Prevention System (IPS)</code>, <code>Network Traffic Analysis</code>, <code>Packet Logging</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/snort">Snort</a></strong></td><td>Open Source Intrusion Prevention System</td><td><a href="https://github.com/snort3/snort3">Snort3 (Snort++)</a></td><td><a href="https://www.snort.org/">Snort</a></td><td><a href="https://cossmology.com/organizations/snort/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Intrusion Detection System (IDS)</code>, <code>Intrusion Prevention System (IPS)</code>, <code>Network Traffic Analysis</code>, <code>Packet Logging</code></td></tr>
 </tbody>
 </table>

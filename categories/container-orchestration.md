@@ -1,9 +1,6 @@
 # Container Orchestration
-
 [← Back to Index](../README.md)
-
 **2 companies**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -23,6 +20,6 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/canine">Canine</a></strong></td><td>Open source deployment platform for applications</td><td><a href="https://github.com/czhu12/canine">canine</a></td><td><a href="https://canine.sh/">Canine</a></td><td><a href="https://cossmology.com/organizations/canine/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Container Orchestration</code>, <code>DevOps</code>, <code>Kubernetes</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/dcos">DC/OS</a></strong></td><td>Open-source distributed operating system.</td><td><a href="https://github.com/dcos/dcos">DC/OS</a></td><td><a href="https://d2iq.com/products/dcos">DC/OS</a></td><td><a href="https://cossmology.com/organizations/dcos/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Backend</code>, <code>Cloud</code>, <code>Container Orchestration</code>, <code>Distributed Systems</code>, <code>Infrastructure</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/dcos">DC/OS</a></strong></td><td>Open-source distributed operating system.</td><td><a href="https://github.com/dcos/dcos">DC/OS</a></td><td><a href="https://dcos.io/">DC/OS</a></td><td><a href="https://cossmology.com/organizations/dcos/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Backend</code>, <code>Cloud</code>, <code>Container Orchestration</code>, <code>Distributed Systems</code>, <code>Infrastructure</code></td></tr>
 </tbody>
 </table>

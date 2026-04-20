@@ -1,9 +1,6 @@
-# E-commerce Platform
-
+# Event Data
 [← Back to Index](../README.md)
-
-**2 companies**
-
+**1 company**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,7 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/grandnode">GrandNode</a></strong></td><td>Open-source e-commerce platform built on ASP.NE...</td><td><a href="https://github.com/grandnode/grandnode2">grandnode2</a></td><td><a href="https://grandnode.com/">GrandNode</a></td><td><a href="https://cossmology.com/organizations/grandnode/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>ASP.NET Core</code>, <code>C#</code>, <code>Ecommerce</code>, <code>E-commerce Platform</code>, <code>MongoDB</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/opencart">OpenCart</a></strong></td><td>Open-source e-commerce platform</td><td><a href="https://github.com/opencart/opencart">OpenCart</a></td><td><a href="https://www.opencart.com/">OpenCart</a></td><td><a href="https://cossmology.com/organizations/opencart/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Ecommerce</code>, <code>E-commerce Platform</code>, <code>PHP</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/jitsu">Jitsu</a></strong></td><td>Open-source event data collection platform</td><td><a href="https://github.com/jitsucom/jitsu">jitsu</a></td><td><a href="https://jitsu.com">Jitsu</a></td><td><a href="https://cossmology.com/organizations/jitsu/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Data Integration</code>, <code>Data Warehouse</code>, <code>Event Data</code>, <code>Event Streaming</code></td></tr>
 </tbody>
 </table>

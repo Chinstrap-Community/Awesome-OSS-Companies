@@ -1,9 +1,6 @@
 # Crypto Wallet
-
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/rainbow">Rainbow</a></strong></td><td>Fun, powerful, and secure crypto wallets.</td><td></td><td><a href="https://rainbow.me/">Rainbow</a></td><td><a href="https://cossmology.com/organizations/rainbow/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Crypto Wallet</code>, <code>Ethereum</code>, <code>NFTs</code>, <code>Web3</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/rainbow">Rainbow</a></strong></td><td>Fun, powerful, and secure crypto wallets.</td><td><a href="https://github.com/rainbow-me/rainbow">rainbow</a></td><td><a href="https://rainbow.me/">Rainbow</a></td><td><a href="https://cossmology.com/organizations/rainbow/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Crypto Wallet</code>, <code>Ethereum</code>, <code>NFTs</code>, <code>Web3</code></td></tr>
 </tbody>
 </table>

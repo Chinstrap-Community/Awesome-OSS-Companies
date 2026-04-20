@@ -1,9 +1,6 @@
 # Time Series
-
 [← Back to Index](../README.md)
-
-**3 companies**
-
+**4 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,8 +19,9 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/greptime">Greptime</a></strong></td><td>Observability DB for metrics, logs, and traces</td><td><a href="https://github.com/GreptimeTeam/greptimedb">GreptimeDB</a></td><td><a href="https://greptime.com">Greptime</a></td><td><a href="https://cossmology.com/organizations/greptime/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud-Native</code>, <code>Rust</code>, <code>Time Series</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/influxdata">InfluxData</a></strong></td><td>Time series database for real-time data & AI.</td><td><a href="https://github.com/influxdata/influxdb">influxdb</a></td><td><a href="https://www.influxdata.com/">InfluxData</a></td><td><a href="https://cossmology.com/organizations/influxdata/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Databases</code>, <code>Time Series</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/timescale">Timescale</a></strong></td><td>PostgreSQL-based time-series database</td><td><a href="https://github.com/timescale/timescaledb">TimescaleDB</a></td><td><a href="https://www.timescale.com">Timescale</a></td><td><a href="https://cossmology.com/organizations/timescale/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Database</code>, <code>Vector Database</code>, <code>IoT</code>, <code>PostgreSQL</code>, <code>Time-series</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/influxdata">InfluxData</a></strong></td><td>Time series database for real-time data &amp; AI.</td><td><a href="https://github.com/influxdata/influxdb">influxdb</a></td><td><a href="https://www.influxdata.com/">InfluxData</a></td><td><a href="https://cossmology.com/organizations/influxdata/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Database</code>, <code>Time Series</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/tdengine">TDengine</a></strong></td><td>AI-powered time-series database for IoT</td><td><a href="https://github.com/taosdata/TDengine">TDengine</a></td><td><a href="https://tdengine.com">TDengine</a></td><td><a href="https://cossmology.com/organizations/tdengine/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Native</code>, <code>Database</code>, <code>IoT</code>, <code>Stream Processing</code>, <code>Time Series</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/tiger-data">Tiger Data</a></strong></td><td>PostgreSQL platform for time-series data</td><td><a href="https://github.com/timescale/timescaledb">TimescaleDB</a></td><td><a href="https://www.tigerdata.com">Tiger Data</a></td><td><a href="https://cossmology.com/organizations/tiger-data/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Database</code>, <code>PostgreSQL</code>, <code>Time Series</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/timescale">Timescale</a></strong></td><td>PostgreSQL-based time-series database</td><td><a href="https://github.com/timescale/timescaledb">TimescaleDB</a></td><td><a href="https://www.timescale.com">Timescale</a></td><td><a href="https://cossmology.com/organizations/timescale/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Database</code>, <code>IoT</code>, <code>PostgreSQL</code>, <code>Time Series</code>, <code>Vector Database</code></td></tr>
 </tbody>
 </table>

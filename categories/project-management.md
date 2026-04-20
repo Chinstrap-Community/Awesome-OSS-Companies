@@ -1,9 +1,6 @@
 # Project Management
-
 [← Back to Index](../README.md)
-
 **7 companies**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -23,7 +20,7 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/easy-redmine">Easy Redmine</a></strong></td><td>Project management software for teams.</td><td><a href="https://github.com/easysoftware/n8n-nodes-easy-redmine">n8n-nodes-easy-redmine</a></td><td><a href="https://www.easyredmine.com/">Easy Redmine</a></td><td><a href="https://cossmology.com/organizations/easy-redmine/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Kanban</code>, <code>Project Management</code>, <code>Project Management Software</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/enalean">Enalean</a></strong></td><td>Agile project management & collaboration tools</td><td><a href="https://github.com/Enalean/tuleap">tuleap</a></td><td><a href="https://www.tuleap.org/">Enalean</a></td><td><a href="https://cossmology.com/organizations/enalean/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Kanban</code>, <code>Project Management</code>, <code>Software Development</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/enalean">Enalean</a></strong></td><td>Agile project management &amp; collaboration tools</td><td><a href="https://github.com/Enalean/tuleap">tuleap</a></td><td><a href="https://www.tuleap.org/">Enalean</a></td><td><a href="https://cossmology.com/organizations/enalean/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Kanban</code>, <code>Project Management</code>, <code>Software Development</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/leantime">Leantime</a></strong></td><td>Open-source project management for all brains</td><td><a href="https://github.com/Leantime/leantime">Leantime</a></td><td><a href="https://leantime.io/">Leantime</a></td><td><a href="https://cossmology.com/organizations/leantime/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>Behavioral Science</code>, <code>Project Management</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/openproject">OpenProject</a></strong></td><td>Open-source project management software.</td><td><a href="https://github.com/opf/openproject">OpenProject</a></td><td><a href="https://www.openproject.org/">OpenProject</a></td><td><a href="https://cossmology.com/organizations/openproject/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Project Management</code>, <code>Project Management Software</code>, <code>Web-based Software</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/plane">Plane</a></strong></td><td>Open-source project management tool with AI.</td><td><a href="https://github.com/makeplane/plane">Plane</a></td><td><a href="https://plane.so/">Plane</a></td><td><a href="https://cossmology.com/organizations/plane/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud</code>, <code>Issue Tracking</code>, <code>Kanban</code>, <code>Project Management</code></td></tr>

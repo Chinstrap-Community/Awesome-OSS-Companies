@@ -1,9 +1,6 @@
 # Data Backup
-
 [← Back to Index](../README.md)
-
 **3 companies**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,8 +19,8 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/bacula-systems">Bacula Systems</a></strong></td><td>Enterprise Open Core backup and restore software.</td><td><a href="https://github.com/bacularis/bacularis-app">Bacularis</a></td><td><a href="https://www.baculasystems.com/">Bacula Systems</a></td><td><a href="https://cossmology.com/organizations/bacula-systems/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Backup</code>, <code>Data Recovery</code>, <code>Open Source</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/bacula-systems">Bacula Systems</a></strong></td><td>Enterprise Open Core backup and restore software.</td><td><a href="https://www.bacula.org/">Bacula</a></td><td><a href="https://www.baculasystems.com/">Bacula Systems</a></td><td><a href="https://cossmology.com/organizations/bacula-systems/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Backup</code>, <code>Data Recovery</code>, <code>Open Source</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/plakar">Plakar</a></strong></td><td>Encrypted, queryable backup solution for engineers</td><td><a href="https://github.com/PlakarKorp/plakar">plakar</a></td><td><a href="https://plakar.io/">Plakar</a></td><td><a href="https://cossmology.com/organizations/plakar/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Archiving</code>, <code>Data Backup</code>, <code>Deduplication</code>, <code>Versioning</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/proxmox">Proxmox</a></strong></td><td>Open-source server solutions for IT infrastructure</td><td><a href="https://git.proxmox.com/?p=proxmox-backup.git;a=summary">Proxmox Backup Server</a></td><td><a href="https://www.proxmox.com/en/">Proxmox</a></td><td><a href="https://cossmology.com/organizations/proxmox/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Backup</code>, <code>Email Security</code>, <code>Virtualization</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/proxmox">Proxmox</a></strong></td><td>Open-source server solutions for IT infrastructure</td><td><a href="https://git.proxmox.com/?p=proxmox-ve.git;a=summary">Proxmox Virtual Environment</a></td><td><a href="https://www.proxmox.com/en/">Proxmox</a></td><td><a href="https://cossmology.com/organizations/proxmox/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Backup</code>, <code>Email Security</code>, <code>Virtualization</code></td></tr>
 </tbody>
 </table>

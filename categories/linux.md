@@ -1,9 +1,6 @@
 # Linux
-
 [← Back to Index](../README.md)
-
-**5 companies**
-
+**4 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -24,8 +21,7 @@
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/ciq">CIQ</a></strong></td><td>Enterprise Linux, HPC, and IT automation</td><td><a href="https://github.com/ctrliq">Rocky Linux</a></td><td><a href="https://ciq.com/">CIQ</a></td><td><a href="https://cossmology.com/organizations/ciq/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Embedded Linux</code>, <code>ERP</code>, <code>Linux</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/collabora">Collabora</a></strong></td><td>Open-source software consultancy</td><td><a href="https://github.com/CollaboraOnline/online">Collabora Online</a></td><td><a href="https://www.collabora.com">Collabora</a></td><td><a href="https://cossmology.com/organizations/collabora/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Embedded Linux</code>, <code>Graphics</code>, <code>Linux</code>, <code>Open Source</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/igalia">Igalia</a></strong></td><td>Open-source consultancy and development</td><td><a href="https://github.com/Igalia/cog">cog</a></td><td><a href="https://www.igalia.com">Igalia</a></td><td><a href="https://cossmology.com/organizations/igalia/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Linux</code>, <code>Linux Kernel</code>, <code>Open Source</code>, <code>Web Browsers</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/red-hat">Red Hat</a></strong></td><td>Enterprise open source software solutions</td><td><a href="https://github.com/ansible/ansible">Ansible</a></td><td><a href="https://redhat.com">Red Hat</a></td><td><a href="https://cossmology.com/organizations/red-hat/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Automation</code>, <code>Cloud</code>, <code>Cloud Infrastructure</code>, <code>Linux</code>, <code>Virtualization</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/red-hat-2">Red Hat</a></strong></td><td>Open-source hybrid cloud and Linux platform</td><td></td><td></td><td><a href="https://cossmology.com/organizations/red-hat-2/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud</code>, <code>Enterprise Software</code>, <code>Kubernetes</code>, <code>Linux</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/igalia">Igalia</a></strong></td><td>Open-source consultancy and development</td><td><a href="https://github.com/igalia/wolvic">wolvic</a></td><td><a href="https://www.igalia.com">Igalia</a></td><td><a href="https://cossmology.com/organizations/igalia/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Linux</code>, <code>Linux Kernel</code>, <code>Open Source</code>, <code>Web Browsers</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/red-hat">Red Hat</a></strong></td><td>Enterprise open source software solutions</td><td><a href="https://fedoraproject.org/">Fedora Linux</a></td><td><a href="https://redhat.com">Red Hat</a></td><td><a href="https://cossmology.com/organizations/red-hat/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Automation</code>, <code>Cloud</code>, <code>Cloud Infrastructure</code>, <code>Linux</code>, <code>Virtualization</code></td></tr>
 </tbody>
 </table>

@@ -1,9 +1,6 @@
 # AI Infrastructure
-
 [← Back to Index](../README.md)
-
 **2 companies**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -23,6 +20,6 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/daytona">Daytona</a></strong></td><td>Secure sandbox infra for AI-generated code</td><td><a href="https://github.com/daytonaio/daytona">Daytona</a></td><td><a href="https://daytona.io">Daytona</a></td><td><a href="https://cossmology.com/organizations/daytona/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Infrastructure</code>, <code>Cloud</code>, <code>Containers</code>, <code>Developer Tools</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/modular">Modular</a></strong></td><td>Unified AI compute platform with MAX & Mojo</td><td><a href="https://github.com/modular/modular">modular</a></td><td><a href="https://www.modular.com">Modular</a></td><td><a href="https://cossmology.com/organizations/modular/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Infrastructure</code>, <code>AI Framework</code>, <code>Compiler Tech</code>, <code>Generative AI</code>, <code>GPU Computing</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/modular">Modular</a></strong></td><td>Unified AI compute platform with MAX &amp; Mojo</td><td><a href="https://github.com/modular/modular">modular</a></td><td><a href="https://www.modular.com">Modular</a></td><td><a href="https://cossmology.com/organizations/modular/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Framework</code>, <code>AI Infrastructure</code>, <code>Compiler Tech</code>, <code>Generative AI</code>, <code>GPU Computing</code></td></tr>
 </tbody>
 </table>

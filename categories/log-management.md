@@ -1,9 +1,6 @@
 # Log Management
-
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/parseable">Parseable</a></strong></td><td>AI-native unified observability platform</td><td><a href="https://github.com/parseablehq/parseable">parseable</a></td><td><a href="https://parseable.com">Parseable</a></td><td><a href="https://cossmology.com/organizations/parseable/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Log Management</code>, <code>Observability</code>, <code>OpenTelemetry</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/parseable">Parseable</a></strong></td><td>AI-native unified observability platform</td><td><a href="https://github.com/parseablehq/parseable">parseable</a></td><td><a href="https://parseable.com">Parseable</a></td><td><a href="https://cossmology.com/organizations/parseable/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>DevOps</code>, <code>Log Management</code>, <code>Observability</code>, <code>OpenTelemetry</code></td></tr>
 </tbody>
 </table>

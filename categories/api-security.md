@@ -1,9 +1,6 @@
 # API Security
-
 [← Back to Index](../README.md)
-
 **2 companies**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,7 +19,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/graylog">Graylog</a></strong></td><td>SIEM, API Security, Log Management</td><td><a href="https://github.com/Graylog2/graylog2-server">graylog2-server</a></td><td><a href="https://graylog.org/">Graylog</a></td><td><a href="https://cossmology.com/organizations/graylog/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API Security</code>, <code>Log Management</code>, <code>SIEM</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/metlo">Metlo</a></strong></td><td>Open-source API security platform</td><td><a href="https://github.com/metlo-labs/csp-report-listener">csp-report-listener</a></td><td><a href="https://www.metlo.com/">Metlo</a></td><td><a href="https://cossmology.com/organizations/metlo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API Security</code>, <code>Attack Detection</code>, <code>Cybersecurity</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/graylog">Graylog</a></strong></td><td>SIEM, API Security, Log Management</td><td><a href="https://github.com/Graylog2/graylog2-server">graylog2-server</a></td><td><a href="https://graylog.org/">Graylog</a></td><td><a href="https://cossmology.com/organizations/graylog/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API Security</code>, <code>Log Management</code>, <code>Observability</code>, <code>SIEM</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/metlo">Metlo</a></strong></td><td>Open-source API security platform</td><td><a href="https://github.com/metlo-labs/metlo">metlo</a></td><td><a href="https://www.metlo.com/">Metlo</a></td><td><a href="https://cossmology.com/organizations/metlo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API Security</code>, <code>Attack Detection</code>, <code>Cybersecurity</code></td></tr>
 </tbody>
 </table>

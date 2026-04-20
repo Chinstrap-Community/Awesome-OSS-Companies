@@ -1,9 +1,6 @@
 # Crash Reporting
-
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/embrace">Embrace</a></strong></td><td>User-focused observability for mobile and web.</td><td></td><td><a href="https://embrace.io/">Embrace</a></td><td><a href="https://cossmology.com/organizations/embrace/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Crash Reporting</code>, <code>Mobile Observability</code>, <code>OpenTelemetry</code>, <code>Performance Monitoring</code>, <code>RUM</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/embrace">Embrace</a></strong></td><td>User-focused observability for mobile and web.</td><td><a href="https://github.com/embrace-io/embrace-android-sdk">embrace-android-sdk</a></td><td><a href="https://embrace.io/">Embrace</a></td><td><a href="https://cossmology.com/organizations/embrace/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Crash Reporting</code>, <code>Mobile Observability</code>, <code>OpenTelemetry</code>, <code>Performance Monitoring</code>, <code>RUM</code></td></tr>
 </tbody>
 </table>

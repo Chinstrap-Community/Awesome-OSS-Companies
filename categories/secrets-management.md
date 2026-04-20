@@ -1,9 +1,6 @@
 # Secrets Management
-
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/infisical">Infisical</a></strong></td><td>Secrets management for app configurations</td><td><a href="https://github.com/Infisical/infisical">Infisical - Secrets management platform</a></td><td><a href="https://infisical.com/">Infisical</a></td><td><a href="https://cossmology.com/organizations/infisical/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Secrets Management</code>, <code>API</code>, <code>Credential Management</code>, <code>cybersecurity</code>, <code>Passkeys</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/infisical">Infisical</a></strong></td><td>Secrets management for app configurations</td><td><a href="https://github.com/Infisical/infisical">Infisical - Secrets management platform</a></td><td><a href="https://infisical.com/">Infisical</a></td><td><a href="https://cossmology.com/organizations/infisical/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API</code>, <code>Credential Management</code>, <code>Cybersecurity</code>, <code>Passkeys</code>, <code>Password Management</code></td></tr>
 </tbody>
 </table>

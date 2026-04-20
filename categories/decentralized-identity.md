@@ -1,9 +1,6 @@
 # Decentralized Identity
-
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/indicio">Indicio</a></strong></td><td>Decentralized identity & credential solutions</td><td><a href="https://github.com/Indicio-tech/acapy-client">acapy-client</a></td><td><a href="https://indicio.tech/">Indicio</a></td><td><a href="https://cossmology.com/organizations/indicio/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Decentralized Identity</code>, <code>Digital Credentials</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/indicio">Indicio</a></strong></td><td>Decentralized identity &amp; credential solutions</td><td><a href="https://github.com/Indicio-tech/pydid">pydid</a></td><td><a href="https://indicio.tech/">Indicio</a></td><td><a href="https://cossmology.com/organizations/indicio/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Decentralized Identity</code>, <code>Digital Credentials</code></td></tr>
 </tbody>
 </table>

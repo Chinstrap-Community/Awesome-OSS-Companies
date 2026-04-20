@@ -1,9 +1,6 @@
 # AI Memory
-
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/screenpipe">screenpipe</a></strong></td><td>Open-source AI screen & audio memory app</td><td><a href="https://github.com/screenpipe/screenpipe">screenpipe</a></td><td><a href="https://screenpi.pe">screenpipe</a></td><td><a href="https://cossmology.com/organizations/screenpipe/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Memory</code>, <code>AI Agents</code>, <code>Audio</code>, <code>Privacy</code>, <code>Productivity</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/screenpipe">screenpipe</a></strong></td><td>Open-source AI screen &amp; audio memory app</td><td><a href="https://github.com/screenpipe/screenpipe">screenpipe</a></td><td><a href="https://screenpi.pe">screenpipe</a></td><td><a href="https://cossmology.com/organizations/screenpipe/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Memory</code>, <code>Audio</code>, <code>Privacy</code>, <code>Productivity</code></td></tr>
 </tbody>
 </table>

@@ -1,9 +1,6 @@
 # Networking
-
 [← Back to Index](../README.md)
-
 **2 companies**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,7 +19,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/isovalent">Isovalent</a></strong></td><td>eBPF-powered Kubernetes networking & security</td><td><a href="https://github.com/cilium/cilium">cilium</a></td><td><a href="https://cilium.io/">Isovalent</a></td><td><a href="https://cossmology.com/organizations/isovalent/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cilium</code>, <code>eBPF</code>, <code>Kubernetes</code>, <code>Networking</code>, <code>Security</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/isovalent">Isovalent</a></strong></td><td>eBPF-powered Kubernetes networking &amp; security</td><td><a href="https://github.com/cilium/cilium">cilium</a></td><td><a href="https://isovalent.com/">Isovalent</a></td><td><a href="https://cossmology.com/organizations/isovalent/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cilium</code>, <code>eBPF</code>, <code>Kubernetes</code>, <code>Networking</code>, <code>Security</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/netmaker">Netmaker</a></strong></td><td>WireGuard-based virtual network management</td><td><a href="https://github.com/gravitl/netmaker">netmaker</a></td><td><a href="https://www.netmaker.io/">Netmaker</a></td><td><a href="https://cossmology.com/organizations/netmaker/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Go</code>, <code>gRPC</code>, <code>Networking</code>, <code>WireGuard</code></td></tr>
 </tbody>
 </table>

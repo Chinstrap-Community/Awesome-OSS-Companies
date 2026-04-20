@@ -1,9 +1,6 @@
 # Calendar
-
 [← Back to Index](../README.md)
-
 **2 companies**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -23,6 +20,6 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/cal-com">Cal.com</a></strong></td><td>Open-source scheduling software for meetings.</td><td><a href="https://github.com/calcom/cal.com">Cal.com</a></td><td><a href="https://cal.com/">Cal.com</a></td><td><a href="https://cossmology.com/organizations/cal-com/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Calendar</code>, <code>SaaS</code>, <code>Scheduling</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/onehash">OneHash</a></strong></td><td>AI-driven business productivity suite</td><td><a href="https://github.com/onehashai/onehash-cal">OneHash Cal</a></td><td><a href="https://www.onehash.ai/">OneHash</a></td><td><a href="https://cossmology.com/organizations/onehash/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Calendar</code>, <code>Application Suites</code>, <code>CRM</code>, <code>ERP</code>, <code>Messaging</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/onehash">OneHash</a></strong></td><td>AI-driven business productivity suite</td><td><a href="https://github.com/onehashai/onehash-cal">OneHash Cal</a></td><td><a href="https://www.onehash.ai/">OneHash</a></td><td><a href="https://cossmology.com/organizations/onehash/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Application Suites</code>, <code>Calendar</code>, <code>CRM</code>, <code>ERP</code>, <code>Messaging</code></td></tr>
 </tbody>
 </table>

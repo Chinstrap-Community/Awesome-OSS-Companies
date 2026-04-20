@@ -1,9 +1,6 @@
 # Data Quality
-
 [← Back to Index](../README.md)
-
 **2 companies**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -23,6 +20,6 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/great-expectations">Great Expectations</a></strong></td><td>Data quality platform and framework.</td><td><a href="https://github.com/great-expectations/great_expectations">great_expectations</a></td><td><a href="https://greatexpectations.io/">Great Expectations</a></td><td><a href="https://cossmology.com/organizations/great-expectations/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Profiling</code>, <code>Data Quality</code>, <code>Data Validation</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/soda">Soda</a></strong></td><td>Data quality platform for modern data stack</td><td><a href="https://github.com/sodadata/docs">docs</a></td><td><a href="https://www.soda.io/">Soda</a></td><td><a href="https://cossmology.com/organizations/soda/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Observability</code>, <code>Data Quality</code>, <code>Data Testing</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/soda">Soda</a></strong></td><td>Data quality platform for modern data stack</td><td><a href="https://github.com/sodadata/soda-core">soda-core</a></td><td><a href="https://www.soda.io/">Soda</a></td><td><a href="https://cossmology.com/organizations/soda/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Observability</code>, <code>Data Quality</code>, <code>Data Testing</code></td></tr>
 </tbody>
 </table>

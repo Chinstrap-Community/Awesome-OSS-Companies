@@ -1,9 +1,6 @@
-# Cross-Platform
-
+# API Testing
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/uno-platform-2">Uno Platform</a></strong></td><td>Cross-platform .NET app development platform</td><td><a href="https://github.com/unoplatform/uno">uno</a></td><td><a href="https://platform.uno">Uno Platform</a></td><td><a href="https://cossmology.com/organizations/uno-platform-2/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>C#</code>, <code>Cross-Platform</code>, <code>.NET</code>, <code>WebAssembly</code>, <code>XAML</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/httpie">HTTPie</a></strong></td><td>Human-friendly API testing tools</td><td><a href="https://github.com/httpie/cli">HTTPie CLI</a></td><td><a href="https://httpie.io">HTTPie</a></td><td><a href="https://cossmology.com/organizations/httpie/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API Client</code>, <code>API Testing</code>, <code>CLI Tools</code>, <code>Developer Tools</code>, <code>HTTP</code></td></tr>
 </tbody>
 </table>

@@ -1,9 +1,6 @@
-# UI Framework
-
+# SQL
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/uno-platform">Uno Platform</a></strong></td><td>Open-source platform for cross-platform .NET apps</td><td><a href="https://github.com/unoplatform/uno">Uno Platform</a></td><td><a href="https://platform.uno/">Uno Platform</a></td><td><a href="https://cossmology.com/organizations/uno-platform/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>C#</code>, <code>.NET</code>, <code>UI Framework</code>, <code>WebAssembly</code>, <code>XAML</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/vanna-ai">Vanna AI</a></strong></td><td>Natural language to SQL query framework</td><td><a href="https://github.com/vanna-ai/vanna">vanna</a></td><td><a href="https://vanna.ai">Vanna AI</a></td><td><a href="https://cossmology.com/organizations/vanna-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Business Intelligence</code>, <code>LLMs</code>, <code>Natural Language Processing</code>, <code>RAG</code>, <code>SQL</code></td></tr>
 </tbody>
 </table>

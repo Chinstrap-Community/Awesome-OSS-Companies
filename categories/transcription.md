@@ -1,9 +1,6 @@
 # Transcription
-
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/hyprnote">Char</a></strong></td><td>Local-first AI meeting notepad and auto-summarizer</td><td><a href="https://github.com/fastrepl/char">Char</a></td><td><a href="https://char.com/">Char</a></td><td><a href="https://cossmology.com/organizations/hyprnote/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Local-first</code>, <code>Note-taking</code>, <code>Transcription</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/hyprnote">Char</a></strong></td><td>Local-first AI meeting notepad and auto-summarizer</td><td><a href="https://github.com/fastrepl/char">Char</a></td><td><a href="https://hyprnote.com">Char</a></td><td><a href="https://cossmology.com/organizations/hyprnote/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Local-First</code>, <code>Note-taking</code>, <code>Transcription</code></td></tr>
 </tbody>
 </table>

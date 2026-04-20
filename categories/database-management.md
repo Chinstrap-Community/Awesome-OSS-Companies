@@ -1,9 +1,6 @@
-# Real-time collaboration
-
+# Database Management
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/liveblocks">Liveblocks</a></strong></td><td>Ready-made AI copilots & collaboration.</td><td><a href="https://github.com/liveblocks/liveblocks">liveblocks/liveblocks</a></td><td><a href="https://liveblocks.io/">Liveblocks</a></td><td><a href="https://cossmology.com/organizations/liveblocks/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Copilots</code>, <code>App Development</code>, <code>Project Management</code>, <code>Real-time collaboration</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/beekeeper-studio">Beekeeper Studio</a></strong></td><td>Open-source SQL editor &amp; DB manager</td><td><a href="https://github.com/beekeeper-studio/beekeeper-studio">beekeeper-studio</a></td><td><a href="https://www.beekeeperstudio.io">Beekeeper Studio</a></td><td><a href="https://cossmology.com/organizations/beekeeper-studio/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Database Management</code>, <code>Desktop</code>, <code>Developer Tools</code>, <code>GUI</code>, <code>SQL</code></td></tr>
 </tbody>
 </table>

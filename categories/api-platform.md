@@ -1,9 +1,6 @@
 # API Platform
-
 [← Back to Index](../README.md)
-
-**2 companies**
-
+**1 company**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,7 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/apollo-graphql">Apollo GraphQL</a></strong></td><td>Apollo GraphQL provides a GraphQL API platform.</td><td><a href="https://github.com/apollographql/apollo-client">Apollo GraphQL - GraphQL implementation for JavaScript</a></td><td><a href="https://www.apollographql.com/">Apollo GraphQL</a></td><td><a href="https://cossmology.com/organizations/apollo-graphql/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API Management</code>, <code>API Platform</code>, <code>GraphQL</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/tavily">Tavily</a></strong></td><td>Web access layer for AI agents and applications</td><td><a href="https://github.com/assafelovic/gpt-researcher">GPT Researcher</a></td><td><a href="https://gptr.dev/">Tavily</a></td><td><a href="https://cossmology.com/organizations/tavily/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Infrastructure</code>, <code>API Platform</code>, <code>Artificial Intelligence</code>, <code>Web Search</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/tavily">Tavily</a></strong></td><td>Web access layer for AI agents and applications</td><td><a href="https://github.com/tavily-ai/tavily-python">tavily-python</a></td><td><a href="https://www.tavily.com/">Tavily</a></td><td><a href="https://cossmology.com/organizations/tavily/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Infrastructure</code>, <code>API Platform</code>, <code>Artificial Intelligence</code>, <code>Web Search</code></td></tr>
 </tbody>
 </table>

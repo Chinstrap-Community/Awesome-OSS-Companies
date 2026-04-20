@@ -1,9 +1,6 @@
 # GitOps
-
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/akuity">Akuity</a></strong></td><td>End-to-end GitOps platform for Kubernetes</td><td><a href="https://github.com/akuity/argocd-mcp">argocd-mcp</a></td><td><a href="https://akuity.io/">Akuity</a></td><td><a href="https://cossmology.com/organizations/akuity/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Argo CD</code>, <code>Cloud-Native</code>, <code>GitOps</code>, <code>Kubernetes</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/akuity">Akuity</a></strong></td><td>End-to-end GitOps platform for Kubernetes</td><td><a href="https://github.com/akuity/kargo">kargo</a></td><td><a href="https://akuity.io/">Akuity</a></td><td><a href="https://cossmology.com/organizations/akuity/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Argo CD</code>, <code>Cloud Native</code>, <code>GitOps</code>, <code>Kubernetes</code></td></tr>
 </tbody>
 </table>

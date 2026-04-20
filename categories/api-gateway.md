@@ -1,9 +1,6 @@
 # API Gateway
-
 [← Back to Index](../README.md)
-
-**2 companies**
-
+**1 company**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -23,6 +20,5 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/gravitee-io">Gravitee.io</a></strong></td><td>API management platform for APIs, events, AI.</td><td><a href="https://github.com/gravitee-io/gravitee-api-management">gravitee-api-management</a></td><td><a href="https://www.gravitee.io/">Gravitee.io</a></td><td><a href="https://cossmology.com/organizations/gravitee-io/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Apache Kafka</code>, <code>API</code>, <code>API Gateway</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/traefik-labs">Traefik Labs</a></strong></td><td>Cloud-native API runtime solutions.</td><td><a href="https://github.com/traefik/traefik">Traefik</a></td><td><a href="https://traefik.io/">Traefik Labs</a></td><td><a href="https://cossmology.com/organizations/traefik-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API Gateway</code>, <code>Cloud</code>, <code>Kubernetes</code></td></tr>
 </tbody>
 </table>

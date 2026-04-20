@@ -1,9 +1,6 @@
 # Git Hosting
-
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/forgejo">Forgejo</a></strong></td><td>Self-hosted lightweight software forge.</td><td><a href="https://codeberg.org/forgejo/code-of-conduct">forgejo/code-of-conduct</a></td><td><a href="https://forgejo.org/">Forgejo</a></td><td><a href="https://cossmology.com/organizations/forgejo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Git Hosting</code>, <code>Self-hosted</code>, <code>Software Forge</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/forgejo">Forgejo</a></strong></td><td>Self-hosted lightweight software forge.</td><td><a href="https://codeberg.org/forgejo/forgejo">forgejo/forgejo</a></td><td><a href="https://forgejo.org/">Forgejo</a></td><td><a href="https://cossmology.com/organizations/forgejo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Git Hosting</code>, <code>Self-Hosted</code>, <code>Software Forge</code></td></tr>
 </tbody>
 </table>
