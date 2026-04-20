@@ -173,33 +173,32 @@
       margin: 0 auto;
     }
 
-    .table-wrap {
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
+    /* Column widths shared between header and body tables */
+    :root {
+      --col1: 12%; --col2: 22%; --col3: 10%; --col4: 10%; --col5: 9%; --col6: 9%; --col7: 28%;
+      --tbl-min: 900px;
     }
 
-    /* Round the first/last th and td corners to match the wrapper border-radius */
-    thead tr:first-child th:first-child { border-top-left-radius: 7px; }
-    thead tr:first-child th:last-child  { border-top-right-radius: 7px; }
-    tbody tr:last-child td:first-child  { border-bottom-left-radius: 7px; }
-    tbody tr:last-child td:last-child   { border-bottom-right-radius: 7px; }
+    /* Sticky header sits outside the scroll container */
+    .thead-outer {
+      position: sticky;
+      top: 0;       /* JS will override this */
+      z-index: 20;
+      background: var(--navy);
+      border: 1px solid var(--border);
+      border-bottom: none;
+      border-radius: 8px 8px 0 0;
+      overflow: hidden; /* safe here — no sticky children inside */
+    }
 
-    table {
+    .thead-outer table {
       width: 100%;
-      min-width: 900px;
-      border-collapse: separate;
-      border-spacing: 0;
-      background: var(--white);
-      font-size: 0.855rem;
+      min-width: var(--tbl-min);
+      border-collapse: collapse;
       table-layout: fixed;
     }
 
     .thead-hint td {
-      position: sticky;
-      top: var(--header-height, 0px);
-      z-index: 10;
       background: var(--navy);
       padding: 5px 12px 4px;
       text-align: center;
@@ -208,14 +207,9 @@
       color: rgba(255,255,255,0.65);
       font-weight: 400;
       letter-spacing: 0.01em;
-      border-bottom: none;
-      box-shadow: none;
     }
 
-    thead th {
-      position: sticky;
-      top: calc(var(--header-height, 0px) + 29px);
-      z-index: 10;
+    .thead-outer th {
       background: var(--navy);
       color: var(--yellow);
       border-bottom: 2px solid var(--yellow);
@@ -225,16 +219,39 @@
       font-size: 0.75rem;
       text-transform: uppercase;
       letter-spacing: 0.06em;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.15);
     }
 
-    th:nth-child(1), td:nth-child(1) { width: 12%; }
-    th:nth-child(2), td:nth-child(2) { width: 22%; }
-    th:nth-child(3), td:nth-child(3) { width: 10%; }
-    th:nth-child(4), td:nth-child(4) { width: 10%; }
-    th:nth-child(5), td:nth-child(5) { width: 9%;  }
-    th:nth-child(6), td:nth-child(6) { width: 9%; text-align: center; }
-    th:nth-child(7), td:nth-child(7) { width: 28%; }
+    /* Scrollable body container */
+    .table-wrap {
+      border: 1px solid var(--border);
+      border-top: none;
+      border-radius: 0 0 8px 8px;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    table {
+      width: 100%;
+      min-width: var(--tbl-min);
+      border-collapse: separate;
+      border-spacing: 0;
+      background: var(--white);
+      font-size: 0.855rem;
+      table-layout: fixed;
+    }
+
+    /* Shared column widths */
+    .c1 { width: var(--col1); }
+    .c2 { width: var(--col2); }
+    .c3 { width: var(--col3); }
+    .c4 { width: var(--col4); }
+    .c5 { width: var(--col5); }
+    .c6 { width: var(--col6); text-align: center; }
+    .c7 { width: var(--col7); }
+    td:nth-child(6) { text-align: center; }
+
+    tbody tr:last-child td:first-child  { border-bottom-left-radius: 7px; }
+    tbody tr:last-child td:last-child   { border-bottom-right-radius: 7px; }
 
     tbody tr td {
       border-bottom: 1px solid var(--border);
@@ -609,22 +626,36 @@
 </header>
 
 <main>
+  <!-- Sticky header: outside the horizontal-scroll container -->
+  <div class="thead-outer" id="theadOuter">
+    <table>
+      <colgroup>
+        <col class="c1"><col class="c2"><col class="c3"><col class="c4">
+        <col class="c5"><col class="c6"><col class="c7">
+      </colgroup>
+      <thead>
+        <tr class="thead-hint">
+          <td colspan="7">Click on a company&#8217;s name to see its Cossmology profile!</td>
+        </tr>
+        <tr>
+          <th>Company</th>
+          <th>Description</th>
+          <th>Category</th>
+          <th>Core OSS Repo</th>
+          <th>Website</th>
+          <th>Headlines</th>
+          <th>Technologies</th>
+        </tr>
+      </thead>
+    </table>
+  </div>
+  <!-- Scrollable body -->
   <div class="table-wrap">
   <table id="companiesTable">
-    <thead>
-      <tr class="thead-hint">
-        <td colspan="7">Click on a company&#8217;s name to see its Cossmology profile!</td>
-      </tr>
-      <tr>
-        <th>Company</th>
-        <th>Description</th>
-        <th>Category</th>
-        <th>Core OSS Repo</th>
-        <th>Website</th>
-        <th>Headlines</th>
-        <th>Technologies</th>
-      </tr>
-    </thead>
+    <colgroup>
+      <col class="c1"><col class="c2"><col class="c3"><col class="c4">
+      <col class="c5"><col class="c6"><col class="c7">
+    </colgroup>
     <tbody id="tableBody"></tbody>
   </table>
   </div>
@@ -712,26 +743,22 @@ clearBtn.addEventListener('click', () => {
 
 filterTable();
 
-// Set sticky offsets: hint row sits just below the sticky nav header;
-// column-name th row sits below the hint row.
+// Position the sticky header div just below the sticky nav.
+const theadOuter = document.getElementById('theadOuter');
 function setHeaderHeight() {
   const navH = document.querySelector('header').getBoundingClientRect().height;
-  const hintRow = document.querySelector('.thead-hint td');
-  if (hintRow) {
-    hintRow.style.top = navH + 'px';
-    // Measure hint row height after positioning
-    const hintH = hintRow.getBoundingClientRect().height;
-    document.querySelectorAll('thead th').forEach(th => {
-      th.style.top = (navH + hintH) + 'px';
-    });
-  } else {
-    document.querySelectorAll('thead th').forEach(th => {
-      th.style.top = navH + 'px';
-    });
-  }
+  if (theadOuter) theadOuter.style.top = navH + 'px';
 }
 setHeaderHeight();
 window.addEventListener('resize', setHeaderHeight);
+
+// Sync horizontal scroll: when the body table scrolls, mirror it in the header table.
+const tableWrap = document.querySelector('.table-wrap');
+if (tableWrap && theadOuter) {
+  tableWrap.addEventListener('scroll', () => {
+    theadOuter.scrollLeft = tableWrap.scrollLeft;
+  });
+}
 </script>
 </body>
 </html>
