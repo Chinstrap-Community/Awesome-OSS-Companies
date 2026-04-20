@@ -306,7 +306,7 @@ def build_html(companies: list[dict]) -> str:
     th:nth-child(3), td:nth-child(3) {{ width: 10%; }}
     th:nth-child(4), td:nth-child(4) {{ width: 10%; }}
     th:nth-child(5), td:nth-child(5) {{ width: 9%;  }}
-    th:nth-child(6), td:nth-child(6) {{ width: 9%;  }}
+    th:nth-child(6), td:nth-child(6) {{ width: 9%; text-align: center; }}
     th:nth-child(7), td:nth-child(7) {{ width: 28%; }}
 
     tbody tr {{
