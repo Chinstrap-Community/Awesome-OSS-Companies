@@ -1,6 +1,6 @@
 # CLI Tools
 [← Back to Index](../README.md)
-**1 company**
+**2 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -20,5 +20,6 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/atuin">Atuin</a></strong></td><td>Magical shell history &amp; runbooks</td><td><a href="https://github.com/atuinsh/atuin">atuin</a></td><td><a href="https://atuin.sh">Atuin</a></td><td><a href="https://cossmology.com/organizations/atuin/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>CLI Tools</code>, <code>Developer Tools</code>, <code>Developer Workflow</code>, <code>End-to-End Encryption</code>, <code>Shell</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/wave-terminal">Wave Terminal</a></strong></td><td>AI-native open-source terminal</td><td><a href="https://github.com/wavetermdev/waveterm">waveterm</a></td><td><a href="https://www.waveterm.dev">Wave Terminal</a></td><td><a href="https://cossmology.com/organizations/wave-terminal/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>CLI Tools</code>, <code>Developer Tools</code>, <code>Terminal User Interface</code></td></tr>
 </tbody>
 </table>

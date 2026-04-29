@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/pantacor">Pantacor</a></strong></td><td>Embedded Linux and IoT device management platform.</td><td><a href="https://github.com/pantavisor/pantavisor">Pantavisor</a></td><td><a href="https://pantacor.com/">Pantacor</a></td><td><a href="https://cossmology.com/organizations/pantacor/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>5G/4G RAN</code>, <code>Cloud Native</code>, <code>Containerization</code>, <code>C Programming</code>, <code>DevOps</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/pantacor">Pantacor</a></strong></td><td>Embedded Linux and IoT device management platform.</td><td><a href="https://github.com/pantavisor/pantavisor">Pantavisor</a></td><td><a href="https://pantacor.com/">Pantacor</a></td><td><a href="https://cossmology.com/organizations/pantacor/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>5G/4G RAN</code>, <code>Cloud Native</code>, <code>Containerization</code>, <code>C Programming</code>, <code>DevOps</code>, <code>Embedded Linux</code>, <code>Firmware Management</code>, <code>Linux Kernel</code>, <code>Open Source</code>, <code>Wireless Connectivity</code></td></tr>
 </tbody>
 </table>

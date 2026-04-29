@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/jitsu">Jitsu</a></strong></td><td>Open-source event data collection platform</td><td><a href="https://github.com/jitsucom/jitsu">jitsu</a></td><td><a href="https://jitsu.com">Jitsu</a></td><td><a href="https://cossmology.com/organizations/jitsu/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Data Integration</code>, <code>Data Warehouse</code>, <code>Event Data</code>, <code>Event Streaming</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/jitsu">Jitsu</a></strong></td><td>Open-source event data collection platform</td><td><a href="https://github.com/jitsucom/jitsu">jitsu</a></td><td><a href="https://jitsu.com">Jitsu</a></td><td><a href="https://cossmology.com/organizations/jitsu/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Data Integration</code>, <code>Data Warehouse</code>, <code>Event Data</code>, <code>Event Streaming</code>, <code>Real-time</code></td></tr>
 </tbody>
 </table>

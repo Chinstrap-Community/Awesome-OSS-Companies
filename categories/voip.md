@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/wazo">Wazo</a></strong></td><td>Open source IP telecom platform</td><td><a href="https://github.com/wazo-platform/wazo-platform">wazo-platform</a></td><td><a href="https://wazo.io/">Wazo</a></td><td><a href="https://cossmology.com/organizations/wazo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>SIP</code>, <code>VoIP</code>, <code>WebRTC</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/wazo">Wazo</a></strong></td><td>Open source IP telecom platform</td><td><a href="https://github.com/wazo-platform/wazo-platform">wazo-platform</a></td><td><a href="https://wazo-platform.org/">Wazo</a></td><td><a href="https://cossmology.com/organizations/wazo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>SIP</code>, <code>VoIP</code>, <code>WebRTC</code></td></tr>
 </tbody>
 </table>

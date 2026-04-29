@@ -1,6 +1,6 @@
 # Knowledge Graph
 [← Back to Index](../README.md)
-**1 company**
+**2 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -20,5 +20,6 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/akon-labs">Akon Labs</a></strong></td><td>Code intelligence engine for AI agents</td><td><a href="https://github.com/abhigyanpatwari/GitNexus">GitNexus</a></td><td><a href="https://www.akonlabs.com">Akon Labs</a></td><td><a href="https://cossmology.com/organizations/akon-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Coding Assistant</code>, <code>Developer Tools</code>, <code>Knowledge Graph</code>, <code>MCP</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/trustgraph">TrustGraph</a></strong></td><td>Graph-native AI context platform</td><td><a href="https://github.com/trustgraph-ai/trustgraph">trustgraph</a></td><td><a href="https://trustgraph.ai">TrustGraph</a></td><td><a href="https://cossmology.com/organizations/trustgraph/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Agent Development Platform</code>, <code>AI Agents</code>, <code>Knowledge Graph</code>, <code>RAG</code>, <code>Vector Database</code></td></tr>
 </tbody>
 </table>

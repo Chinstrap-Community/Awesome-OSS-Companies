@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/modelence">Modelence</a></strong></td><td>All-in-one TypeScript platform for AI startups.</td><td><a href="https://github.com/modelence/modelence">modelence</a></td><td><a href="https://modelence.com">Modelence</a></td><td><a href="https://cossmology.com/organizations/modelence/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>AI Development Platform</code>, <code>Cloud</code>, <code>MongoDB</code>, <code>Node.js</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/modelence">Modelence</a></strong></td><td>All-in-one TypeScript platform for AI startups.</td><td><a href="https://github.com/modelence/modelence">modelence</a></td><td><a href="https://modelence.com">Modelence</a></td><td><a href="https://cossmology.com/organizations/modelence/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>AI Development Platform</code>, <code>Cloud</code>, <code>MongoDB</code>, <code>Node.js</code>, <code>React</code>, <code>TypeScript</code></td></tr>
 </tbody>
 </table>

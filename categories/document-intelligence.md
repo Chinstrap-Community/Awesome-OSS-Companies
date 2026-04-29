@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/chunkr">Chunkr</a></strong></td><td>Open Source Document Intelligence API</td><td><a href="https://github.com/lumina-ai-inc/chunkr">Chunkr</a></td><td><a href="https://chunkr.ai/">Chunkr</a></td><td><a href="https://cossmology.com/organizations/chunkr/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>API</code>, <code>Document Intelligence</code>, <code>LLMs</code>, <code>Machine Learning</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/chunkr">Chunkr</a></strong></td><td>Open Source Document Intelligence API</td><td><a href="https://github.com/lumina-ai-inc/chunkr">Chunkr</a></td><td><a href="https://chunkr.ai/">Chunkr</a></td><td><a href="https://cossmology.com/organizations/chunkr/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>API</code>, <code>Document Intelligence</code>, <code>LLMs</code>, <code>Machine Learning</code>, <code>Natural Language Processing</code>, <code>OCR</code>, <code>Python</code>, <code>RAG</code>, <code>Rust</code>, <code>TypeScript</code></td></tr>
 </tbody>
 </table>

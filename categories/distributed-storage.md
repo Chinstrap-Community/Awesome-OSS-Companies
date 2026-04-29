@@ -1,4 +1,4 @@
-# AI Memory
+# Distributed Storage
 [← Back to Index](../README.md)
 **1 company**
 <table style="table-layout:fixed; width:900px">
@@ -19,6 +19,8 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/screenpipe">screenpipe</a></strong></td><td>Open-source AI screen &amp; audio memory app</td><td><a href="https://github.com/screenpipe/screenpipe">screenpipe</a></td><td><a href="https://screenpi.pe">screenpipe</a></td><td><a href="https://cossmology.com/organizations/screenpipe/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Memory</code>, <code>Audio</code>, <code>Privacy</code>, <code>Productivity</code>, <code>Screen Recording</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/seaweedfs">SeaweedFS</a></strong></td><td>Distributed object store and file system</td><td><a href="https://github.com/seaweedfs/seaweedfs">SeaweedFS</a></td><td><a href="https://seaweedfs.com">SeaweedFS</a></td><td><a href="https://cossmology.com/organizations/seaweedfs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Native</code>, <code>Cloud Storage</code>, <code>Distributed Storage</code>, <code>Kubernetes</code>, <code>Object Storage</code></td></tr>
+
+
 </tbody>
 </table>

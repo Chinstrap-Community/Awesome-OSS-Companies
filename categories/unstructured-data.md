@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/unstructured-technologies">Unstructured Technologies</a></strong></td><td>ETL platform for LLM-ready unstructured data</td><td><a href="https://github.com/Unstructured-IO/unstructured">unstructured</a></td><td><a href="https://unstructured.io">Unstructured Technologies</a></td><td><a href="https://cossmology.com/organizations/unstructured-technologies/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Pipelines</code>, <code>Document Processing</code>, <code>ETL</code>, <code>LLMs</code>, <code>RAG</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/unstructured-technologies">Unstructured Technologies</a></strong></td><td>ETL platform for LLM-ready unstructured data</td><td><a href="https://github.com/Unstructured-IO/unstructured">unstructured</a></td><td><a href="https://unstructured.io">Unstructured Technologies</a></td><td><a href="https://cossmology.com/organizations/unstructured-technologies/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Pipelines</code>, <code>Document Processing</code>, <code>ETL</code>, <code>LLMs</code>, <code>RAG</code>, <code>Unstructured Data</code></td></tr>
 </tbody>
 </table>

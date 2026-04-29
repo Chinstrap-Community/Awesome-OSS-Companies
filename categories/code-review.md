@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/octopus">Octopus</a></strong></td><td>AI-powered open-source code review tool</td><td><a href="https://github.com/octopusreview/octopus">octopus</a></td><td><a href="https://octopus-review.ai">Octopus</a></td><td><a href="https://cossmology.com/organizations/octopus/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Coding Assistant</code>, <code>Code Quality</code>, <code>Code Review</code>, <code>Developer Tools</code>, <code>RAG</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/octopus">Octopus</a></strong></td><td>AI-powered open-source code review tool</td><td><a href="https://github.com/octopusreview/octopus">octopus</a></td><td><a href="https://octopus-review.ai">Octopus</a></td><td><a href="https://cossmology.com/organizations/octopus/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Coding Assistant</code>, <code>Code Quality</code>, <code>Code Review</code>, <code>Developer Tools</code>, <code>RAG</code>, <code>Vector Search</code></td></tr>
 </tbody>
 </table>

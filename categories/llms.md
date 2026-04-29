@@ -1,6 +1,6 @@
 # LLMs
 [← Back to Index](../README.md)
-**8 companies**
+**9 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -20,6 +20,7 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/aleph-alpha">Aleph Alpha</a></strong></td><td>Sovereign AI solutions for enterprises.</td><td><a href="https://github.com/Aleph-Alpha/scaling">Scaling</a></td><td><a href="https://aleph-alpha.com/">Aleph Alpha</a></td><td><a href="https://cossmology.com/organizations/aleph-alpha/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>ERP</code>, <code>Generative AI</code>, <code>LLMs</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/arcee-ai">Arcee AI</a></strong></td><td>Open-weight AI models and enterprise agentic AI</td><td><a href="https://github.com/arcee-ai/mergekit">mergekit</a></td><td><a href="https://www.arcee.ai">Arcee AI</a></td><td><a href="https://cossmology.com/organizations/arcee-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Agentic AI</code>, <code>AI Models</code>, <code>LLMs</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/cherry-studio">Cherry Studio</a></strong></td><td>AI assistant with multi-provider integration.</td><td><a href="https://github.com/CherryHQ/cherry-studio">cherry-ai-core</a></td><td><a href="https://www.cherry-ai.com/">Cherry Studio</a></td><td><a href="https://cossmology.com/organizations/cherry-studio/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Integration</code>, <code>LLMs</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/cognitivelab">CognitiveLab</a></strong></td><td>Open-source multilingual AI research lab</td><td><a href="https://github.com/adithya-s-k/omniparse">OmniParse</a></td><td><a href="https://cognitivelab.in">CognitiveLab</a></td><td><a href="https://cossmology.com/organizations/cognitivelab/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Document Processing</code>, <code>Generative AI</code>, <code>LLMs</code>, <code>NLP</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/deepseek">DeepSeek</a></strong></td><td>AI company developing large language models.</td><td><a href="https://github.com/deepseek-ai/DeepSeek-LLM">DeepSeek-LLM</a></td><td><a href="https://www.deepseek.com/en">DeepSeek</a></td><td><a href="https://cossmology.com/organizations/deepseek/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Models</code>, <code>Deep Learning</code>, <code>LLMs</code></td></tr>

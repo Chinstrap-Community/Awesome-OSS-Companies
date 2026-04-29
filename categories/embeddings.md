@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/chroma">Chroma</a></strong></td><td>Open-source search and retrieval database for AI</td><td><a href="https://github.com/chroma-core/chroma">chroma</a></td><td><a href="https://www.trychroma.com/">Chroma</a></td><td><a href="https://cossmology.com/organizations/chroma/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>Database</code>, <code>Embeddings</code>, <code>LLMs</code>, <code>Machine Learning</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/chroma">Chroma</a></strong></td><td>Open-source search and retrieval database for AI</td><td><a href="https://github.com/chroma-core/chroma">chroma</a></td><td><a href="https://www.trychroma.com/">Chroma</a></td><td><a href="https://cossmology.com/organizations/chroma/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>Database</code>, <code>Embeddings</code>, <code>LLMs</code>, <code>Machine Learning</code>, <code>RAG</code>, <code>Vector Database</code></td></tr>
 </tbody>
 </table>

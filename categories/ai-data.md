@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/datachain">DataChain</a></strong></td><td>AI data warehouse for unstructured data</td><td><a href="https://github.com/datachain-ai/datachain">datachain</a></td><td><a href="https://datachain.ai">DataChain</a></td><td><a href="https://cossmology.com/organizations/datachain/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Data</code>, <code>Data Curation</code>, <code>Data Engineering</code>, <code>Data Version Control</code>, <code>ETL</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/datachain">DataChain</a></strong></td><td>AI data warehouse for unstructured data</td><td><a href="https://github.com/datachain-ai/datachain">datachain</a></td><td><a href="https://datachain.ai">DataChain</a></td><td><a href="https://cossmology.com/organizations/datachain/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Data</code>, <code>Data Curation</code>, <code>Data Engineering</code>, <code>Data Version Control</code>, <code>ETL</code>, <code>MLOps</code>, <code>Python</code>, <code>Unstructured Data</code></td></tr>
 </tbody>
 </table>

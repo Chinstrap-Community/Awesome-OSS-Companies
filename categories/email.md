@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/resend">Resend</a></strong></td><td>Developer-focused email API platform</td><td><a href="https://github.com/resend/react-email">react-email</a></td><td><a href="https://resend.com">Resend</a></td><td><a href="https://cossmology.com/organizations/resend/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>Email</code>, <code>Email API</code>, <code>Transactional Email</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/resend">Resend</a></strong></td><td>Developer-focused email API platform</td><td><a href="https://github.com/resend/react-email">react-email</a></td><td><a href="https://react.email/">Resend</a></td><td><a href="https://cossmology.com/organizations/resend/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>Email</code>, <code>Email API</code>, <code>Transactional Email</code></td></tr>
 </tbody>
 </table>

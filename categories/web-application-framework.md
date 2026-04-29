@@ -1,4 +1,4 @@
-# AI Memory
+# Web Application Framework
 [← Back to Index](../README.md)
 **1 company**
 <table style="table-layout:fixed; width:900px">
@@ -19,6 +19,8 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/screenpipe">screenpipe</a></strong></td><td>Open-source AI screen &amp; audio memory app</td><td><a href="https://github.com/screenpipe/screenpipe">screenpipe</a></td><td><a href="https://screenpi.pe">screenpipe</a></td><td><a href="https://cossmology.com/organizations/screenpipe/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Memory</code>, <code>Audio</code>, <code>Privacy</code>, <code>Productivity</code>, <code>Screen Recording</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/rio">Rio</a></strong></td><td>Python web app framework, no JS required</td><td><a href="https://github.com/rio-labs/rio">rio</a></td><td><a href="https://rio.dev">Rio</a></td><td><a href="https://cossmology.com/organizations/rio/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>Python</code>, <code>Web Application Framework</code></td></tr>
+
+
 </tbody>
 </table>
