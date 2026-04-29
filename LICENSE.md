@@ -1,4 +1,4 @@
-Copyright (c) 2025-Present Chinstrap Ventures.
+Copyright (c) 2025-present Chinstrap Ventures.
 
 The compilation of data in this repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
 
