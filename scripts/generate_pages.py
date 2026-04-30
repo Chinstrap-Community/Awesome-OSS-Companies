@@ -212,24 +212,6 @@ def build_html(companies: list[dict]) -> str:
     }}
     .github-link:hover {{ opacity: 0.88; }}
 
-    .star-btn {{
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      font-size: 0.82rem;
-      font-weight: 600;
-      color: var(--yellow);
-      background: transparent;
-      border: 1.5px solid var(--yellow);
-      text-decoration: none;
-      border-radius: 6px;
-      padding: 6px 12px;
-      white-space: nowrap;
-      flex-shrink: 0;
-      transition: background 0.15s, color 0.15s;
-    }}
-    .star-btn:hover {{ background: var(--yellow); color: var(--navy); }}
-
     /* Measure sticky header height so table thead can offset correctly */
     header {{ --header-height: 0px; }}
 
@@ -467,7 +449,7 @@ def build_html(companies: list[dict]) -> str:
       <h1>Awesome OSS Companies</h1>
       <p>Maintained by <a href="https://chinstrap.community" target="_blank" rel="noopener">Chinstrap Community</a> and <a href="https://puter.com" target="_blank" rel="noopener">Puter</a>. Data mirrored from <a href="https://cossmology.com" target="_blank" rel="noopener">Cossmology</a>.</p>
     </div>
-    <a class="star-btn" href="https://github.com/Chinstrap-Community/Awesome-OSS-Companies" target="_blank" rel="noopener">
+    <a class="github-link" href="https://github.com/Chinstrap-Community/Awesome-OSS-Companies" target="_blank" rel="noopener">
       <svg height="14" viewBox="0 0 16 16" width="14" fill="currentColor"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/></svg>
       Star us!
     </a>
