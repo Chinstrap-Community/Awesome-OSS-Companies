@@ -5,10 +5,10 @@ This repository serves as a directory of commercial open source software (COSS) 
 The information in this repository is sourced from [Cossmology](https://cossmology.com), a platform provided by [Chinstrap Community](https://chinstrap.community) for tracking and analyzing the commercial open source software landscape. This repository is jointly maintained by [Chinstrap Community](https://chinstrap.community) and [Puter](https://puter.com).
 
 ## Browse the Full List
-**[View all 1073 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
+**[View all 1078 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
 The searchable page lets you filter by category or search across company names, descriptions, and technology tags — all in one place.
 ## Companies by Category
-**1073 companies** across **272 categories**
+**1078 companies** across **274 categories**
 | Category | Companies |
 |---|---|
 | [5G/4G RAN](categories/5g-4g-ran.md) | 1 |
@@ -20,7 +20,7 @@ The searchable page lets you filter by category or search across company names, 
 | [AI Agents](categories/ai-agents.md) | 56 |
 | [AI Chat](categories/ai-chat.md) | 1 |
 | [AI Coding Agents](categories/ai-coding-agents.md) | 11 |
-| [AI Coding Assistant](categories/ai-coding-assistant.md) | 8 |
+| [AI Coding Assistant](categories/ai-coding-assistant.md) | 9 |
 | [AI Data](categories/ai-data.md) | 1 |
 | [AI Development Platform](categories/ai-development-platform.md) | 1 |
 | [AI evaluation](categories/ai-evaluation.md) | 2 |
@@ -41,6 +41,7 @@ The searchable page lets you filter by category or search across company names, 
 | [API Security](categories/api-security.md) | 2 |
 | [API Testing](categories/api-testing.md) | 1 |
 | [App Deployment](categories/app-deployment.md) | 3 |
+| [Application Framework](categories/application-framework.md) | 1 |
 | [Application Security](categories/application-security.md) | 2 |
 | [Audio](categories/audio.md) | 1 |
 | [Authentication](categories/authentication.md) | 11 |
@@ -63,7 +64,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Charging](categories/charging.md) | 1 |
 | [Chatbot](categories/chatbot.md) | 3 |
 | [Chrome Extension](categories/chrome-extension.md) | 2 |
-| [CI/CD](categories/ci-cd.md) | 14 |
+| [CI/CD](categories/ci-cd.md) | 15 |
 | [CLI Tools](categories/cli-tools.md) | 2 |
 | [Cloud Cost Management](categories/cloud-cost-management.md) | 1 |
 | [Cloud Data Warehouse](categories/cloud-data-warehouse.md) | 2 |
@@ -126,7 +127,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Design Tools](categories/design-tools.md) | 3 |
 | [Desktop](categories/desktop.md) | 1 |
 | [Developer Portal](categories/developer-portal.md) | 1 |
-| [Developer Tools](categories/developer-tools.md) | 58 |
+| [Developer Tools](categories/developer-tools.md) | 59 |
 | [DevOps](categories/devops.md) | 16 |
 | [DevSecOps](categories/devsecops.md) | 1 |
 | [Diagramming](categories/diagramming.md) | 3 |
@@ -217,6 +218,7 @@ The searchable page lets you filter by category or search across company names, 
 | [PaaS](categories/paas.md) | 2 |
 | [Package Management](categories/package-management.md) | 1 |
 | [Payments](categories/payments.md) | 3 |
+| [PDF](categories/pdf.md) | 1 |
 | [Performance Monitoring](categories/performance-monitoring.md) | 1 |
 | [Performance Testing](categories/performance-testing.md) | 3 |
 | [Platform Engineering](categories/platform-engineering.md) | 1 |
