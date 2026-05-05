@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/beekeeper-studio">Beekeeper Studio</a></strong></td><td>Open-source SQL editor &amp; DB manager</td><td><a href="https://github.com/beekeeper-studio/beekeeper-studio">beekeeper-studio</a></td><td><a href="https://www.beekeeperstudio.io">Beekeeper Studio</a></td><td><a href="https://cossmology.com/organizations/beekeeper-studio/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Database Management</code>, <code>Desktop</code>, <code>Developer Tools</code>, <code>GUI</code>, <code>SQL</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/beekeeper-studio">Beekeeper Studio</a></strong></td><td>Open-source SQL editor & DB manager</td><td><a href="https://github.com/beekeeper-studio/beekeeper-studio">beekeeper-studio</a></td><td><a href="https://www.beekeeperstudio.io">Beekeeper Studio</a></td><td><a href="https://cossmology.com/organizations/beekeeper-studio/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Database Management</code>, <code>Desktop</code>, <code>Developer Tools</code>, <code>GUI</code>, <code>SQL</code></td></tr>
 </tbody>
 </table>

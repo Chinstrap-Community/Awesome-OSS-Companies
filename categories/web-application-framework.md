@@ -20,7 +20,5 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/rio">Rio</a></strong></td><td>Python web app framework, no JS required</td><td><a href="https://github.com/rio-labs/rio">rio</a></td><td><a href="https://rio.dev">Rio</a></td><td><a href="https://cossmology.com/organizations/rio/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>Python</code>, <code>Web Application Framework</code></td></tr>
-
-
 </tbody>
 </table>

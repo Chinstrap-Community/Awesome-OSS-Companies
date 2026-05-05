@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/tiptap">Tiptap</a></strong></td><td>Headless and open-source editor framework</td><td><a href="https://github.com/ueberdosis/tiptap">tiptap</a></td><td><a href="https://tiptap.dev/">Tiptap</a></td><td><a href="https://cossmology.com/organizations/tiptap/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>JavaScript</code>, <code>ProseMirror</code>, <code>Rich Text Editor</code>, <code>TypeScript</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/tiptap">Tiptap</a></strong></td><td>Headless and open-source editor framework</td><td><a href="https://github.com/ueberdosis/tiptap">tiptap</a></td><td><a href="https://tiptap.dev/">Tiptap</a></td><td><a href="https://cossmology.com/organizations/tiptap/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>JavaScript</code>, <code>ProseMirror</code>, <code>Rich Text Editor</code>, <code>TypeScript</code></td></tr>
 </tbody>
 </table>

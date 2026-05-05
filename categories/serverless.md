@@ -1,4 +1,4 @@
-# Application Framework
+# Serverless
 [← Back to Index](../README.md)
 **1 company**
 <table style="table-layout:fixed; width:900px">
@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/nestjs">NestJS</a></strong></td><td>Progressive Node.js framework</td><td><a href="https://github.com/nestjs/nest">nest</a></td><td><a href="https://nestjs.com">NestJS</a></td><td><a href="https://cossmology.com/organizations/nestjs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Application Framework</code>, <code>Node.js</code>, <code>TypeScript</code>, <code>Web Framework</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/nitric">Nitric</a></strong></td><td>Cloud-native app framework with any provider</td><td><a href="https://github.com/nitrictech/nitric">nitric</a></td><td><a href="https://nitric.io/">Nitric</a></td><td><a href="https://cossmology.com/organizations/nitric/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Deployment</code>, <code>Infrastructure as Code</code>, <code>Serverless</code></td></tr>
 </tbody>
 </table>

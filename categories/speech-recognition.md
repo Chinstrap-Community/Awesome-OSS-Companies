@@ -1,6 +1,6 @@
 # Speech Recognition
 [← Back to Index](../README.md)
-**2 companies**
+**3 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,7 +19,8 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/alphacephei">Alphacephei</a></strong></td><td>Speech recognition technology and research.</td><td><a href="https://github.com/alphacep/vosk-api">Vosk</a></td><td><a href="https://alphacephei.com/">Alphacephei</a></td><td><a href="https://cossmology.com/organizations/alphacephei/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Python</code>, <code>Speech Recognition</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/bolna">Bolna</a></strong></td><td>Voice AI orchestration platform for India</td><td><a href="https://github.com/bolna-ai/bolna">bolna</a></td><td><a href="https://bolna.ai">Bolna</a></td><td><a href="https://cossmology.com/organizations/bolna/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>Conversational AI</code>, <code>LLMs</code>, <code>Speech Recognition</code>, <code>Text-to-Speech</code>, <code>Voice</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/alphacephei">Alphacephei</a></strong></td><td>Speech recognition technology and research.</td><td><a href="https://github.com/alphacep/vosk-api">Vosk</a></td><td><a href="https://alphacephei.com/">Alphacephei</a></td><td><a href="https://cossmology.com/organizations/alphacephei/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Speech Recognition</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/amical">Amical</a></strong></td><td>Open-source AI dictation app</td><td><a href="https://github.com/amicalhq/amical">amical</a></td><td><a href="https://amical.ai">Amical</a></td><td><a href="https://cossmology.com/organizations/amical/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Desktop</code>, <code>Local-First</code>, <code>Natural Language Processing</code>, <code>Speech Recognition</code>, <code>Transcription</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/bolna">Bolna</a></strong></td><td>Voice AI orchestration platform for India</td><td><a href="https://github.com/bolna-ai/bolna">bolna</a></td><td><a href="https://bolna.ai">Bolna</a></td><td><a href="https://cossmology.com/organizations/bolna/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Framework</code>, <code>Conversational AI</code>, <code>LLMs</code>, <code>Multi-Agent Systems</code>, <code>Text-to-Speech</code>, <code>Voice</code></td></tr>
 </tbody>
 </table>

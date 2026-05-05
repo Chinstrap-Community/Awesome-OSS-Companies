@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/uno-platform">Uno Platform</a></strong></td><td>Cross-platform .NET app development platform</td><td><a href="https://github.com/unoplatform/uno">uno</a></td><td><a href="https://platform.uno">Uno Platform</a></td><td><a href="https://cossmology.com/organizations/uno-platform/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>C#</code>, <code>Cross-Platform</code>, <code>.NET</code>, <code>WebAssembly</code>, <code>XAML</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/uno-platform">Uno Platform</a></strong></td><td>Cross-platform .NET app development platform</td><td><a href="https://github.com/unoplatform/uno">uno</a></td><td><a href="https://platform.uno">Uno Platform</a></td><td><a href="https://cossmology.com/organizations/uno-platform/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>.NET</code>, <code>C#</code>, <code>Cross-Platform</code>, <code>WebAssembly</code>, <code>XAML</code></td></tr>
 </tbody>
 </table>

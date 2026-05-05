@@ -1,6 +1,6 @@
 # UI Library
 [← Back to Index](../README.md)
-**1 company**
+**2 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,6 +19,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
+<tr><td><strong><a href="https://cossmology.com/organizations/nextui-inc">NextUI Inc.</a></strong></td><td>AI-powered code generation for web components.</td><td><a href="https://github.com/heroui-inc/heroui">heroui</a></td><td><a href="https://heroui.chat/">NextUI Inc.</a></td><td><a href="https://cossmology.com/organizations/nextui-inc/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Code Generation</code>, <code>React</code>, <code>Tailwind CSS</code>, <code>UI Library</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/tremor">Tremor</a></strong></td><td>React components for charts and dashboards</td><td><a href="https://github.com/tremorlabs/tremor">tremor</a></td><td><a href="https://tremor.so/">Tremor</a></td><td><a href="https://cossmology.com/organizations/tremor/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Radix UI</code>, <code>React</code>, <code>Tailwind CSS</code>, <code>UI Library</code>, <code>UI Toolkit</code></td></tr>
 </tbody>
 </table>

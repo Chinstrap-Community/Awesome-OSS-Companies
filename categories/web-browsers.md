@@ -1,4 +1,4 @@
-# API Gateway
+# Web Browsers
 [← Back to Index](../README.md)
 **1 company**
 <table style="table-layout:fixed; width:900px">
@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/gravitee-io">Gravitee.io</a></strong></td><td>API management platform for APIs, events, AI.</td><td><a href="https://github.com/gravitee-io/gravitee-api-management">gravitee-api-management</a></td><td><a href="https://www.gravitee.io/">Gravitee.io</a></td><td><a href="https://cossmology.com/organizations/gravitee-io/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Apache Kafka</code>, <code>API</code>, <code>API Gateway</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/brave">Brave</a></strong></td><td>Privacy-focused browser and search engine</td><td><a href="https://github.com/brave/brave-core">brave-core</a></td><td><a href="https://brave.com">Brave</a></td><td><a href="https://cossmology.com/organizations/brave/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Browser</code>, <code>Privacy</code>, <code>Search Engine</code>, <code>VPN</code>, <code>Web Browsers</code></td></tr>
 </tbody>
 </table>

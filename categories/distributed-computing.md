@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/anyscale">Anyscale</a></strong></td><td>AI compute platform built on Ray</td><td><a href="https://github.com/ray-project/ray">Ray</a></td><td><a href="https://anyscale.com">Anyscale</a></td><td><a href="https://cossmology.com/organizations/anyscale/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Infrastructure</code>, <code>Distributed Computing</code>, <code>Machine Learning</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/anyscale">Anyscale</a></strong></td><td>AI compute platform built on Ray</td><td><a href="https://github.com/ray-project/ray">Ray</a></td><td><a href="https://anyscale.com">Anyscale</a></td><td><a href="https://cossmology.com/organizations/anyscale/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Infrastructure</code>, <code>Distributed Computing</code></td></tr>
 </tbody>
 </table>

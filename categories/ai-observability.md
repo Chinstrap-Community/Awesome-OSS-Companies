@@ -1,6 +1,6 @@
 # AI Observability
 [← Back to Index](../README.md)
-**2 companies**
+**3 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,7 +19,8 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/evidently-ai">Evidently AI</a></strong></td><td>AI evaluation &amp; LLM observability platform</td><td><a href="https://github.com/evidentlyai/evidently">evidently</a></td><td><a href="https://www.evidentlyai.com/">Evidently AI</a></td><td><a href="https://cossmology.com/organizations/evidently-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>AI Observability</code>, <code>LLMs</code>, <code>Machine Learning</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/evidently-ai">Evidently AI</a></strong></td><td>AI evaluation & LLM observability platform</td><td><a href="https://github.com/evidentlyai/evidently">evidently</a></td><td><a href="https://www.evidentlyai.com/">Evidently AI</a></td><td><a href="https://cossmology.com/organizations/evidently-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Observability</code>, <code>LLMs</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/latitude">Latitude</a></strong></td><td>Open-source LLM engineering platform</td><td><a href="https://github.com/latitude-dev/latitude-llm">latitude-llm</a></td><td><a href="https://latitude.so">Latitude</a></td><td><a href="https://cossmology.com/organizations/latitude/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Development Platform</code>, <code>AI Observability</code>, <code>Developer Tools</code>, <code>Generative AI</code>, <code>LLMOps</code>, <code>LLMs</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/openlit">OpenLit</a></strong></td><td>AI development observability and tracing platform</td><td><a href="https://github.com/openlit/openlit">OpenLIT</a></td><td><a href="https://openlit.io/">OpenLit</a></td><td><a href="https://cossmology.com/organizations/openlit/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Observability</code>, <code>Model Monitoring</code>, <code>Observability</code>, <code>OpenTelemetry</code>, <code>Tracing</code></td></tr>
 </tbody>
 </table>

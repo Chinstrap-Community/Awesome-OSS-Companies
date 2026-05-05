@@ -1,6 +1,6 @@
-# Networking
+# Threat Intelligence
 [← Back to Index](../README.md)
-**2 companies**
+**1 company**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,7 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/isovalent">Isovalent</a></strong></td><td>eBPF-powered Kubernetes networking & security</td><td><a href="https://github.com/cilium/cilium">cilium</a></td><td><a href="https://isovalent.com/">Isovalent</a></td><td><a href="https://cossmology.com/organizations/isovalent/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cilium</code>, <code>Kubernetes</code>, <code>Networking</code>, <code>Security</code>, <code>eBPF</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/netmaker">Netmaker</a></strong></td><td>WireGuard-based virtual network management</td><td><a href="https://github.com/gravitl/netmaker">netmaker</a></td><td><a href="https://www.netmaker.io/">Netmaker</a></td><td><a href="https://cossmology.com/organizations/netmaker/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Go</code>, <code>Networking</code>, <code>WireGuard</code>, <code>gRPC</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/filigran">Filigran</a></strong></td><td>Open-source threat management platform</td><td><a href="https://github.com/OpenCTI-Platform/opencti">OpenCTI</a></td><td><a href="https://filigran.io">Filigran</a></td><td><a href="https://cossmology.com/organizations/filigran/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cybersecurity</code>, <code>Security</code>, <code>Threat Detection</code>, <code>Threat Intelligence</code>, <code>Vulnerability Management</code></td></tr>
 </tbody>
 </table>

@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/medplum">Medplum</a></strong></td><td>Open source healthcare developer platform</td><td><a href="https://github.com/medplum/medplum">Medplum</a></td><td><a href="https://www.medplum.com/">Medplum</a></td><td><a href="https://cossmology.com/organizations/medplum/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API</code>, <code>EHR</code>, <code>FHIR</code>, <code>HealthTech</code>, <code>HIPAA</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/medplum">Medplum</a></strong></td><td>Open source healthcare developer platform</td><td><a href="https://github.com/medplum/medplum">Medplum</a></td><td><a href="https://www.medplum.com/">Medplum</a></td><td><a href="https://cossmology.com/organizations/medplum/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API</code>, <code>EHR</code>, <code>FHIR</code>, <code>HIPAA</code>, <code>HealthTech</code></td></tr>
 </tbody>
 </table>

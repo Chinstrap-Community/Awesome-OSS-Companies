@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/confident-ai">Confident AI</a></strong></td><td>LLM evaluation &amp; observability platform</td><td><a href="https://github.com/confident-ai/deepeval">DeepEval</a></td><td><a href="https://confident-ai.com/">Confident AI</a></td><td><a href="https://cossmology.com/organizations/confident-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI evaluation</code>, <code>LLM Evaluation</code>, <code>LLMs</code>, <code>Testing</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/confident-ai">Confident AI</a></strong></td><td>LLM evaluation & observability platform</td><td><a href="https://github.com/confident-ai/deepeval">DeepEval</a></td><td><a href="https://confident-ai.com/">Confident AI</a></td><td><a href="https://cossmology.com/organizations/confident-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI evaluation</code>, <code>LLM Evaluation</code>, <code>LLMs</code>, <code>Testing</code></td></tr>
 </tbody>
 </table>

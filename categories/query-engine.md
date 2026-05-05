@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/polars">Polars</a></strong></td><td>High-performance DataFrame library in Rust</td><td><a href="https://github.com/pola-rs/polars">polars</a></td><td><a href="https://pola.rs">Polars</a></td><td><a href="https://cossmology.com/organizations/polars/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Apache Arrow</code>, <code>Data Processing</code>, <code>Python</code>, <code>Query Engine</code>, <code>Rust</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/polars">Polars</a></strong></td><td>High-performance DataFrame library in Rust</td><td><a href="https://github.com/pola-rs/polars">polars</a></td><td><a href="https://pola.rs">Polars</a></td><td><a href="https://cossmology.com/organizations/polars/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Apache Arrow</code>, <code>Data Processing</code>, <code>Query Engine</code>, <code>Rust</code></td></tr>
 </tbody>
 </table>

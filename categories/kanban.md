@@ -20,7 +20,5 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/vibe-kanban">Vibe Kanban</a></strong></td><td>AI coding agent orchestration tool</td><td><a href="https://github.com/BloopAI/vibe-kanban">vibe-kanban</a></td><td><a href="https://www.vibekanban.com">Vibe Kanban</a></td><td><a href="https://cossmology.com/organizations/vibe-kanban/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Coding Agents</code>, <code>Issue Tracking</code>, <code>Kanban</code>, <code>Project Management</code>, <code>Vibe Coding</code></td></tr>
-
-
 </tbody>
 </table>

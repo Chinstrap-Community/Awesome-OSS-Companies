@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/ant-group">Ant Group</a></strong></td><td>Leading fintech and digital payments company</td><td><a href="https://github.com/sofastack">SOFAStack</a></td><td><a href="https://www.antgroup.com/en">Ant Group</a></td><td><a href="https://cossmology.com/organizations/ant-group/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Digital Payments</code>, <code>Fintech</code>, <code>Infrastructure</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/ant-group">Ant Group</a></strong></td><td>Leading fintech and digital payments company</td><td><a href="https://github.com/sofastack">SOFAStack</a></td><td><a href="https://www.antgroup.com/en">Ant Group</a></td><td><a href="https://cossmology.com/organizations/ant-group/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Blockchain</code>, <code>Digital Payments</code>, <code>Fintech</code></td></tr>
 </tbody>
 </table>

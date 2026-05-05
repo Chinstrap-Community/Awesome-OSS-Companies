@@ -1,6 +1,6 @@
 # Natural Language Processing
 [← Back to Index](../README.md)
-**3 companies**
+**2 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,8 +19,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/deepset">deepset</a></strong></td><td>AI platform for custom LLM applications.</td><td><a href="https://github.com/deepset-ai/haystack">Haystack</a></td><td><a href="https://www.deepset.ai/">deepset</a></td><td><a href="https://cossmology.com/organizations/deepset/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>LLMs</code>, <code>Natural Language Processing</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/extropic">Extropic</a></strong></td><td>Extropic: Thermodynamic accelerated computing.</td><td><a href="https://github.com/extropic-ai">Thermodynamic Computing</a></td><td><a href="https://www.extropic.ai/">Extropic</a></td><td><a href="https://cossmology.com/organizations/extropic/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Natural Language Processing</code>, <code>Predictive Analytics</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/nous-research-2">Nous Research</a></strong></td><td>Human-centric AI research and model development</td><td><a href="https://github.com/orgs/NousResearch/">Nous Research</a></td><td><a href="https://nousresearch.com/">Nous Research</a></td><td><a href="https://cossmology.com/organizations/nous-research-2/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>LLMs</code>, <code>Natural Language Processing</code>, <code>NLP</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/deepset">deepset</a></strong></td><td>AI platform for custom LLM applications.</td><td><a href="https://github.com/deepset-ai/haystack">Haystack</a></td><td><a href="https://www.deepset.ai/">deepset</a></td><td><a href="https://cossmology.com/organizations/deepset/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>LLMs</code>, <code>Natural Language Processing</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/extropic">Extropic</a></strong></td><td>Extropic: Thermodynamic accelerated computing.</td><td><a href="https://github.com/extropic-ai">Thermodynamic Computing</a></td><td><a href="https://www.extropic.ai/">Extropic</a></td><td><a href="https://cossmology.com/organizations/extropic/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Natural Language Processing</code>, <code>Predictive Analytics</code></td></tr>
 </tbody>
 </table>

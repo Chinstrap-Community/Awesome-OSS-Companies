@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/aci-dev">ACI.dev</a></strong></td><td>AI tooling governance platform</td><td><a href="https://github.com/aipotheosis-labs/aci">aci</a></td><td><a href="https://www.aci.dev">ACI.dev</a></td><td><a href="https://cossmology.com/organizations/aci-dev/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Governance</code>, <code>API Integration</code>, <code>Developer Tools</code>, <code>MCP</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/aci-dev">ACI.dev</a></strong></td><td>AI tooling governance platform</td><td><a href="https://github.com/aipotheosis-labs/aci">aci</a></td><td><a href="https://www.aci.dev">ACI.dev</a></td><td><a href="https://cossmology.com/organizations/aci-dev/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Governance</code>, <code>API Integration</code>, <code>Developer Tools</code></td></tr>
 </tbody>
 </table>

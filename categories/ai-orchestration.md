@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/dynamiq">Dynamiq</a></strong></td><td>Operating platform for GenAI applications</td><td><a href="https://github.com/dynamiq-ai/dynamiq">dynamiq</a></td><td><a href="https://getdynamiq.ai">Dynamiq</a></td><td><a href="https://cossmology.com/organizations/dynamiq/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Agentic AI</code>, <code>AI Observability</code>, <code>AI Orchestration</code>, <code>LLMOps</code>, <code>RAG</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/dynamiq">Dynamiq</a></strong></td><td>Operating platform for GenAI applications</td><td><a href="https://github.com/dynamiq-ai/dynamiq">dynamiq</a></td><td><a href="https://getdynamiq.ai">Dynamiq</a></td><td><a href="https://cossmology.com/organizations/dynamiq/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Observability</code>, <code>AI Orchestration</code>, <code>Agentic AI</code>, <code>LLMOps</code>, <code>RAG</code></td></tr>
 </tbody>
 </table>

@@ -20,6 +20,6 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/feedbin">Feedbin</a></strong></td><td>A simple, fast, and nice-looking RSS reader.</td><td><a href="https://github.com/feedbin/feedbin">feedbin</a></td><td><a href="https://feedbin.com">Feedbin</a></td><td><a href="https://cossmology.com/organizations/feedbin/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Content Aggregation</code>, <code>RSS</code>, <code>Ruby on Rails</code>, <code>SaaS</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/folo">Folo</a></strong></td><td>AI-powered information browser and RSS reader</td><td><a href="https://github.com/RSSNext/Folo">Folo</a></td><td><a href="https://folo.is/">Folo</a></td><td><a href="https://cossmology.com/organizations/folo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>Content Aggregation</code>, <code>RSS</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/folo">Folo</a></strong></td><td>AI-powered information browser and RSS reader</td><td><a href="https://github.com/RSSNext/Folo">Folo</a></td><td><a href="https://folo.is/">Folo</a></td><td><a href="https://cossmology.com/organizations/folo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Content Aggregation</code>, <code>RSS</code></td></tr>
 </tbody>
 </table>

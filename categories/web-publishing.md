@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/ghost">Ghost</a></strong></td><td>Open source publishing platform for creators.</td><td><a href="https://github.com/TryGhost/Ghost">Ghost</a></td><td><a href="https://ghost.org/">Ghost</a></td><td><a href="https://cossmology.com/organizations/ghost/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>CMS</code>, <code>Open Source</code>, <code>Web Publishing</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/ghost">Ghost</a></strong></td><td>Open source publishing platform for creators.</td><td><a href="https://github.com/TryGhost/Ghost">Ghost</a></td><td><a href="https://ghost.org/">Ghost</a></td><td><a href="https://cossmology.com/organizations/ghost/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>CMS</code>, <code>Web Publishing</code></td></tr>
 </tbody>
 </table>

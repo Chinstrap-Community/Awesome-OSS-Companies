@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/theatre-js">Theatre.js</a></strong></td><td>JavaScript animation library for web motion</td><td><a href="https://github.com/theatre-js/theatre">Motion Design Editor</a></td><td><a href="https://www.theatrejs.com/">Theatre.js</a></td><td><a href="https://cossmology.com/organizations/theatre-js/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Animation</code>, <code>Design Tools</code>, <code>JavaScript</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/theatre-js">Theatre.js</a></strong></td><td>JavaScript animation library for web motion</td><td><a href="https://github.com/theatre-js/theatre">Motion Design Editor</a></td><td><a href="https://www.theatrejs.com/">Theatre.js</a></td><td><a href="https://cossmology.com/organizations/theatre-js/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Animation</code>, <code>Design Tools</code></td></tr>
 </tbody>
 </table>

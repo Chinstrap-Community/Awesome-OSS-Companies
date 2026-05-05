@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/vantage">Vantage</a></strong></td><td>Cloud cost management and optimization platform</td><td><a href="https://github.com/vantage-sh/">vantage</a></td><td><a href="https://www.vantage.sh/">Vantage</a></td><td><a href="https://cossmology.com/organizations/vantage/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud</code>, <code>Cost Management</code>, <code>Optimization</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/vantage">Vantage</a></strong></td><td>Cloud cost management and optimization platform</td><td><a href="https://github.com/vantage-sh/">vantage</a></td><td><a href="https://www.vantage.sh/">Vantage</a></td><td><a href="https://cossmology.com/organizations/vantage/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cost Management</code>, <code>Optimization</code></td></tr>
 </tbody>
 </table>

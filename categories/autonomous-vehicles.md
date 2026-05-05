@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/comma-ai">comma.ai</a></strong></td><td>AI-powered driver assistance system for cars</td><td><a href="https://github.com/commaai/openpilot">openpilot</a></td><td><a href="https://comma.ai/">comma.ai</a></td><td><a href="https://cossmology.com/organizations/comma-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>ADAS</code>, <code>Autonomous Vehicles</code>, <code>Machine Learning</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/comma-ai">comma.ai</a></strong></td><td>AI-powered driver assistance system for cars</td><td><a href="https://github.com/commaai/openpilot">openpilot</a></td><td><a href="https://comma.ai/">comma.ai</a></td><td><a href="https://cossmology.com/organizations/comma-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>ADAS</code>, <code>Autonomous Vehicles</code></td></tr>
 </tbody>
 </table>

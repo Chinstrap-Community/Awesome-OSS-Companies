@@ -1,6 +1,6 @@
 # Supply Chain Security
 [← Back to Index](../README.md)
-**2 companies**
+**3 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -20,6 +20,7 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/anchore">Anchore</a></strong></td><td>SBOM-powered software composition analysis.</td><td><a href="https://github.com/anchore/syft">Syft</a></td><td><a href="https://anchore.com/">Anchore</a></td><td><a href="https://cossmology.com/organizations/anchore/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Containers</code>, <code>DevSecOps</code>, <code>SBOM</code>, <code>Supply Chain Security</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/safedep">SafeDep</a></strong></td><td>Scans open source packages for malicious code.</td><td><a href="https://github.com/safedep/vet">Vet</a></td><td><a href="https://safedep.io/">SafeDep</a></td><td><a href="https://cossmology.com/organizations/safedep/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Dependency Management</code>, <code>Software Composition Analysis</code>, <code>Software Supply Chain</code>, <code>Supply Chain Security</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/safedep">SafeDep</a></strong></td><td>Scans open source packages for malicious code.</td><td><a href="https://github.com/safedep/vet">Vet</a></td><td><a href="https://safedep.io/">SafeDep</a></td><td><a href="https://cossmology.com/organizations/safedep/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cybersecurity</code>, <code>Dependency Management</code>, <code>Developer Tools</code>, <code>Software Composition Analysis</code>, <code>Software Supply Chain</code>, <code>Supply Chain Security</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/stacklok">Stacklok</a></strong></td><td>Open source software supply chain security</td><td><a href="https://github.com/stacklok/toolhive">ToolHive</a></td><td><a href="https://stacklok.com">Stacklok</a></td><td><a href="https://cossmology.com/organizations/stacklok/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Application Security</code>, <code>Containers</code>, <code>Go</code>, <code>Kubernetes</code>, <code>MCP</code>, <code>Security</code>, <code>Supply Chain</code>, <code>Supply Chain Security</code></td></tr>
 </tbody>
 </table>

@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/seal-report">Seal Report</a></strong></td><td>Open-source reporting tool for .NET framework.</td><td><a href="https://github.com/ariacom/Seal-Report">Seal-Report</a></td><td><a href="https://sealreport.org/">Seal Report</a></td><td><a href="https://cossmology.com/organizations/seal-report/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>C#</code>, <code>.NET</code>, <code>Reporting</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/seal-report">Seal Report</a></strong></td><td>Open-source reporting tool for .NET framework.</td><td><a href="https://github.com/ariacom/Seal-Report">Seal-Report</a></td><td><a href="https://sealreport.org/">Seal Report</a></td><td><a href="https://cossmology.com/organizations/seal-report/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>.NET</code>, <code>C#</code>, <code>Reporting</code></td></tr>
 </tbody>
 </table>

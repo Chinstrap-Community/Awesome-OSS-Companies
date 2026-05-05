@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/electricsql">ElectricSQL</a></strong></td><td>Postgres sync engine for local-first apps</td><td><a href="https://github.com/electric-sql/electric">electric</a></td><td><a href="https://electric-sql.com">ElectricSQL</a></td><td><a href="https://cossmology.com/organizations/electricsql/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Database</code>, <code>Data Synchronization</code>, <code>Local-First</code>, <code>PostgreSQL</code>, <code>Real-time</code>, <code>SQLite</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/electricsql">ElectricSQL</a></strong></td><td>Postgres sync engine for local-first apps</td><td><a href="https://github.com/electric-sql/electric">electric</a></td><td><a href="https://electric-sql.com">ElectricSQL</a></td><td><a href="https://cossmology.com/organizations/electricsql/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Synchronization</code>, <code>Database</code>, <code>Local-First</code>, <code>PostgreSQL</code>, <code>Real-time</code>, <code>SQLite</code></td></tr>
 </tbody>
 </table>

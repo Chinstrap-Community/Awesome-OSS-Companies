@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/leopard-labs">Leopard Labs</a></strong></td><td>Open-source AI web automation agent</td><td><a href="https://github.com/nanobrowser/nanobrowser">Nanobrowser</a></td><td><a href="https://nanobrowser.ai">Leopard Labs</a></td><td><a href="https://cossmology.com/organizations/leopard-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Agentic AI</code>, <code>AI Agents</code>, <code>Browser Automation</code>, <code>Chrome Extension</code>, <code>Web Automation</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/leopard-labs">Leopard Labs</a></strong></td><td>Open-source AI web automation agent</td><td><a href="https://github.com/nanobrowser/nanobrowser">Nanobrowser</a></td><td><a href="https://nanobrowser.ai">Leopard Labs</a></td><td><a href="https://cossmology.com/organizations/leopard-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>Agentic AI</code>, <code>Browser Automation</code>, <code>Chrome Extension</code>, <code>Web Automation</code></td></tr>
 </tbody>
 </table>

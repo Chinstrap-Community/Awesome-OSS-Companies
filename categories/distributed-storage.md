@@ -20,7 +20,5 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/seaweedfs">SeaweedFS</a></strong></td><td>Distributed object store and file system</td><td><a href="https://github.com/seaweedfs/seaweedfs">SeaweedFS</a></td><td><a href="https://seaweedfs.com">SeaweedFS</a></td><td><a href="https://cossmology.com/organizations/seaweedfs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Native</code>, <code>Cloud Storage</code>, <code>Distributed Storage</code>, <code>Kubernetes</code>, <code>Object Storage</code></td></tr>
-
-
 </tbody>
 </table>

@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/droidrun">Droidrun</a></strong></td><td>AI-powered mobile app automation platform</td><td><a href="https://github.com/droidrun/droidrun">droidrun</a></td><td><a href="https://droidrun.ai/">Droidrun</a></td><td><a href="https://cossmology.com/organizations/droidrun/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>LLMs</code>, <code>Mobile Automation</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/droidrun">Droidrun</a></strong></td><td>AI-powered mobile app automation platform</td><td><a href="https://github.com/droidrun/droidrun">droidrun</a></td><td><a href="https://droidrun.ai/">Droidrun</a></td><td><a href="https://cossmology.com/organizations/droidrun/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>LLMs</code>, <code>Mobile Automation</code></td></tr>
 </tbody>
 </table>

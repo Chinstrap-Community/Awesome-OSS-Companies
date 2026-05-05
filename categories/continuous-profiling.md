@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/polar-signals">Polar Signals</a></strong></td><td>Continuous profiling for performance &amp; costs</td><td><a href="https://github.com/parca-dev">Parca</a></td><td><a href="https://www.polarsignals.com/">Polar Signals</a></td><td><a href="https://cossmology.com/organizations/polar-signals/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud</code>, <code>Continuous Profiling</code>, <code>eBPF</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/polar-signals">Polar Signals</a></strong></td><td>Continuous profiling for performance & costs</td><td><a href="https://github.com/parca-dev">Parca</a></td><td><a href="https://www.polarsignals.com/">Polar Signals</a></td><td><a href="https://cossmology.com/organizations/polar-signals/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Continuous Profiling</code>, <code>eBPF</code></td></tr>
 </tbody>
 </table>
