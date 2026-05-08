@@ -1,6 +1,6 @@
-# Email
+# Data Prediction
 [← Back to Index](../README.md)
-**2 companies**
+**1 company**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,7 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/resend">Resend</a></strong></td><td>Developer-focused email API platform</td><td><a href="https://github.com/resend/react-email">react-email</a></td><td><a href="https://react.email/">Resend</a></td><td><a href="https://cossmology.com/organizations/resend/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API Management</code>, <code>Cloud Native</code>, <code>Developer Tools</code>, <code>Email</code>, <code>Email API</code>, <code>Transactional Email</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/sessy">Sessy</a></strong></td><td>Open-source email observability for AWS SES</td><td><a href="https://github.com/marckohlbrugge/sessy">sessy</a></td><td><a href="https://sessy.do/">Sessy</a></td><td><a href="https://cossmology.com/organizations/sessy/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AWS</code>, <code>Developer Tools</code>, <code>Email</code>, <code>Observability</code>, <code>Self-Hosted</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/prior-labs">Prior Labs</a></strong></td><td>Foundation models for tabular data</td><td><a href="https://github.com/PriorLabs/TabPFN">TabPFN</a></td><td><a href="https://priorlabs.ai/">Prior Labs</a></td><td><a href="https://cossmology.com/organizations/prior-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Analytics</code>, <code>Data Prediction</code>, <code>Developer Tools</code>, <code>MLOps</code>, <code>Machine Learning</code>, <code>Python</code></td></tr>
 </tbody>
 </table>

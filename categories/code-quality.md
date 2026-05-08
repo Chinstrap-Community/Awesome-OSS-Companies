@@ -1,6 +1,6 @@
 # Code Quality
 [← Back to Index](../README.md)
-**3 companies**
+**4 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -21,6 +21,7 @@
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/merico">Merico</a></strong></td><td>Open-source code quality and analysis tools</td><td><a href="https://github.com/merico-dev/lake">Apache DevLak</a></td><td><a href="https://www.devinsight.ai/">Merico</a></td><td><a href="https://cossmology.com/organizations/merico/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Code Analysis</code>, <code>Code Quality</code>, <code>Developer Tools</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/qlty">Qlty Software</a></strong></td><td>AI-powered code quality & coverage platform</td><td><a href="https://github.com/qltysh/qlty">Qlty</a></td><td><a href="https://qlty.sh">Qlty Software</a></td><td><a href="https://cossmology.com/organizations/qlty/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI-powered</code>, <code>CI/CD</code>, <code>Code Analysis</code>, <code>Code Quality</code>, <code>Code Security</code>, <code>DevOps</code>, <code>Developer Tools</code>, <code>Static Analysis</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/sentrux">Sentrux</a></strong></td><td>Real-time code quality sensor for AI agents</td><td><a href="https://github.com/sentrux/sentrux">sentrux</a></td><td><a href="https://sentrux.dev">Sentrux</a></td><td><a href="https://cossmology.com/organizations/sentrux/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Coding Agents</code>, <code>Code Quality</code>, <code>Developer Tools</code>, <code>MCP</code>, <code>Rust</code>, <code>Static Analysis</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/sonarsource">SonarSource</a></strong></td><td>Code quality and security platform</td><td><a href="https://github.com/sonarsource/sonarqube">sonarqube</a></td><td><a href="https://www.sonarsource.com/">SonarSource</a></td><td><a href="https://cossmology.com/organizations/sonarsource/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Code Quality</code>, <code>Code Security</code>, <code>Static Analysis</code></td></tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 # Autonomous Vehicles
 [← Back to Index](../README.md)
-**1 company**
+**2 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -20,5 +20,6 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/comma-ai">comma.ai</a></strong></td><td>AI-powered driver assistance system for cars</td><td><a href="https://github.com/commaai/openpilot">openpilot</a></td><td><a href="https://comma.ai/">comma.ai</a></td><td><a href="https://cossmology.com/organizations/comma-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>ADAS</code>, <code>Autonomous Vehicles</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/tier-iv">TIER IV</a></strong></td><td>Open-source autonomous driving software</td><td><a href="https://github.com/autowarefoundation/autoware">Autoware</a></td><td><a href="https://tier4.jp">TIER IV</a></td><td><a href="https://cossmology.com/organizations/tier-iv/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Autonomous Vehicles</code>, <code>Computer Vision</code></td></tr>
 </tbody>
 </table>

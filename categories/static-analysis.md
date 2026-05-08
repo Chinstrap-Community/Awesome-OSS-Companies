@@ -1,4 +1,4 @@
-# Charging
+# Static Analysis
 [← Back to Index](../README.md)
 **1 company**
 <table style="table-layout:fixed; width:900px">
@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/chargelab">ChargeLab</a></strong></td><td>Software for EV charging businesses</td><td><a href="https://github.com/ChargeLab/OpenOCPP/">OpenOCPP</a></td><td><a href="https://chargelab.co/">ChargeLab</a></td><td><a href="https://cossmology.com/organizations/chargelab/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Charging</code>, <code>EV</code>, <code>Hardware Infrastructure</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/skylos">Skylos</a></strong></td><td>Open-source Python SAST and dead code scanner</td><td><a href="https://github.com/duriantaco/skylos">skylos</a></td><td><a href="https://skylos.dev">Skylos</a></td><td><a href="https://cossmology.com/organizations/skylos/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>CI/CD</code>, <code>Code Quality</code>, <code>Code Security</code>, <code>Developer Tools</code>, <code>Python</code>, <code>Static Analysis</code></td></tr>
 </tbody>
 </table>

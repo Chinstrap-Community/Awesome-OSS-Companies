@@ -1,6 +1,6 @@
-# Email
+# Collaborative Tools
 [← Back to Index](../README.md)
-**2 companies**
+**1 company**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,7 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/resend">Resend</a></strong></td><td>Developer-focused email API platform</td><td><a href="https://github.com/resend/react-email">react-email</a></td><td><a href="https://react.email/">Resend</a></td><td><a href="https://cossmology.com/organizations/resend/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API Management</code>, <code>Cloud Native</code>, <code>Developer Tools</code>, <code>Email</code>, <code>Email API</code>, <code>Transactional Email</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/sessy">Sessy</a></strong></td><td>Open-source email observability for AWS SES</td><td><a href="https://github.com/marckohlbrugge/sessy">sessy</a></td><td><a href="https://sessy.do/">Sessy</a></td><td><a href="https://cossmology.com/organizations/sessy/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AWS</code>, <code>Developer Tools</code>, <code>Email</code>, <code>Observability</code>, <code>Self-Hosted</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/tangled">Tangled</a></strong></td><td>Federated social coding platform</td><td><a href="https://github.com/tangled-sh/tangled">tangled</a></td><td><a href="https://tangled.org">Tangled</a></td><td><a href="https://cossmology.com/organizations/tangled/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AT Protocol</code>, <code>Collaborative Tools</code>, <code>Decentralized</code>, <code>Developer Tools</code>, <code>Git</code>, <code>Version Control</code></td></tr>
 </tbody>
 </table>

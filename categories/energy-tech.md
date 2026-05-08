@@ -1,6 +1,6 @@
-# Automotive Software
+# Energy Tech
 [← Back to Index](../README.md)
-**1 company**
+**2 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,6 +19,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/tier-iv">TIER IV</a></strong></td><td>Open-source autonomous driving software</td><td><a href="https://github.com/autowarefoundation/autoware">Autoware</a></td><td><a href="https://tier4.jp">TIER IV</a></td><td><a href="https://cossmology.com/organizations/tier-iv/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Autonomous Vehicles</code>, <code>Computer Vision</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/chargelab">ChargeLab</a></strong></td><td>Software for EV charging businesses</td><td><a href="https://github.com/ChargeLab/OpenOCPP/">OpenOCPP</a></td><td><a href="https://chargelab.co/">ChargeLab</a></td><td><a href="https://cossmology.com/organizations/chargelab/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Charging</code>, <code>EV</code>, <code>Energy Tech</code>, <code>Hardware Infrastructure</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/seita">Seita</a></strong></td><td>Open-source EMS for energy flexibility</td><td><a href="https://github.com/FlexMeasures/flexmeasures">FlexMeasures</a></td><td><a href="https://flexmeasures.io/">Seita</a></td><td><a href="https://cossmology.com/organizations/seita/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Energy Tech</code>, <code>IoT</code>, <code>Machine Learning</code>, <code>SaaS</code></td></tr>
 </tbody>
 </table>

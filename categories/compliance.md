@@ -1,6 +1,6 @@
 # Compliance
 [← Back to Index](../README.md)
-**2 companies**
+**3 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,7 +19,8 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/collate">Collate</a></strong></td><td>AI platform for data governance, discovery, ops.</td><td><a href="https://github.com/open-metadata/OpenMetadata">OpenMetadata</a></td><td><a href="https://www.getcollate.io/">Collate</a></td><td><a href="https://cossmology.com/organizations/collate/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Compliance</code>, <code>Discovery</code>, <code>Governance</code>, <code>Metadata</code>, <code>Observability</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/collate">Collate</a></strong></td><td>AI platform for data governance, discovery, ops.</td><td><a href="https://github.com/open-metadata/OpenMetadata">OpenMetadata</a></td><td><a href="https://open-metadata.org/">Collate</a></td><td><a href="https://cossmology.com/organizations/collate/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Compliance</code>, <code>Discovery</code>, <code>Governance</code>, <code>Metadata</code>, <code>Observability</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/guardrails-ai">Guardrails AI</a></strong></td><td>Mitigates Gen AI risks with AI-powered validation.</td><td><a href="https://github.com/guardrails-ai/guardrails">guardrails</a></td><td><a href="https://www.guardrailsai.com/">Guardrails AI</a></td><td><a href="https://cossmology.com/organizations/guardrails-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Compliance</code>, <code>Safety</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/probo">Probo</a></strong></td><td>Open-source compliance platform</td><td><a href="https://github.com/getprobo/probo">probo</a></td><td><a href="https://www.getprobo.com">Probo</a></td><td><a href="https://cossmology.com/organizations/probo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Compliance</code>, <code>GDPR</code>, <code>HIPAA</code>, <code>ISO 27001</code>, <code>SOC</code>, <code>Security</code></td></tr>
 </tbody>
 </table>
