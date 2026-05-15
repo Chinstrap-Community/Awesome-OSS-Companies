@@ -5,10 +5,10 @@ This repository serves as a directory of commercial open source software (COSS) 
 The information in this repository is sourced from [Cossmology](https://cossmology.com), a platform provided by [Chinstrap Community](https://chinstrap.community) for tracking and analyzing the commercial open source software landscape. This repository is jointly maintained by [Chinstrap Community](https://chinstrap.community) and [Puter](https://puter.com).
 
 ## Browse the Full List
-**[View all 1098 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
+**[View all 1115 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
 The searchable page lets you filter by category or search across company names, descriptions, and technology tags — all in one place.
 ## Companies by Category
-**1098 companies** across **280 categories**
+**1115 companies** across **285 categories**
 | Category | Companies |
 |---|---|
 | [5G/4G RAN](categories/5g-4g-ran.md) | 1 |
@@ -38,7 +38,7 @@ The searchable page lets you filter by category or search across company names, 
 | [API Management](categories/api-management.md) | 13 |
 | [API Platform](categories/api-platform.md) | 1 |
 | [API Security](categories/api-security.md) | 2 |
-| [API Testing](categories/api-testing.md) | 1 |
+| [API Testing](categories/api-testing.md) | 2 |
 | [App Deployment](categories/app-deployment.md) | 3 |
 | [Application Security](categories/application-security.md) | 2 |
 | [Audio](categories/audio.md) | 1 |
@@ -55,7 +55,7 @@ The searchable page lets you filter by category or search across company names, 
 | [BPM](categories/bpm.md) | 2 |
 | [Browser Automation](categories/browser-automation.md) | 4 |
 | [Business Intelligence](categories/business-intelligence.md) | 5 |
-| [Business Process Automation](categories/business-process-automation.md) | 2 |
+| [Business Process Automation](categories/business-process-automation.md) | 1 |
 | [Caching](categories/caching.md) | 3 |
 | [Calendar](categories/calendar.md) | 2 |
 | [Chatbot](categories/chatbot.md) | 3 |
@@ -76,10 +76,10 @@ The searchable page lets you filter by category or search across company names, 
 | [Code Search](categories/code-search.md) | 1 |
 | [Collaboration](categories/collaboration.md) | 8 |
 | [Collaborative Tools](categories/collaborative-tools.md) | 1 |
-| [Community Platform](categories/community-platform.md) | 1 |
+| [Community Platform](categories/community-platform.md) | 2 |
 | [Compilers](categories/compilers.md) | 1 |
 | [Compliance](categories/compliance.md) | 3 |
-| [Computer Vision](categories/computer-vision.md) | 6 |
+| [Computer Vision](categories/computer-vision.md) | 5 |
 | [Container Orchestration](categories/container-orchestration.md) | 2 |
 | [Containerization](categories/containerization.md) | 4 |
 | [Content Aggregation](categories/content-aggregation.md) | 2 |
@@ -94,11 +94,12 @@ The searchable page lets you filter by category or search across company names, 
 | [Crypto Wallet](categories/crypto-wallet.md) | 1 |
 | [Cryptography](categories/cryptography.md) | 1 |
 | [Customer Data Platform](categories/customer-data-platform.md) | 1 |
-| [Cybersecurity](categories/cybersecurity.md) | 12 |
+| [Cybersecurity](categories/cybersecurity.md) | 13 |
 | [Dashboard](categories/dashboard.md) | 2 |
 | [Data Analytics](categories/data-analytics.md) | 13 |
 | [Data Backup](categories/data-backup.md) | 3 |
 | [Data Engineering](categories/data-engineering.md) | 2 |
+| [Data Extraction](categories/data-extraction.md) | 1 |
 | [Data Integration](categories/data-integration.md) | 3 |
 | [Data Labeling](categories/data-labeling.md) | 2 |
 | [Data Lake](categories/data-lake.md) | 4 |
@@ -116,14 +117,15 @@ The searchable page lets you filter by category or search across company names, 
 | [Data Streaming](categories/data-streaming.md) | 11 |
 | [Data Transformation](categories/data-transformation.md) | 1 |
 | [Data Visualization](categories/data-visualization.md) | 3 |
+| [Database](categories/database.md) | 60 |
 | [Database Management](categories/database-management.md) | 1 |
-| [Database](categories/database.md) | 61 |
-| [Decentralized Identity](categories/decentralized-identity.md) | 1 |
 | [Decentralized](categories/decentralized.md) | 7 |
+| [Decentralized Identity](categories/decentralized-identity.md) | 1 |
 | [Deepfake Detection](categories/deepfake-detection.md) | 1 |
 | [Deployment](categories/deployment.md) | 4 |
 | [Design Tools](categories/design-tools.md) | 3 |
 | [Desktop](categories/desktop.md) | 1 |
+| [Desktop Agents](categories/desktop-agents.md) | 1 |
 | [Developer Portal](categories/developer-portal.md) | 1 |
 | [Developer Tools](categories/developer-tools.md) | 60 |
 | [DevOps](categories/devops.md) | 15 |
@@ -136,8 +138,9 @@ The searchable page lets you filter by category or search across company names, 
 | [Distributed Storage](categories/distributed-storage.md) | 1 |
 | [Distributed Systems](categories/distributed-systems.md) | 4 |
 | [Document Intelligence](categories/document-intelligence.md) | 1 |
+| [Document Management](categories/document-management.md) | 1 |
 | [Document Processing](categories/document-processing.md) | 2 |
-| [Documentation](categories/documentation.md) | 4 |
+| [Documentation](categories/documentation.md) | 5 |
 | [E-commerce Platform](categories/e-commerce-platform.md) | 2 |
 | [E-learning](categories/e-learning.md) | 3 |
 | [E-signature](categories/e-signature.md) | 1 |
@@ -145,8 +148,8 @@ The searchable page lets you filter by category or search across company names, 
 | [Edge AI](categories/edge-ai.md) | 3 |
 | [Edge Computing](categories/edge-computing.md) | 5 |
 | [EHR](categories/ehr.md) | 1 |
+| [Email](categories/email.md) | 1 |
 | [Email Marketing](categories/email-marketing.md) | 1 |
-| [Email](categories/email.md) | 2 |
 | [Embedded Systems](categories/embedded-systems.md) | 4 |
 | [Energy Tech](categories/energy-tech.md) | 2 |
 | [Enterprise Search](categories/enterprise-search.md) | 1 |
@@ -166,7 +169,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Graph Database](categories/graph-database.md) | 7 |
 | [GraphQL](categories/graphql.md) | 8 |
 | [Headless CMS](categories/headless-cms.md) | 2 |
-| [HealthTech](categories/healthtech.md) | 2 |
+| [HealthTech](categories/healthtech.md) | 3 |
 | [HPC](categories/hpc.md) | 1 |
 | [IDE](categories/ide.md) | 8 |
 | [Identity Management](categories/identity-management.md) | 8 |
@@ -180,7 +183,7 @@ The searchable page lets you filter by category or search across company names, 
 | [IoT](categories/iot.md) | 7 |
 | [Kanban](categories/kanban.md) | 1 |
 | [Knowledge Graph](categories/knowledge-graph.md) | 2 |
-| [Knowledge Management](categories/knowledge-management.md) | 6 |
+| [Knowledge Management](categories/knowledge-management.md) | 7 |
 | [Kubernetes](categories/kubernetes.md) | 24 |
 | [Link Shortening](categories/link-shortening.md) | 1 |
 | [Linux](categories/linux.md) | 5 |
@@ -188,14 +191,15 @@ The searchable page lets you filter by category or search across company names, 
 | [LLM Gateway](categories/llm-gateway.md) | 2 |
 | [LLM Training](categories/llm-training.md) | 2 |
 | [LLMOps](categories/llmops.md) | 6 |
-| [LLMs](categories/llms.md) | 13 |
-| [Localization](categories/localization.md) | 1 |
+| [LLMs](categories/llms.md) | 12 |
+| [Localization](categories/localization.md) | 2 |
 | [Log Management](categories/log-management.md) | 1 |
 | [Low-Code](categories/low-code.md) | 8 |
 | [Machine Learning](categories/machine-learning.md) | 14 |
+| [Markdown](categories/markdown.md) | 1 |
 | [MCP](categories/mcp.md) | 3 |
 | [Messaging](categories/messaging.md) | 6 |
-| [MLOps](categories/mlops.md) | 6 |
+| [MLOps](categories/mlops.md) | 7 |
 | [Mobile Apps](categories/mobile-apps.md) | 1 |
 | [Mobile Automation](categories/mobile-automation.md) | 1 |
 | [Mobile Development](categories/mobile-development.md) | 3 |
@@ -211,11 +215,11 @@ The searchable page lets you filter by category or search across company names, 
 | [No-Code](categories/no-code.md) | 7 |
 | [NoSQL](categories/nosql.md) | 3 |
 | [Note-taking](categories/note-taking.md) | 3 |
-| [Notifications](categories/notifications.md) | 1 |
+| [Notifications](categories/notifications.md) | 2 |
 | [Object Storage](categories/object-storage.md) | 1 |
-| [Observability Platform](categories/observability-platform.md) | 1 |
 | [Observability](categories/observability.md) | 13 |
-| [PaaS](categories/paas.md) | 2 |
+| [Observability Platform](categories/observability-platform.md) | 1 |
+| [PaaS](categories/paas.md) | 3 |
 | [Package Management](categories/package-management.md) | 1 |
 | [Payments](categories/payments.md) | 3 |
 | [PDF](categories/pdf.md) | 1 |
@@ -226,7 +230,7 @@ The searchable page lets you filter by category or search across company names, 
 | [PostgreSQL](categories/postgresql.md) | 1 |
 | [Privacy](categories/privacy.md) | 9 |
 | [Productivity](categories/productivity.md) | 4 |
-| [Project Management](categories/project-management.md) | 8 |
+| [Project Management](categories/project-management.md) | 9 |
 | [Quantum Computing](categories/quantum-computing.md) | 2 |
 | [Query Engine](categories/query-engine.md) | 1 |
 | [RAG](categories/rag.md) | 9 |
@@ -241,8 +245,8 @@ The searchable page lets you filter by category or search across company names, 
 | [Robotics](categories/robotics.md) | 2 |
 | [Sandboxing](categories/sandboxing.md) | 1 |
 | [Scheduling](categories/scheduling.md) | 3 |
+| [Search](categories/search.md) | 11 |
 | [Search Engine](categories/search-engine.md) | 2 |
-| [Search](categories/search.md) | 10 |
 | [Secrets Management](categories/secrets-management.md) | 1 |
 | [Security](categories/security.md) | 4 |
 | [Serverless](categories/serverless.md) | 1 |
@@ -262,7 +266,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Text-to-Speech](categories/text-to-speech.md) | 3 |
 | [Threat Intelligence](categories/threat-intelligence.md) | 1 |
 | [Time Series](categories/time-series.md) | 5 |
-| [Transactional Email](categories/transactional-email.md) | 1 |
+| [Transactional Email](categories/transactional-email.md) | 3 |
 | [Transcription](categories/transcription.md) | 1 |
 | [Translation](categories/translation.md) | 3 |
 | [UI Library](categories/ui-library.md) | 2 |
@@ -270,15 +274,16 @@ The searchable page lets you filter by category or search across company names, 
 | [Vector Database](categories/vector-database.md) | 8 |
 | [Verifiable Computation](categories/verifiable-computation.md) | 1 |
 | [Version Control](categories/version-control.md) | 1 |
+| [Video](categories/video.md) | 2 |
 | [Video Conferencing](categories/video-conferencing.md) | 2 |
 | [Video Editing](categories/video-editing.md) | 1 |
 | [Video Generation](categories/video-generation.md) | 1 |
-| [Video](categories/video.md) | 2 |
 | [Virtual Machines](categories/virtual-machines.md) | 1 |
 | [Virtualization](categories/virtualization.md) | 3 |
 | [Voice Recognition](categories/voice-recognition.md) | 3 |
 | [VoIP](categories/voip.md) | 1 |
-| [Web Analytics](categories/web-analytics.md) | 1 |
+| [VPN](categories/vpn.md) | 1 |
+| [Web Analytics](categories/web-analytics.md) | 3 |
 | [Web Application Framework](categories/web-application-framework.md) | 1 |
 | [Web Automation](categories/web-automation.md) | 1 |
 | [Web Browsers](categories/web-browsers.md) | 1 |
@@ -288,6 +293,6 @@ The searchable page lets you filter by category or search across company names, 
 | [Web Scraping](categories/web-scraping.md) | 5 |
 | [WebAssembly](categories/webassembly.md) | 2 |
 | [Wiki](categories/wiki.md) | 2 |
-| [Workflow Automation](categories/workflow-automation.md) | 3 |
+| [Workflow Automation](categories/workflow-automation.md) | 4 |
 | [Workflow Orchestration](categories/workflow-orchestration.md) | 6 |
 | [Zero Trust](categories/zero-trust.md) | 2 |

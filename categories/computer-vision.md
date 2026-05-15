@@ -1,6 +1,6 @@
 # Computer Vision
 [← Back to Index](../README.md)
-**6 companies**
+**5 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,7 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/anduril-industries">Anduril Industries</a></strong></td><td>Develops advanced defense tech & autonomous sys.</td><td><a href="https://github.com/anduril">Anduril OSS</a></td><td><a href="https://www.anduril.com/">Anduril Industries</a></td><td><a href="https://cossmology.com/organizations/anduril-industries/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Computer Vision</code>, <code>Sensor Fusion</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/deeplivecam">DeepLiveCam</a></strong></td><td>Real-time face swapping and deepfake tool</td><td><a href="https://github.com/hacksider/Deep-Live-Cam">Deep-Live-Cam</a></td><td><a href="https://deeplive.cam/">DeepLiveCam</a></td><td><a href="https://cossmology.com/organizations/deeplivecam/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Computer Vision</code>, <code>Deepfakes</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/krea">Krea</a></strong></td><td>AI creative suite for images, video, and 3D</td><td><a href="https://github.com/krea-ai/flux-krea">flux-krea</a></td><td><a href="https://www.krea.ai/">Krea</a></td><td><a href="https://cossmology.com/organizations/krea/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Computer Vision</code>, <code>Generative AI</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/lightly">Lightly</a></strong></td><td>Computer vision suite for AI optimization</td><td><a href="https://github.com/lightly-ai/lightly">lightly</a></td><td><a href="https://www.lightly.ai/">Lightly</a></td><td><a href="https://cossmology.com/organizations/lightly/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Active Learning</code>, <code>Computer Vision</code>, <code>Data Curation</code>, <code>Self-Supervised Learning</code></td></tr>

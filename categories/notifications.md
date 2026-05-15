@@ -1,6 +1,6 @@
 # Notifications
 [← Back to Index](../README.md)
-**1 company**
+**2 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -20,5 +20,6 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/novu">Novu</a></strong></td><td>Open-source notifications infrastructure platform</td><td><a href="https://github.com/novuhq/novu">novu</a></td><td><a href="https://novu.co/">Novu</a></td><td><a href="https://cossmology.com/organizations/novu/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API</code>, <code>Developer Tools</code>, <code>Email</code>, <code>Multi-channel</code>, <code>Notifications</code>, <code>Workflow Orchestration</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/ntfy">ntfy.sh</a></strong></td><td>Open-source push notification service</td><td><a href="https://github.com/binwiederhier/ntfy">ntfy</a></td><td><a href="https://ntfy.sh">ntfy.sh</a></td><td><a href="https://cossmology.com/organizations/ntfy/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>Messaging</code>, <code>Notifications</code>, <code>Real-time</code>, <code>Self-Hosted</code></td></tr>
 </tbody>
 </table>

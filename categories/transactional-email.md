@@ -1,6 +1,6 @@
 # Transactional Email
 [← Back to Index](../README.md)
-**1 company**
+**3 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,6 +19,8 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
+<tr><td><strong><a href="https://cossmology.com/organizations/resend">Resend</a></strong></td><td>Developer-focused email API platform</td><td><a href="https://github.com/resend/react-email">react-email</a></td><td><a href="https://react.email/">Resend</a></td><td><a href="https://cossmology.com/organizations/resend/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API Management</code>, <code>Cloud Native</code>, <code>Developer Tools</code>, <code>Email</code>, <code>Email API</code>, <code>Transactional Email</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/waypoint">Waypoint</a></strong></td><td>Transactional email platform for software teams.</td><td><a href="https://github.com/usewaypoint/email-builder-js">EmailBuilder.js</a></td><td><a href="https://www.usewaypoint.com/">Waypoint</a></td><td><a href="https://cossmology.com/organizations/waypoint/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Email API</code>, <code>Email Marketing</code>, <code>Transactional Email</code>, <code>Visual Builder</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/wraps">Wraps</a></strong></td><td>Open-source AWS email infrastructure</td><td><a href="https://github.com/wraps-team/wraps">wraps</a></td><td><a href="https://wraps.dev">Wraps</a></td><td><a href="https://cossmology.com/organizations/wraps/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Infrastructure</code>, <code>Developer Tools</code>, <code>Email</code>, <code>Email API</code>, <code>Transactional Email</code></td></tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 # PaaS
 [← Back to Index](../README.md)
-**2 companies**
+**3 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -21,5 +21,6 @@
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/caprover">CapRover</a></strong></td><td>Self-hosted open-source PaaS platform</td><td><a href="https://github.com/caprover/caprover">CapRover</a></td><td><a href="https://caprover.com">CapRover</a></td><td><a href="https://cossmology.com/organizations/caprover/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>App Deployment</code>, <code>DevOps</code>, <code>Docker</code>, <code>PaaS</code>, <code>Self-Hosted</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/dokploy">Dokploy</a></strong></td><td>Open-source self-hosted PaaS platform</td><td><a href="https://github.com/Dokploy/dokploy">dokploy</a></td><td><a href="https://dokploy.com">Dokploy</a></td><td><a href="https://cossmology.com/organizations/dokploy/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Container Orchestration</code>, <code>Deployment</code>, <code>DevOps</code>, <code>Docker</code>, <code>Docker Compose</code>, <code>PaaS</code>, <code>Self-Hosted</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/temps">Temps</a></strong></td><td>Self-hosted PaaS with built-in observability</td><td><a href="https://github.com/gotempsh/temps">temps</a></td><td><a href="https://temps.sh">Temps</a></td><td><a href="https://cossmology.com/organizations/temps/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>App Deployment</code>, <code>CI/CD</code>, <code>DevOps</code>, <code>Monitoring</code>, <code>PaaS</code>, <code>Self-Hosted</code></td></tr>
 </tbody>
 </table>

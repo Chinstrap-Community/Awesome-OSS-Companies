@@ -1,6 +1,6 @@
-# Retrieval-Augmented Generation
+# VPN
 [← Back to Index](../README.md)
-**2 companies**
+**1 company**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,7 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/rclone">Rclone</a></strong></td><td>Command-line program for cloud storage.</td><td><a href="https://github.com/rclone/rclone">rclone</a></td><td><a href="https://rclone.org/">Rclone</a></td><td><a href="https://cossmology.com/organizations/rclone/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>CLI Tools</code>, <code>Cloud Storage</code>, <code>Retrieval-Augmented Generation</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/spacedrive">Spacedrive</a></strong></td><td>File manager unifying local and cloud storage.</td><td><a href="https://github.com/spacedriveapp/spacedrive">Spacedrive</a></td><td><a href="https://spacebot.sh/">Spacedrive</a></td><td><a href="https://cossmology.com/organizations/spacedrive/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cross-Platform</code>, <code>Database</code>, <code>Retrieval-Augmented Generation</code>, <code>Rust</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/tailscale">Tailscale</a></strong></td><td>Zero-config VPN built on WireGuard</td><td><a href="https://github.com/tailscale/tailscale">tailscale</a></td><td><a href="https://tailscale.com">Tailscale</a></td><td><a href="https://cossmology.com/organizations/tailscale/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Networking</code>, <code>Network Security</code>, <code>VPN</code>, <code>WireGuard</code>, <code>Zero Trust</code></td></tr>
 </tbody>
 </table>

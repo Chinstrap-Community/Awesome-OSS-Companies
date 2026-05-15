@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/2600hz">2600Hz</a></strong></td><td>White label unified communications platform</td><td><a href="https://github.com/2600hz/kazoo">kazoo</a></td><td><a href="https://www.2600hz.org/">2600Hz</a></td><td><a href="https://cossmology.com/organizations/2600hz/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>CPaaS</code>, <code>UCaaS</code>, <code>VoIP</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/2600hz">2600Hz</a></strong></td><td>White label unified communications platform</td><td><a href="https://github.com/2600hz/kazoo">kazoo</a></td><td><a href="https://www.2600hz.com/">2600Hz</a></td><td><a href="https://cossmology.com/organizations/2600hz/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>CPaaS</code>, <code>UCaaS</code>, <code>VoIP</code></td></tr>
 </tbody>
 </table>

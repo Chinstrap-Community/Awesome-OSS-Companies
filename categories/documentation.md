@@ -1,6 +1,6 @@
 # Documentation
 [← Back to Index](../README.md)
-**4 companies**
+**5 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,6 +22,7 @@
 <tr><td><strong><a href="https://cossmology.com/organizations/fern">Fern</a></strong></td><td>API documentation and SDK generation platform</td><td><a href="https://github.com/fern-api/fern">Fern - API development toolkit</a></td><td><a href="https://buildwithfern.com/">Fern</a></td><td><a href="https://cossmology.com/organizations/fern/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API</code>, <code>Documentation</code>, <code>SDK</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/gitmcp">GitMCP</a></strong></td><td>AI context for GitHub repositories via MCP</td><td><a href="https://github.com/idosal/git-mcp">GitMCP</a></td><td><a href="https://gitmcp.io/">GitMCP</a></td><td><a href="https://cossmology.com/organizations/gitmcp/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Documentation</code>, <code>Git</code>, <code>Model Context Protocol</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/opsmill">OpsMill</a></strong></td><td>Infrastructure data management platform for IT.</td><td><a href="https://github.com/opsmill/infrahub">Infrahub</a></td><td><a href="https://opsmill.com/">OpsMill</a></td><td><a href="https://cossmology.com/organizations/opsmill/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Automation</code>, <code>CI</code>, <code>Documentation</code>, <code>Infrastructure Management</code>, <code>Network Infrastructure</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/read-the-docs">Read the Docs</a></strong></td><td>Documentation hosting and build platform</td><td><a href="https://github.com/readthedocs/readthedocs.org">readthedocs.org</a></td><td><a href="https://readthedocs.com">Read the Docs</a></td><td><a href="https://cossmology.com/organizations/read-the-docs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>Documentation</code>, <code>Git Integration</code>, <code>Static Site Generation</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/scalar">Scalar</a></strong></td><td>Open-source API documentation and client platform.</td><td><a href="https://github.com/scalar/scalar">Scalar</a></td><td><a href="https://scalar.com/">Scalar</a></td><td><a href="https://cossmology.com/organizations/scalar/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>API</code>, <code>API Testing</code>, <code>Documentation</code></td></tr>
 </tbody>
 </table>
