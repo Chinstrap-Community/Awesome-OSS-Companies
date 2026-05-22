@@ -5,10 +5,10 @@ This repository serves as a directory of commercial open source software (COSS) 
 The information in this repository is sourced from [Cossmology](https://cossmology.com), a platform provided by [Chinstrap Community](https://chinstrap.community) for tracking and analyzing the commercial open source software landscape. This repository is jointly maintained by [Chinstrap Community](https://chinstrap.community) and [Puter](https://puter.com).
 
 ## Browse the Full List
-**[View all 1115 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
+**[View all 1124 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
 The searchable page lets you filter by category or search across company names, descriptions, and technology tags — all in one place.
 ## Companies by Category
-**1115 companies** across **285 categories**
+**1124 companies** across **286 categories**
 | Category | Companies |
 |---|---|
 | [5G/4G RAN](categories/5g-4g-ran.md) | 1 |
@@ -17,7 +17,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Advanced Materials](categories/advanced-materials.md) | 1 |
 | [Agent Memory](categories/agent-memory.md) | 3 |
 | [AGI](categories/agi.md) | 1 |
-| [AI Agents](categories/ai-agents.md) | 56 |
+| [AI Agents](categories/ai-agents.md) | 57 |
 | [AI Chat](categories/ai-chat.md) | 1 |
 | [AI Coding Agents](categories/ai-coding-agents.md) | 14 |
 | [AI Coding Assistant](categories/ai-coding-assistant.md) | 11 |
@@ -35,6 +35,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Algorithmic Trading](categories/algorithmic-trading.md) | 1 |
 | [Analytics](categories/analytics.md) | 22 |
 | [Animation](categories/animation.md) | 1 |
+| [Apache Kafka](categories/apache-kafka.md) | 1 |
 | [API Management](categories/api-management.md) | 13 |
 | [API Platform](categories/api-platform.md) | 1 |
 | [API Security](categories/api-security.md) | 2 |
@@ -48,7 +49,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Backup](categories/backup.md) | 4 |
 | [Batch Processing](categories/batch-processing.md) | 1 |
 | [Billing](categories/billing.md) | 6 |
-| [Bioinformatics](categories/bioinformatics.md) | 1 |
+| [Bioinformatics](categories/bioinformatics.md) | 2 |
 | [Biotech](categories/biotech.md) | 1 |
 | [Block Storage](categories/block-storage.md) | 2 |
 | [Blockchain](categories/blockchain.md) | 12 |
@@ -94,7 +95,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Crypto Wallet](categories/crypto-wallet.md) | 1 |
 | [Cryptography](categories/cryptography.md) | 1 |
 | [Customer Data Platform](categories/customer-data-platform.md) | 1 |
-| [Cybersecurity](categories/cybersecurity.md) | 13 |
+| [Cybersecurity](categories/cybersecurity.md) | 14 |
 | [Dashboard](categories/dashboard.md) | 2 |
 | [Data Analytics](categories/data-analytics.md) | 13 |
 | [Data Backup](categories/data-backup.md) | 3 |
@@ -118,7 +119,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Data Transformation](categories/data-transformation.md) | 1 |
 | [Data Visualization](categories/data-visualization.md) | 3 |
 | [Database](categories/database.md) | 60 |
-| [Database Management](categories/database-management.md) | 1 |
+| [Database Management](categories/database-management.md) | 2 |
 | [Decentralized](categories/decentralized.md) | 7 |
 | [Decentralized Identity](categories/decentralized-identity.md) | 1 |
 | [Deepfake Detection](categories/deepfake-detection.md) | 1 |
@@ -142,7 +143,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Document Processing](categories/document-processing.md) | 2 |
 | [Documentation](categories/documentation.md) | 5 |
 | [E-commerce Platform](categories/e-commerce-platform.md) | 2 |
-| [E-learning](categories/e-learning.md) | 3 |
+| [E-learning](categories/e-learning.md) | 4 |
 | [E-signature](categories/e-signature.md) | 1 |
 | [Ecommerce](categories/ecommerce.md) | 22 |
 | [Edge AI](categories/edge-ai.md) | 3 |
@@ -176,7 +177,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Image Generation](categories/image-generation.md) | 3 |
 | [Image Recognition](categories/image-recognition.md) | 1 |
 | [In-Memory Database](categories/in-memory-database.md) | 3 |
-| [Inference](categories/inference.md) | 7 |
+| [Inference](categories/inference.md) | 8 |
 | [Infrastructure as Code](categories/infrastructure-as-code.md) | 10 |
 | [Integration Frameworks](categories/integration-frameworks.md) | 2 |
 | [Intrusion Detection System (IDS)](categories/intrusion-detection-system-ids.md) | 1 |
@@ -220,7 +221,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Observability](categories/observability.md) | 13 |
 | [Observability Platform](categories/observability-platform.md) | 1 |
 | [PaaS](categories/paas.md) | 3 |
-| [Package Management](categories/package-management.md) | 1 |
+| [Package Management](categories/package-management.md) | 2 |
 | [Payments](categories/payments.md) | 3 |
 | [PDF](categories/pdf.md) | 1 |
 | [Performance Monitoring](categories/performance-monitoring.md) | 1 |
@@ -279,7 +280,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Video Editing](categories/video-editing.md) | 1 |
 | [Video Generation](categories/video-generation.md) | 1 |
 | [Virtual Machines](categories/virtual-machines.md) | 1 |
-| [Virtualization](categories/virtualization.md) | 3 |
+| [Virtualization](categories/virtualization.md) | 4 |
 | [Voice Recognition](categories/voice-recognition.md) | 3 |
 | [VoIP](categories/voip.md) | 1 |
 | [VPN](categories/vpn.md) | 1 |

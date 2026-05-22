@@ -1,4 +1,4 @@
-# Bioinformatics
+# Apache Kafka
 [← Back to Index](../README.md)
 **1 company**
 <table style="table-layout:fixed; width:900px">
@@ -19,7 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/evomap">EvoMap</a></strong></td><td>AI agent self-evolution infrastructure</td><td><a href="https://github.com/EvoMap/evolver">Evolver</a></td><td><a href="https://evomap.ai">EvoMap</a></td><td><a href="https://cossmology.com/organizations/evomap/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Framework</code>, <code>Bioinformatics</code>, <code>Biotech</code>, <code>Multi-Agent Systems</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/lamin">Lamin</a></strong></td><td>Open data platform for biology.</td><td><a href="https://github.com/laminlabs/lamindb">lamindb</a></td><td><a href="https://lamin.ai/">Lamin</a></td><td><a href="https://cossmology.com/organizations/lamin/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Bioinformatics</code>, <code>Data Management</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/confluent">Confluent</a></strong></td><td>Cloud-native data streaming platform</td><td><a href="https://github.com/apache/kafka">Apache Kafka</a></td><td><a href="https://www.confluent.io/">Confluent</a></td><td><a href="https://cossmology.com/organizations/confluent/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Apache Kafka</code>, <code>Data Pipelines</code>, <code>Data Streaming</code>, <code>Real-time</code></td></tr>
 </tbody>
 </table>

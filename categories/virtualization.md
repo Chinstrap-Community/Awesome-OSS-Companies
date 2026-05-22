@@ -1,6 +1,6 @@
 # Virtualization
 [← Back to Index](../README.md)
-**3 companies**
+**4 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,5 +22,6 @@
 <tr><td><strong><a href="https://cossmology.com/organizations/opennebula">OpenNebula</a></strong></td><td>Open-source cloud & edge computing platform</td><td><a href="https://github.com/OpenNebula/one">one</a></td><td><a href="https://opennebula.io/">OpenNebula</a></td><td><a href="https://cossmology.com/organizations/opennebula/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Computing</code>, <code>Open Source</code>, <code>Virtualization</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/orbstack">OrbStack</a></strong></td><td>Fast, light, simple Docker & Linux for macOS.</td><td><a href="https://github.com/orbstack/orbstack">orbstack</a></td><td><a href="https://orbstack.dev/">OrbStack</a></td><td><a href="https://cossmology.com/organizations/orbstack/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>Cloud</code>, <code>Docker</code>, <code>Virtualization</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/ubicloud">Ubicloud</a></strong></td><td>Open-source cloud services on bare metal.</td><td><a href="https://github.com/ubicloud/ubicloud">Ubicloud</a></td><td><a href="https://www.ubicloud.com/">Ubicloud</a></td><td><a href="https://cossmology.com/organizations/ubicloud/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Bare Metal</code>, <code>Cloud Computing</code>, <code>Infrastructure as a Service (IaaS)</code>, <code>PostgreSQL</code>, <code>Virtualization</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/vates">Vates</a></strong></td><td>Open source virtualization platform</td><td><a href="https://github.com/vatesfr/xen-orchestra">Xen Orchestra</a></td><td><a href="https://vates.tech">Vates</a></td><td><a href="https://cossmology.com/organizations/vates/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Backup</code>, <code>Cloud Infrastructure</code>, <code>DevOps</code>, <code>Virtualization</code>, <code>Virtual Machines</code></td></tr>
 </tbody>
 </table>
