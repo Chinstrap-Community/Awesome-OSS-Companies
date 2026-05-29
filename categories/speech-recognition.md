@@ -1,6 +1,6 @@
 # Speech Recognition
 [← Back to Index](../README.md)
-**3 companies**
+**4 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -22,5 +22,6 @@
 <tr><td><strong><a href="https://cossmology.com/organizations/alphacephei">Alphacephei</a></strong></td><td>Speech recognition technology and research.</td><td><a href="https://github.com/alphacep/vosk-api">Vosk</a></td><td><a href="https://alphacephei.com/">Alphacephei</a></td><td><a href="https://cossmology.com/organizations/alphacephei/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Speech Recognition</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/amical">Amical</a></strong></td><td>Open-source AI dictation app</td><td><a href="https://github.com/amicalhq/amical">amical</a></td><td><a href="https://amical.ai">Amical</a></td><td><a href="https://cossmology.com/organizations/amical/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Desktop</code>, <code>Local-First</code>, <code>Natural Language Processing</code>, <code>Speech Recognition</code>, <code>Transcription</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/bolna">Bolna</a></strong></td><td>Voice AI orchestration platform for India</td><td><a href="https://github.com/bolna-ai/bolna">bolna</a></td><td><a href="https://bolna.ai">Bolna</a></td><td><a href="https://cossmology.com/organizations/bolna/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Framework</code>, <code>Conversational AI</code>, <code>LLMs</code>, <code>Multi-Agent Systems</code>, <code>Text-to-Speech</code>, <code>Voice</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/openwhispr">OpenWhispr</a></strong></td><td>Open-source voice-to-text dictation app</td><td><a href="https://github.com/OpenWhispr/openwhispr">openwhispr</a></td><td><a href="https://openwhispr.com">OpenWhispr</a></td><td><a href="https://cossmology.com/organizations/openwhispr/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Desktop</code>, <code>Developer Tools</code>, <code>Productivity</code>, <code>Speech Recognition</code>, <code>Voice</code></td></tr>
 </tbody>
 </table>

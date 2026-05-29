@@ -1,6 +1,6 @@
 # Design Tools
 [← Back to Index](../README.md)
-**3 companies**
+**4 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -21,6 +21,7 @@
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/font-awesome">Font Awesome</a></strong></td><td>Icon library and toolkit for web design.</td><td><a href="https://github.com/FortAwesome/Font-Awesome">Font Awesome</a></td><td><a href="https://fontawesome.com/">Font Awesome</a></td><td><a href="https://cossmology.com/organizations/font-awesome/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>CSS</code>, <code>Design Systems</code>, <code>Design Tools</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/penpot">Penpot</a></strong></td><td>Open-source design tool for designers & devs.</td><td><a href="https://github.com/penpot/penpot">Penpot</a></td><td><a href="https://penpot.app/">Penpot</a></td><td><a href="https://cossmology.com/organizations/penpot/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Design Tools</code>, <code>Prototyping</code>, <code>SVG</code>, <code>UI</code>, <code>Web Technologies</code>, <code>WebGL</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/quant-ux">Quant-UX</a></strong></td><td>Open-source UX prototyping & research tool</td><td><a href="https://github.com/KlausSchaefers/quant-ux">quant-ux</a></td><td><a href="https://quant-ux.com">Quant-UX</a></td><td><a href="https://cossmology.com/organizations/quant-ux/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>A/B Testing</code>, <code>Design Tools</code>, <code>Prototyping</code>, <code>UI/UX</code>, <code>User Experience Analysis</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/superdesigndev">Superdesign.dev</a></strong></td><td>AI-powered design agent for IDEs.</td><td><a href="https://github.com/superdesigndev/superdesign">SuperDesign</a></td><td><a href="https://www.superdesign.dev/">Superdesign.dev</a></td><td><a href="https://cossmology.com/organizations/superdesigndev/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Coding Agents</code>, <code>Design Tools</code>, <code>Developer Tools</code>, <code>Vibe Coding</code></td></tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 # AI Memory
 [← Back to Index](../README.md)
-**1 company**
+**2 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,6 +19,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
+<tr><td><strong><a href="https://cossmology.com/organizations/omi">Omi</a></strong></td><td>Open-source AI wearable for memory</td><td><a href="https://github.com/BasedHardware/omi">omi</a></td><td><a href="https://omi.me">Omi</a></td><td><a href="https://cossmology.com/organizations/omi/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Memory</code>, <code>IoT</code>, <code>Mobile Apps</code>, <code>Transcription</code>, <code>Voice</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/screenpipe">screenpipe</a></strong></td><td>Open-source AI screen & audio memory app</td><td><a href="https://github.com/screenpipe/screenpipe">screenpipe</a></td><td><a href="https://screenpi.pe">screenpipe</a></td><td><a href="https://cossmology.com/organizations/screenpipe/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Memory</code>, <code>Agent Memory</code>, <code>Audio</code>, <code>Context Engineering</code>, <code>Privacy</code>, <code>Productivity</code>, <code>Screen Recording</code></td></tr>
 </tbody>
 </table>

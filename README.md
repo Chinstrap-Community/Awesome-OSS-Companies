@@ -5,10 +5,10 @@ This repository serves as a directory of commercial open source software (COSS) 
 The information in this repository is sourced from [Cossmology](https://cossmology.com), a platform provided by [Chinstrap Community](https://chinstrap.community) for tracking and analyzing the commercial open source software landscape. This repository is jointly maintained by [Chinstrap Community](https://chinstrap.community) and [Puter](https://puter.com).
 
 ## Browse the Full List
-**[View all 1124 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
+**[View all 1133 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
 The searchable page lets you filter by category or search across company names, descriptions, and technology tags — all in one place.
 ## Companies by Category
-**1124 companies** across **286 categories**
+**1133 companies** across **288 categories**
 | Category | Companies |
 |---|---|
 | [5G/4G RAN](categories/5g-4g-ran.md) | 1 |
@@ -27,7 +27,7 @@ The searchable page lets you filter by category or search across company names, 
 | [AI Framework](categories/ai-framework.md) | 6 |
 | [AI Governance](categories/ai-governance.md) | 1 |
 | [AI Infrastructure](categories/ai-infrastructure.md) | 4 |
-| [AI Memory](categories/ai-memory.md) | 1 |
+| [AI Memory](categories/ai-memory.md) | 2 |
 | [AI Observability](categories/ai-observability.md) | 3 |
 | [AI Orchestration](categories/ai-orchestration.md) | 1 |
 | [AI Platform](categories/ai-platform.md) | 2 |
@@ -124,11 +124,11 @@ The searchable page lets you filter by category or search across company names, 
 | [Decentralized Identity](categories/decentralized-identity.md) | 1 |
 | [Deepfake Detection](categories/deepfake-detection.md) | 1 |
 | [Deployment](categories/deployment.md) | 4 |
-| [Design Tools](categories/design-tools.md) | 3 |
+| [Design Tools](categories/design-tools.md) | 4 |
 | [Desktop](categories/desktop.md) | 1 |
 | [Desktop Agents](categories/desktop-agents.md) | 1 |
 | [Developer Portal](categories/developer-portal.md) | 1 |
-| [Developer Tools](categories/developer-tools.md) | 60 |
+| [Developer Tools](categories/developer-tools.md) | 61 |
 | [DevOps](categories/devops.md) | 15 |
 | [DevSecOps](categories/devsecops.md) | 1 |
 | [Diagramming](categories/diagramming.md) | 3 |
@@ -149,7 +149,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Edge AI](categories/edge-ai.md) | 3 |
 | [Edge Computing](categories/edge-computing.md) | 5 |
 | [EHR](categories/ehr.md) | 1 |
-| [Email](categories/email.md) | 1 |
+| [Email](categories/email.md) | 2 |
 | [Email Marketing](categories/email-marketing.md) | 1 |
 | [Embedded Systems](categories/embedded-systems.md) | 4 |
 | [Energy Tech](categories/energy-tech.md) | 2 |
@@ -159,7 +159,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Event Data](categories/event-data.md) | 1 |
 | [File Sharing](categories/file-sharing.md) | 2 |
 | [File Storage](categories/file-storage.md) | 1 |
-| [Fintech](categories/fintech.md) | 3 |
+| [Fintech](categories/fintech.md) | 4 |
 | [Form Builder](categories/form-builder.md) | 1 |
 | [Gaming](categories/gaming.md) | 2 |
 | [Generative AI](categories/generative-ai.md) | 6 |
@@ -186,6 +186,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Knowledge Graph](categories/knowledge-graph.md) | 2 |
 | [Knowledge Management](categories/knowledge-management.md) | 7 |
 | [Kubernetes](categories/kubernetes.md) | 24 |
+| [LegalTech](categories/legaltech.md) | 1 |
 | [Link Shortening](categories/link-shortening.md) | 1 |
 | [Linux](categories/linux.md) | 5 |
 | [LLM Evaluation](categories/llm-evaluation.md) | 1 |
@@ -253,9 +254,10 @@ The searchable page lets you filter by category or search across company names, 
 | [Serverless](categories/serverless.md) | 1 |
 | [Simulation](categories/simulation.md) | 2 |
 | [Social Media](categories/social-media.md) | 3 |
-| [Speech Recognition](categories/speech-recognition.md) | 3 |
+| [Speech Recognition](categories/speech-recognition.md) | 4 |
 | [Spreadsheet](categories/spreadsheet.md) | 1 |
 | [SQL](categories/sql.md) | 1 |
+| [SRE](categories/sre.md) | 1 |
 | [Static Analysis](categories/static-analysis.md) | 1 |
 | [Storage](categories/storage.md) | 3 |
 | [Streaming](categories/streaming.md) | 1 |
@@ -272,7 +274,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Translation](categories/translation.md) | 3 |
 | [UI Library](categories/ui-library.md) | 2 |
 | [Unstructured Data](categories/unstructured-data.md) | 1 |
-| [Vector Database](categories/vector-database.md) | 8 |
+| [Vector Database](categories/vector-database.md) | 9 |
 | [Verifiable Computation](categories/verifiable-computation.md) | 1 |
 | [Version Control](categories/version-control.md) | 1 |
 | [Video](categories/video.md) | 2 |

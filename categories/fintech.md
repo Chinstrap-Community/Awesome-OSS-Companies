@@ -1,6 +1,6 @@
 # Fintech
 [← Back to Index](../README.md)
-**3 companies**
+**4 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,6 +19,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
+<tr><td><strong><a href="https://cossmology.com/organizations/fincept">Fincept</a></strong></td><td>AI-powered open-source financial terminal</td><td><a href="https://github.com/Fincept-Corporation/FinceptTerminal">FinceptTerminal</a></td><td><a href="https://fincept.in">Fincept</a></td><td><a href="https://cossmology.com/organizations/fincept/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Analytics</code>, <code>Algorithmic Trading</code>, <code>Fintech</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/formance">Formance</a></strong></td><td>Open-source financial core platform</td><td><a href="https://github.com/formancehq/stack">Formance Stack</a></td><td><a href="https://www.formance.com/">Formance</a></td><td><a href="https://cossmology.com/organizations/formance/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Accounting</code>, <code>Fintech</code>, <code>Payments</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/ghostfolio">Ghostfolio</a></strong></td><td>Open Source Wealth Management Software</td><td><a href="https://github.com/ghostfolio/ghostfolio">Ghostfolio</a></td><td><a href="https://ghostfol.io/">Ghostfolio</a></td><td><a href="https://cossmology.com/organizations/ghostfolio/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Angular</code>, <code>Fintech</code>, <code>TypeScript</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/maybe">Maybe</a></strong></td><td>Open-source personal finance management app</td><td><a href="https://github.com/maybe-finance/maybe">Maybe</a></td><td><a href="https://maybefinance.com/">Maybe</a></td><td><a href="https://cossmology.com/organizations/maybe/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Accounting</code>, <code>Fintech</code>, <code>Spreadsheet</code></td></tr>
