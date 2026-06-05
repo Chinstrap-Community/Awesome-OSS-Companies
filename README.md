@@ -5,10 +5,10 @@ This repository serves as a directory of commercial open source software (COSS) 
 The information in this repository is sourced from [Cossmology](https://cossmology.com), a platform provided by [Chinstrap Community](https://chinstrap.community) for tracking and analyzing the commercial open source software landscape. This repository is jointly maintained by [Chinstrap Community](https://chinstrap.community) and [Puter](https://puter.com).
 
 ## Browse the Full List
-**[View all 1133 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
+**[View all 1139 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
 The searchable page lets you filter by category or search across company names, descriptions, and technology tags — all in one place.
 ## Companies by Category
-**1133 companies** across **288 categories**
+**1139 companies** across **288 categories**
 | Category | Companies |
 |---|---|
 | [5G/4G RAN](categories/5g-4g-ran.md) | 1 |
@@ -26,7 +26,7 @@ The searchable page lets you filter by category or search across company names, 
 | [AI evaluation](categories/ai-evaluation.md) | 2 |
 | [AI Framework](categories/ai-framework.md) | 6 |
 | [AI Governance](categories/ai-governance.md) | 1 |
-| [AI Infrastructure](categories/ai-infrastructure.md) | 4 |
+| [AI Infrastructure](categories/ai-infrastructure.md) | 5 |
 | [AI Memory](categories/ai-memory.md) | 2 |
 | [AI Observability](categories/ai-observability.md) | 3 |
 | [AI Orchestration](categories/ai-orchestration.md) | 1 |
@@ -75,7 +75,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Code Quality](categories/code-quality.md) | 4 |
 | [Code Review](categories/code-review.md) | 2 |
 | [Code Search](categories/code-search.md) | 1 |
-| [Collaboration](categories/collaboration.md) | 8 |
+| [Collaboration](categories/collaboration.md) | 9 |
 | [Collaborative Tools](categories/collaborative-tools.md) | 1 |
 | [Community Platform](categories/community-platform.md) | 2 |
 | [Compilers](categories/compilers.md) | 1 |
@@ -90,12 +90,12 @@ The searchable page lets you filter by category or search across company names, 
 | [Cost Management](categories/cost-management.md) | 1 |
 | [CPaaS](categories/cpaas.md) | 1 |
 | [Crash Reporting](categories/crash-reporting.md) | 1 |
-| [CRM](categories/crm.md) | 8 |
+| [CRM](categories/crm.md) | 9 |
 | [Cross-Platform](categories/cross-platform.md) | 1 |
 | [Crypto Wallet](categories/crypto-wallet.md) | 1 |
 | [Cryptography](categories/cryptography.md) | 1 |
 | [Customer Data Platform](categories/customer-data-platform.md) | 1 |
-| [Cybersecurity](categories/cybersecurity.md) | 14 |
+| [Cybersecurity](categories/cybersecurity.md) | 15 |
 | [Dashboard](categories/dashboard.md) | 2 |
 | [Data Analytics](categories/data-analytics.md) | 13 |
 | [Data Backup](categories/data-backup.md) | 3 |
@@ -173,7 +173,7 @@ The searchable page lets you filter by category or search across company names, 
 | [HealthTech](categories/healthtech.md) | 3 |
 | [HPC](categories/hpc.md) | 1 |
 | [IDE](categories/ide.md) | 8 |
-| [Identity Management](categories/identity-management.md) | 8 |
+| [Identity Management](categories/identity-management.md) | 7 |
 | [Image Generation](categories/image-generation.md) | 3 |
 | [Image Recognition](categories/image-recognition.md) | 1 |
 | [In-Memory Database](categories/in-memory-database.md) | 3 |
@@ -186,11 +186,11 @@ The searchable page lets you filter by category or search across company names, 
 | [Knowledge Graph](categories/knowledge-graph.md) | 2 |
 | [Knowledge Management](categories/knowledge-management.md) | 7 |
 | [Kubernetes](categories/kubernetes.md) | 24 |
-| [LegalTech](categories/legaltech.md) | 1 |
+| [LegalTech](categories/legaltech.md) | 3 |
 | [Link Shortening](categories/link-shortening.md) | 1 |
 | [Linux](categories/linux.md) | 5 |
 | [LLM Evaluation](categories/llm-evaluation.md) | 1 |
-| [LLM Gateway](categories/llm-gateway.md) | 2 |
+| [LLM Gateway](categories/llm-gateway.md) | 3 |
 | [LLM Training](categories/llm-training.md) | 2 |
 | [LLMOps](categories/llmops.md) | 6 |
 | [LLMs](categories/llms.md) | 12 |

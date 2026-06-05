@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/aenix">Aenix</a></strong></td><td>Cloud transformation solutions for data centers.</td><td><a href="https://github.com/cozystack/cozystack">Cozystack</a></td><td><a href="https://cozystack.io/">Aenix</a></td><td><a href="https://cossmology.com/organizations/aenix/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Infrastructure</code>, <code>Kubernetes</code>, <code>PaaS</code>, <code>Virtual Machines</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/aenix">Aenix</a></strong></td><td>Cloud transformation solutions for data centers.</td><td><a href="https://github.com/cozystack/cozystack">Cozystack</a></td><td><a href="https://aenix.io/">Aenix</a></td><td><a href="https://cossmology.com/organizations/aenix/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Infrastructure</code>, <code>Kubernetes</code>, <code>PaaS</code>, <code>Virtual Machines</code></td></tr>
 </tbody>
 </table>

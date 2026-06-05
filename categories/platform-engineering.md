@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/syntasso">Syntasso</a></strong></td><td>Creator of Kratix platform engineering framework</td><td><a href="https://github.com/syntasso/kratix">Kratix</a></td><td><a href="https://kratix.io/">Syntasso</a></td><td><a href="https://cossmology.com/organizations/syntasso/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>DevOps</code>, <code>Go</code>, <code>Kubernetes</code>, <code>Platform Engineering</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/syntasso">Syntasso</a></strong></td><td>Creator of Kratix platform engineering framework</td><td><a href="https://github.com/syntasso/kratix-marketplace">Kratix Marketplace</a></td><td><a href="https://syntasso.io/">Syntasso</a></td><td><a href="https://cossmology.com/organizations/syntasso/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>DevOps</code>, <code>Go</code>, <code>Kubernetes</code>, <code>Platform Engineering</code></td></tr>
 </tbody>
 </table>

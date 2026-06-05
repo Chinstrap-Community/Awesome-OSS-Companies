@@ -1,6 +1,6 @@
 # LLM Gateway
 [← Back to Index](../README.md)
-**2 companies**
+**3 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -20,6 +20,7 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/litellm">LiteLLM</a></strong></td><td>Lightweight LLM gateway for enterprises</td><td><a href="https://github.com/BerriAI/litellm">LiteLLM</a></td><td><a href="https://www.litellm.ai/">LiteLLM</a></td><td><a href="https://cossmology.com/organizations/litellm/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>LLM Gateway</code>, <code>LLMs</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/maxim-ai">Maxim AI</a></strong></td><td>Creator of Bitfrost, an AI gateway platform</td><td><a href="https://github.com/maximhq/bifrost">Bifrost</a></td><td><a href="https://www.getmaxim.ai">Maxim AI</a></td><td><a href="https://cossmology.com/organizations/maxim-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Observability</code>, <code>AI evaluation</code>, <code>Developer Tools</code>, <code>LLM Gateway</code>, <code>LLMOps</code>, <code>LLMs</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/openrouter">OpenRouter</a></strong></td><td>Unified API for large language models (LLMs)</td><td><a href="https://github.com/OpenRouterTeam/openrouter-runner">OpenRouter</a></td><td><a href="https://openrouter.ai/">OpenRouter</a></td><td><a href="https://cossmology.com/organizations/openrouter/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>API</code>, <code>LLM Gateway</code>, <code>LLMs</code></td></tr>
 </tbody>
 </table>

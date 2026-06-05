@@ -19,6 +19,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/tavily">Tavily</a></strong></td><td>Web access layer for AI agents and applications</td><td><a href="https://github.com/tavily-ai/tavily-python">tavily-python</a></td><td><a href="https://gptr.dev/">Tavily</a></td><td><a href="https://cossmology.com/organizations/tavily/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Infrastructure</code>, <code>API Platform</code>, <code>Artificial Intelligence</code>, <code>Web Search</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/tavily">Tavily</a></strong></td><td>Web access layer for AI agents and applications</td><td><a href="https://github.com/tavily-ai/tavily-python">tavily-python</a></td><td><a href="https://www.tavily.com/">Tavily</a></td><td><a href="https://cossmology.com/organizations/tavily/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Infrastructure</code>, <code>API Platform</code>, <code>Artificial Intelligence</code>, <code>Web Search</code></td></tr>
 </tbody>
 </table>

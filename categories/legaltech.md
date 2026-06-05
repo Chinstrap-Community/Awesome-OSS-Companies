@@ -1,6 +1,6 @@
 # LegalTech
 [← Back to Index](../README.md)
-**1 companies**
+**3 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,6 +19,8 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
+<tr><td><strong><a href="https://cossmology.com/organizations/legal-data-hunter">Legal Data Hunter</a></strong></td><td>Open legal data index for 110+ countries</td><td><a href="https://github.com/worldwidelaw/legal-sources">legal-sources</a></td><td><a href="https://legaldatahunter.com">Legal Data Hunter</a></td><td><a href="https://cossmology.com/organizations/legal-data-hunter/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>Data Indexing</code>, <code>LegalTech</code>, <code>MCP</code>, <code>Search</code>, <code>Semantic Search</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/mike-oss">Mike OSS</a></strong></td><td>Open-source legal AI platform</td><td><a href="https://github.com/willchen96/mike">mike</a></td><td><a href="https://mikeoss.com">Mike OSS</a></td><td><a href="https://cossmology.com/organizations/mike-oss/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Workflows</code>, <code>Document Intelligence</code>, <code>LLM Workflows</code>, <code>LegalTech</code>, <code>Self-Hosted</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/stella">Stella</a></strong></td><td>Opensource legal workspace</td><td><a href="https://github.com/stella/stella">stella</a></td><td><a href="https://stll.app">Stella</a></td><td><a href="https://cossmology.com/organizations/stella/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>Document Intelligence</code>, <code>LegalTech</code>, <code>Self-Hosted</code></td></tr>
 </tbody>
 </table>
