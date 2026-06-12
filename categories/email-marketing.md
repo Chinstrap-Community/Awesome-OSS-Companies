@@ -1,6 +1,6 @@
 # Email Marketing
 [← Back to Index](../README.md)
-**1 company**
+**2 companies**
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -20,5 +20,6 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/billionmail">BillionMail</a></strong></td><td>Open-source mail server and marketing</td><td><a href="https://github.com/aaPanel/BillionMail">BillionMail</a></td><td><a href="https://www.billionmail.com/">BillionMail</a></td><td><a href="https://cossmology.com/organizations/billionmail/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Email Marketing</code>, <code>Mail Server</code>, <code>Self-Hosted</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/plunk">Plunk</a></strong></td><td>Open-source email platform for SaaS</td><td><a href="https://github.com/useplunk/plunk">plunk</a></td><td><a href="https://www.useplunk.com">Plunk</a></td><td><a href="https://cossmology.com/organizations/plunk/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Email API</code>, <code>Email Marketing</code>, <code>Self-Hosted</code>, <code>Workflow Automation</code></td></tr>
 </tbody>
 </table>

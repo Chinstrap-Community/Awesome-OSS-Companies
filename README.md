@@ -5,10 +5,10 @@ This repository serves as a directory of commercial open source software (COSS) 
 The information in this repository is sourced from [Cossmology](https://cossmology.com), a platform provided by [Chinstrap Community](https://chinstrap.community) for tracking and analyzing the commercial open source software landscape. This repository is jointly maintained by [Chinstrap Community](https://chinstrap.community) and [Puter](https://puter.com).
 
 ## Browse the Full List
-**[View all 1139 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
+**[View all 1141 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
 The searchable page lets you filter by category or search across company names, descriptions, and technology tags — all in one place.
 ## Companies by Category
-**1139 companies** across **288 categories**
+**1141 companies** across **288 categories**
 | Category | Companies |
 |---|---|
 | [5G/4G RAN](categories/5g-4g-ran.md) | 1 |
@@ -17,7 +17,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Advanced Materials](categories/advanced-materials.md) | 1 |
 | [Agent Memory](categories/agent-memory.md) | 3 |
 | [AGI](categories/agi.md) | 1 |
-| [AI Agents](categories/ai-agents.md) | 57 |
+| [AI Agents](categories/ai-agents.md) | 58 |
 | [AI Chat](categories/ai-chat.md) | 1 |
 | [AI Coding Agents](categories/ai-coding-agents.md) | 14 |
 | [AI Coding Assistant](categories/ai-coding-assistant.md) | 11 |
@@ -150,7 +150,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Edge Computing](categories/edge-computing.md) | 5 |
 | [EHR](categories/ehr.md) | 1 |
 | [Email](categories/email.md) | 2 |
-| [Email Marketing](categories/email-marketing.md) | 1 |
+| [Email Marketing](categories/email-marketing.md) | 2 |
 | [Embedded Systems](categories/embedded-systems.md) | 4 |
 | [Energy Tech](categories/energy-tech.md) | 2 |
 | [Enterprise Search](categories/enterprise-search.md) | 1 |
