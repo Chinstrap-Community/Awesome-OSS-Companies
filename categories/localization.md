@@ -1,6 +1,8 @@
 # Localization
 [← Back to Index](../README.md)
+
 **2 companies**
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -20,6 +22,6 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/lingo">Lingo</a></strong></td><td>AI-powered localization platform for apps</td><td><a href="https://github.com/lingodotdev/lingo.dev">Lingo</a></td><td><a href="https://lingo.dev/">Lingo</a></td><td><a href="https://cossmology.com/organizations/lingo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>App Updates</code>, <code>Localization</code>, <code>Translation</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/tolgee">Tolgee</a></strong></td><td>Open-source app localization platform</td><td><a href="https://github.com/tolgee/tolgee-platform">tolgee-platform</a></td><td><a href="https://tolgee.io">Tolgee</a></td><td><a href="https://cossmology.com/organizations/tolgee/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>Localization</code>, <code>SaaS</code>, <code>SDK</code>, <code>Translation</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/tolgee">Tolgee</a></strong></td><td>Open-source app localization platform</td><td><a href="https://github.com/tolgee/tolgee-platform">tolgee-platform</a></td><td><a href="https://tolgee.io">Tolgee</a></td><td><a href="https://cossmology.com/organizations/tolgee/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>Localization</code>, <code>SDK</code>, <code>SaaS</code>, <code>Translation</code></td></tr>
 </tbody>
 </table>

@@ -1,6 +1,8 @@
 # Web Publishing
 [← Back to Index](../README.md)
+
 **1 company**
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">

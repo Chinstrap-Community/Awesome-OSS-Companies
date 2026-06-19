@@ -1,6 +1,8 @@
 # GraphQL
 [← Back to Index](../README.md)
+
 **8 companies**
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">

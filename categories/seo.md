@@ -1,6 +1,8 @@
-# Survey
+# SEO
 [← Back to Index](../README.md)
+
 **1 company**
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,6 +21,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/formbricks">Formbricks</a></strong></td><td>Open-source experience management platform</td><td><a href="https://github.com/formbricks/formbricks">Formbricks</a></td><td><a href="https://formbricks.com/">Formbricks</a></td><td><a href="https://cossmology.com/organizations/formbricks/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Privacy</code>, <code>Self-Hosted</code>, <code>Survey</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/openseo">OpenSEO</a></strong></td><td>Open-source alternative to Semrush and Ahrefs</td><td><a href="https://github.com/every-app/open-seo">open-seo</a></td><td><a href="https://openseo.so">OpenSEO</a></td><td><a href="https://cossmology.com/organizations/openseo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Developer Tools</code>, <code>SEO</code>, <code>Search</code>, <code>Web Analytics</code></td></tr>
 </tbody>
 </table>

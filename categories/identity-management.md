@@ -1,6 +1,8 @@
 # Identity Management
 [← Back to Index](../README.md)
+
 **7 companies**
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">

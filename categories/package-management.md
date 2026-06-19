@@ -1,6 +1,8 @@
 # Package Management
 [← Back to Index](../README.md)
-**1 company**
+
+**2 companies**
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -20,6 +22,6 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/quansight">Quansight</a></strong></td><td>Consulting and dev for open source AI/ML</td><td><a href="https://github.com/Quansight">Quansight</a></td><td><a href="https://quansight.com/">Quansight</a></td><td><a href="https://cossmology.com/organizations/quansight/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Conda</code>, <code>Jupyter</code>, <code>Package Management</code></td></tr>
-<tr><td><strong><a href="https://cossmology.com/organizations/workbrew">Workbrew</a></strong></td><td>Enterprise Homebrew management platform</td><td><a href="https://github.com/Homebrew/brew">Homebrew</a></td><td><a href="https://workbrew.com">Workbrew</a></td><td><a href="https://cossmology.com/organizations/workbrew/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>macOS</code>, <code>Package Management</code>, <code>Security</code>, <code>Supply Chain Security</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/workbrew">Workbrew</a></strong></td><td>Enterprise Homebrew management platform</td><td><a href="https://github.com/Homebrew/brew">Homebrew</a></td><td><a href="https://workbrew.com">Workbrew</a></td><td><a href="https://cossmology.com/organizations/workbrew/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>Package Management</code>, <code>Security</code>, <code>Supply Chain Security</code>, <code>macOS</code></td></tr>
 </tbody>
 </table>

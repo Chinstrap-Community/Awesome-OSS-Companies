@@ -1,6 +1,8 @@
 # Form Builder
 [← Back to Index](../README.md)
-**1 company**
+
+**2 companies**
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,6 +21,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
+<tr><td><strong><a href="https://cossmology.com/organizations/formbricks">Formbricks</a></strong></td><td>Open-source experience management platform</td><td><a href="https://github.com/formbricks/formbricks">Formbricks</a></td><td><a href="https://formbricks.com/">Formbricks</a></td><td><a href="https://cossmology.com/organizations/formbricks/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Form Builder</code>, <code>Privacy</code>, <code>Self-Hosted</code>, <code>Survey</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/heyform">HeyForm</a></strong></td><td>Open-source form builder for small businesses.</td><td><a href="https://github.com/heyform/heyform">heyform</a></td><td><a href="https://heyform.net/">HeyForm</a></td><td><a href="https://cossmology.com/organizations/heyform/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Form Builder</code>, <code>JavaScript</code>, <code>Web Development</code></td></tr>
 </tbody>
 </table>

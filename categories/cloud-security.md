@@ -1,6 +1,8 @@
 # Cloud Security
 [← Back to Index](../README.md)
+
 **6 companies**
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,7 +21,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/aqua-security">Aqua Security</a></strong></td><td>Cloud native security from code to cloud.</td><td><a href="https://trivy.dev/">Trivy</a></td><td><a href="https://www.aquasec.com/">Aqua Security</a></td><td><a href="https://cossmology.com/organizations/aqua-security/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Native</code>, <code>Cloud Security</code>, <code>Container Security</code>, <code>Serverless Security</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/aqua-security">Aqua Security</a></strong></td><td>Cloud native security from code to cloud.</td><td><a href="https://github.com/aquasecurity/tracee">Tracee</a></td><td><a href="https://www.aquasec.com/">Aqua Security</a></td><td><a href="https://cossmology.com/organizations/aqua-security/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Native</code>, <code>Cloud Security</code>, <code>Container Security</code>, <code>Serverless Security</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/cloudquery">CloudQuery</a></strong></td><td>Multi-cloud asset inventory platform</td><td><a href="https://github.com/cloudquery/cloudquery">cloudquery</a></td><td><a href="https://cloudquery.io">CloudQuery</a></td><td><a href="https://cossmology.com/organizations/cloudquery/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Governance</code>, <code>Cloud Infrastructure</code>, <code>Cloud Security</code>, <code>Developer Tools</code>, <code>Multi-Cloud</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/open-raven">Open Raven</a></strong></td><td>Cloud data security posture management & DLP</td><td><a href="https://github.com/openraven/magpie">magpie</a></td><td><a href="https://www.openraven.com/">Open Raven</a></td><td><a href="https://cossmology.com/organizations/open-raven/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Security</code>, <code>Data Loss Prevention</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/prowler">Prowler</a></strong></td><td>Open source cloud security platform</td><td><a href="https://github.com/prowler-cloud/prowler">Prowler</a></td><td><a href="https://prowler.com">Prowler</a></td><td><a href="https://cossmology.com/organizations/prowler/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AWS</code>, <code>Application Security</code>, <code>Azure</code>, <code>Cloud Security</code>, <code>Compliance</code>, <code>GCP</code>, <code>Kubernetes</code>, <code>M365</code>, <code>Open Source</code>, <code>Supply Chain Security</code></td></tr>
