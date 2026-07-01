@@ -1,7 +1,7 @@
 # Web Analytics
 [← Back to Index](../README.md)
 
-**3 companies**
+**4 companies**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -21,6 +21,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
+<tr><td><strong><a href="https://cossmology.com/organizations/hitkeep">HitKeep</a></strong></td><td>Privacy-first open-source web analytics</td><td><a href="https://github.com/PascaleBeier/hitkeep">hitkeep</a></td><td><a href="https://hitkeep.com">HitKeep</a></td><td><a href="https://cossmology.com/organizations/hitkeep/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Developer Tools</code>, <code>Privacy-First</code>, <code>Self-Hosted</code>, <code>Web Analytics</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/pirsch-analytics">Pirsch Analytics</a></strong></td><td>Privacy-friendly, cookieless web analytics</td><td><a href="https://github.com/pirsch-analytics/pirsch">pirsch</a></td><td><a href="https://pirsch.io">Pirsch Analytics</a></td><td><a href="https://cossmology.com/organizations/pirsch-analytics/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>GDPR</code>, <code>Privacy-focused</code>, <code>SaaS</code>, <code>Web Analytics</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/plausible-analytics">Plausible Analytics</a></strong></td><td>Privacy-friendly, lightweight website analytics.</td><td><a href="https://github.com/plausible/analytics">plausible</a></td><td><a href="https://plausible.io/">Plausible Analytics</a></td><td><a href="https://cossmology.com/organizations/plausible-analytics/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Privacy</code>, <code>Web Analytics</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/swetrix">Swetrix</a></strong></td><td>Cookieless, open-source web analytics</td><td><a href="https://github.com/Swetrix/swetrix">swetrix</a></td><td><a href="https://swetrix.com">Swetrix</a></td><td><a href="https://cossmology.com/organizations/swetrix/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Error Monitoring</code>, <code>Feature Flags</code>, <code>Performance Monitoring</code>, <code>Privacy-First</code>, <code>Self-Hosted</code>, <code>Web Analytics</code></td></tr>

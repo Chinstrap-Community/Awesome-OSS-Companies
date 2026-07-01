@@ -1,7 +1,7 @@
 # Agent Memory
 [← Back to Index](../README.md)
 
-**3 companies**
+**4 companies**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -24,5 +24,6 @@
 <tr><td><strong><a href="https://cossmology.com/organizations/evermind">EverMind</a></strong></td><td>Open-source memory OS for AI agents</td><td><a href="https://github.com/EverMind-AI/EverMemOS">EverMemOS</a></td><td><a href="https://evermind.ai">EverMind</a></td><td><a href="https://cossmology.com/organizations/evermind/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Infrastructure</code>, <code>AI Memory</code>, <code>Agent Memory</code>, <code>LLMs</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/nevamind-ai">NevaMind AI</a></strong></td><td>AI memory framework for intelligent companions</td><td><a href="https://github.com/NevaMind-AI/memU">memU</a></td><td><a href="https://nevamind.ai/">NevaMind AI</a></td><td><a href="https://cossmology.com/organizations/nevamind-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Memory</code>, <code>Agent Memory</code>, <code>LLMs</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/openviking">OpenViking</a></strong></td><td>Open-source context database for AI agents</td><td><a href="https://github.com/volcengine/OpenViking">OpenViking</a></td><td><a href="https://openviking.ai">OpenViking</a></td><td><a href="https://cossmology.com/organizations/openviking/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>Agent Memory</code>, <code>Context Engineering</code>, <code>RAG</code>, <code>Vector Database</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/paper-compute-co">Paper Compute Co.</a></strong></td><td>AI agent telemetry and runtime infra</td><td><a href="https://github.com/papercomputeco/stereOS">stereOS</a></td><td><a href="https://papercompute.com">Paper Compute Co.</a></td><td><a href="https://cossmology.com/organizations/paper-compute-co/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Infrastructure</code>, <code>AI Observability</code>, <code>Agent Memory</code>, <code>Developer Tools</code>, <code>LLMOps</code></td></tr>
 </tbody>
 </table>

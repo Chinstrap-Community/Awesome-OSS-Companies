@@ -1,7 +1,7 @@
 # Backup
 [← Back to Index](../README.md)
 
-**4 companies**
+**5 companies**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -24,6 +24,7 @@
 <tr><td><strong><a href="https://cossmology.com/organizations/bareos">Bareos</a></strong></td><td>Open-source backup, archiving, and recovery sof...</td><td><a href="https://github.com/bareos/bareos">bareos/bareos</a></td><td><a href="https://www.bareos.com/">Bareos</a></td><td><a href="https://cossmology.com/organizations/bareos/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Archiving</code>, <code>Backup</code>, <code>Cloud Storage</code>, <code>Cross-Platform</code>, <code>Data Protection</code>, <code>Deduplication</code>, <code>Encryption</code>, <code>FreeBSD</code>, <code>Linux</code>, <code>Recovery</code>, <code>Tape Storage</code>, <code>Windows</code>, <code>macOS</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/borgbase">BorgBase</a></strong></td><td>Secure offsite backups for Borg and Restic.</td><td><a href="https://github.com/borgbase/vorta">vorta</a></td><td><a href="https://www.borgbase.com/">BorgBase</a></td><td><a href="https://cossmology.com/organizations/borgbase/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Backup</code>, <code>Cloud Services</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/duplicati-inc">Duplicati Inc.</a></strong></td><td>Zero-trust, encrypted backup solution for data.</td><td><a href="https://github.com/duplicati/duplicati">Duplicati</a></td><td><a href="https://duplicati.com/">Duplicati Inc.</a></td><td><a href="https://cossmology.com/organizations/duplicati-inc/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Backup</code>, <code>Backup Software</code>, <code>Cloud Storage</code>, <code>Encryption</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/pluton">Pluton</a></strong></td><td>Open-source self-hosted backup solution</td><td><a href="https://github.com/plutonhq/pluton">pluton</a></td><td><a href="https://usepluton.com">Pluton</a></td><td><a href="https://cossmology.com/organizations/pluton/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Backup</code>, <code>Backup Software</code>, <code>Cloud Storage</code>, <code>Encryption</code>, <code>Self-Hosted</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/relica">Relica</a></strong></td><td>Cross-platform data backup and recovery service.</td><td><a href="https://github.com/restic/restic">restic</a></td><td><a href="https://relicabackup.com/">Relica</a></td><td><a href="https://cossmology.com/organizations/relica/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Backup</code>, <code>Cloud Storage</code>, <code>Data Protection</code></td></tr>
 </tbody>
 </table>
