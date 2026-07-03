@@ -21,6 +21,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/virtru">Virtru</a></strong></td><td>Data-centric security for email, files, and apps.</td><td><a href="https://github.com/opentdf/spec/">tdf-spec</a></td><td><a href="https://www.virtru.com/">Virtru</a></td><td><a href="https://cossmology.com/organizations/virtru/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Encryption</code>, <code>Data Security</code>, <code>Privacy</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/virtru">Virtru</a></strong></td><td>Data-centric security for email, files, and apps.</td><td><a href="https://github.com/opentdf/spec/">protect-and-track</a></td><td><a href="https://www.virtru.com/">Virtru</a></td><td><a href="https://cossmology.com/organizations/virtru/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Encryption</code>, <code>Data Security</code>, <code>Privacy</code></td></tr>
 </tbody>
 </table>

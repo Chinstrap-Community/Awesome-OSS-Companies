@@ -21,6 +21,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/filigran">Filigran</a></strong></td><td>Open-source threat management platform</td><td><a href="https://github.com/OpenCTI-Platform/opencti">OpenCTI</a></td><td><a href="https://filigran.io">Filigran</a></td><td><a href="https://cossmology.com/organizations/filigran/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cybersecurity</code>, <code>Security</code>, <code>Threat Detection</code>, <code>Threat Intelligence</code>, <code>Vulnerability Management</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/filigran">Filigran</a></strong></td><td>Open-source threat management platform</td><td><a href="https://github.com/OpenAEV-Platform/openaev">OpenAEV</a></td><td><a href="https://filigran.io">Filigran</a></td><td><a href="https://cossmology.com/organizations/filigran/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cybersecurity</code>, <code>Security</code>, <code>Threat Detection</code>, <code>Threat Intelligence</code>, <code>Vulnerability Management</code></td></tr>
 </tbody>
 </table>

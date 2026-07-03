@@ -21,6 +21,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/lucidworks">Lucidworks</a></strong></td><td>AI-powered enterprise search platform</td><td><a href="https://github.com/lucidworks/spark-solr">spark-solr</a></td><td><a href="https://lucidworks.com">Lucidworks</a></td><td><a href="https://cossmology.com/organizations/lucidworks/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>B2B SaaS</code>, <code>Enterprise Search</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/lucidworks">Lucidworks</a></strong></td><td>AI-powered enterprise search platform</td><td><a href="https://github.com/apache/lucene">Apache Lucene</a></td><td><a href="https://lucidworks.com">Lucidworks</a></td><td><a href="https://cossmology.com/organizations/lucidworks/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>B2B SaaS</code>, <code>Enterprise Search</code></td></tr>
 </tbody>
 </table>
