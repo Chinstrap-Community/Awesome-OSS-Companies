@@ -21,6 +21,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/higher-order-company">Higher Order Company</a></strong></td><td>Parallel computing runtime and language tools</td><td><a href="https://github.com/HigherOrderCO/Bend">Bend</a></td><td><a href="https://higherorderco.com">Higher Order Company</a></td><td><a href="https://cossmology.com/organizations/higher-order-company/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Compilers</code>, <code>Developer Tools</code>, <code>Functional Programming</code>, <code>GPU Computing</code>, <code>Runtime</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/higher-order-company">Higher Order Company</a></strong></td><td>Parallel computing runtime and language tools</td><td><a href="https://github.com/HigherOrderCO/HVM">HVM</a></td><td><a href="https://higherorderco.com">Higher Order Company</a></td><td><a href="https://cossmology.com/organizations/higher-order-company/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Compilers</code>, <code>Developer Tools</code>, <code>Functional Programming</code>, <code>GPU Computing</code>, <code>Runtime</code></td></tr>
 </tbody>
 </table>

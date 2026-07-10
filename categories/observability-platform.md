@@ -21,6 +21,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/dash0">Dash0</a></strong></td><td>OpenTelemetry-native observability platform</td><td><a href="https://github.com/dash0hq/dash0-operator">dash0-operator</a></td><td><a href="https://www.dash0.com">Dash0</a></td><td><a href="https://cossmology.com/organizations/dash0/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Distributed Tracing</code>, <code>Kubernetes</code>, <code>Monitoring</code>, <code>Observability Platform</code>, <code>OpenTelemetry</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/dash0">Dash0</a></strong></td><td>OpenTelemetry-native observability platform</td><td><a href="https://github.com/orgs/open-telemetry/">open-telemetry</a></td><td><a href="https://www.dash0.com">Dash0</a></td><td><a href="https://cossmology.com/organizations/dash0/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Distributed Tracing</code>, <code>Kubernetes</code>, <code>Monitoring</code>, <code>Observability Platform</code>, <code>OpenTelemetry</code></td></tr>
 </tbody>
 </table>

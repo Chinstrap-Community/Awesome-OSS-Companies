@@ -21,7 +21,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/owncloud">ownCloud</a></strong></td><td>Secure cloud platform for file sharing</td><td><a href="https://github.com/owncloud/android">android</a></td><td><a href="https://owncloud.com/">ownCloud</a></td><td><a href="https://cossmology.com/organizations/owncloud/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Storage</code>, <code>Content Collaboration</code>, <code>File Sharing</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/owncloud">ownCloud</a></strong></td><td>Secure cloud platform for file sharing</td><td><a href="https://github.com/owncloud/core">core</a></td><td><a href="https://owncloud.com/">ownCloud</a></td><td><a href="https://cossmology.com/organizations/owncloud/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Storage</code>, <code>Content Collaboration</code>, <code>File Sharing</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/pydio">Pydio</a></strong></td><td>Open-source enterprise file sharing software</td><td><a href="https://github.com/pydio/cells">Cells Client</a></td><td><a href="https://www.pydio.com/">Pydio</a></td><td><a href="https://cossmology.com/organizations/pydio/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Collaboration</code>, <code>Document Management</code>, <code>File Sharing</code></td></tr>
 </tbody>
 </table>

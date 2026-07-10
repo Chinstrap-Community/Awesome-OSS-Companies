@@ -21,6 +21,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/obs-project">OBS Project</a></strong></td><td>Free open source video recording & streaming</td><td><a href="https://github.com/obsproject/bouf">bouf</a></td><td><a href="https://obsproject.com/">OBS Project</a></td><td><a href="https://cossmology.com/organizations/obs-project/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>C++</code>, <code>IDE</code>, <code>Streaming</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/obs-project">OBS Project</a></strong></td><td>Free open source video recording & streaming</td><td><a href="https://github.com/obsproject/rfcs">rfcs</a></td><td><a href="https://obsproject.com/">OBS Project</a></td><td><a href="https://cossmology.com/organizations/obs-project/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>C++</code>, <code>IDE</code>, <code>Streaming</code></td></tr>
 </tbody>
 </table>

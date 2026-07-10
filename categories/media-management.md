@@ -1,8 +1,6 @@
-# Git Hosting
+# Media Management
 [← Back to Index](../README.md)
-
 **1 company**
-
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -21,6 +19,5 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/forgejo">Forgejo</a></strong></td><td>Self-hosted lightweight software forge.</td><td><a href="https://codeberg.org/forgejo-contrib/delightful-forgejo">delightful-forgejo</a></td><td><a href="https://forgejo.org/">Forgejo</a></td><td><a href="https://cossmology.com/organizations/forgejo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Git Hosting</code>, <code>Self-Hosted</code>, <code>Software Forge</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/immich">Immich</a></strong></td><td>Self-hosted photo & video management solution</td><td><a href="https://github.com/immich-app/immich">immich</a></td><td><a href="https://immich.app">Immich</a></td><td><a href="https://cossmology.com/organizations/immich/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Media Management</code>, <code>Mobile Apps</code>, <code>Photo Storage</code>, <code>Privacy-focused</code>, <code>Self-Hosted</code></td></tr>
 </tbody>
-</table>
