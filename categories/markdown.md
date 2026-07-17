@@ -21,6 +21,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/mobile-reality">Mobile Reality</a></strong></td><td>Open-source interactive document framework</td><td><a href="https://github.com/MobileReality/react-native-select-pro">react-native-select-pro</a></td><td><a href="https://themobilereality.com">Mobile Reality</a></td><td><a href="https://cossmology.com/organizations/mobile-reality/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Framework</code>, <code>Developer Tools</code>, <code>Document Management</code>, <code>Markdown</code>, <code>Workflow Automation</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/mobile-reality">Mobile Reality</a></strong></td><td>Open-source interactive document framework</td><td><a href="https://github.com/MobileReality/mdma">mdma</a></td><td><a href="https://themobilereality.com">Mobile Reality</a></td><td><a href="https://cossmology.com/organizations/mobile-reality/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Framework</code>, <code>Developer Tools</code>, <code>Document Management</code>, <code>Markdown</code>, <code>Workflow Automation</code></td></tr>
 </tbody>
 </table>

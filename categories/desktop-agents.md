@@ -21,6 +21,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/mintplex-labs">Mintplex Labs</a></strong></td><td>AI tools for productivity and innovation</td><td><a href="https://github.com/Mintplex-Labs/anything-llm">AnythingLLM</a></td><td><a href="https://anythingllm.com/">Mintplex Labs</a></td><td><a href="https://cossmology.com/organizations/mintplex-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>AI Infrastructure</code>, <code>Desktop Agents</code>, <code>LLMs</code>, <code>Local-First</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/mintplex-labs">Mintplex Labs</a></strong></td><td>AI tools for productivity and innovation</td><td><a href="https://github.com/Mintplex-Labs/anything-llm">AnythingLLM</a></td><td><a href="https://vectoradmin.com/">Mintplex Labs</a></td><td><a href="https://cossmology.com/organizations/mintplex-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>AI Infrastructure</code>, <code>Desktop Agents</code>, <code>LLMs</code>, <code>Local-First</code></td></tr>
 </tbody>
 </table>

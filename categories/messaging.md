@@ -1,7 +1,7 @@
 # Messaging
 [← Back to Index](../README.md)
 
-**6 companies**
+**7 companies**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -27,5 +27,6 @@
 <tr><td><strong><a href="https://cossmology.com/organizations/simplex-chat">SimpleX Chat</a></strong></td><td>Private messaging without user identifiers</td><td><a href="https://github.com/simplex-chat/simplex-chat">simplex-chat</a></td><td><a href="https://simplex.chat">SimpleX Chat</a></td><td><a href="https://cossmology.com/organizations/simplex-chat/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Decentralized</code>, <code>End-to-End Encryption</code>, <code>Messaging</code>, <code>Privacy</code>, <code>Real-Time Communication</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/synadia">Synadia</a></strong></td><td>Provides NATS.io for secure app communication</td><td><a href="https://github.com/nats-io/nats-server">nats-server</a></td><td><a href="https://www.synadia.com/">Synadia</a></td><td><a href="https://cossmology.com/organizations/synadia/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Native</code>, <code>Messaging</code>, <code>Microservices</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/zulip">Zulip</a></strong></td><td>Organized chat for distributed teams</td><td><a href="https://github.com/zulip/zulip">zulip</a></td><td><a href="https://zulip.com/">Zulip</a></td><td><a href="https://cossmology.com/organizations/zulip/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Django</code>, <code>Messaging</code>, <code>Python</code>, <code>Real-time Chat</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/chatto">Chatto</a></strong></td><td>Self-hostable team and group chat application.</td><td><a href="https://github.com/chattocorp/chatto">chatto</a></td><td><a href="https://chatto.run/">Chatto</a></td><td><a href="https://cossmology.com/organizations/chatto/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Collaboration</code>, <code>Messaging</code>, <code>Real-time</code></td></tr>
 </tbody>
 </table>

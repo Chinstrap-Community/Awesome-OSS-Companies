@@ -21,6 +21,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/freestyle">Freestyle</a></strong></td><td>Cloud infrastructure for AI-generated code</td><td><a href="https://github.com/freestyle-sh/cloudstate">cloudstate</a></td><td><a href="https://freestyle.sh">Freestyle</a></td><td><a href="https://cossmology.com/organizations/freestyle/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Infrastructure</code>, <code>Developer Tools</code>, <code>Sandboxing</code>, <code>Serverless</code>, <code>Virtual Machines</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/freestyle">Freestyle</a></strong></td><td>Cloud infrastructure for AI-generated code</td><td><a href="https://github.com/freestyle-sh/adorable">Adorable</a></td><td><a href="https://freestyle.sh">Freestyle</a></td><td><a href="https://cossmology.com/organizations/freestyle/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Infrastructure</code>, <code>Developer Tools</code>, <code>Sandboxing</code>, <code>Serverless</code>, <code>Virtual Machines</code></td></tr>
 </tbody>
 </table>
