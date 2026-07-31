@@ -21,6 +21,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/ockam">Ockam</a></strong></td><td>Complete PaaS for distributed agentic AI systems</td><td><a href="https://github.com/build-trust/ockam">ockam</a></td><td><a href="https://www.ockam.io">Ockam</a></td><td><a href="https://cossmology.com/organizations/ockam/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cryptography</code>, <code>Rust</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/ockam">Ockam</a></strong></td><td>Complete PaaS for distributed agentic AI systems</td><td><a href="https://github.com/build-trust/ockam">ockam</a></td><td><a href="https://www.ockam.io/">Ockam</a></td><td><a href="https://cossmology.com/organizations/ockam/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cryptography</code>, <code>Rust</code></td></tr>
 </tbody>
 </table>

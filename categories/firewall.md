@@ -1,6 +1,8 @@
 # Firewall
 [← Back to Index](../README.md)
+
 **1 company**
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -21,3 +23,4 @@
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/pipelab">PipeLab</a></strong></td><td>Open-source AI agent firewall</td><td><a href="https://github.com/luckyPipewrench/pipelock">Pipelock</a></td><td><a href="https://pipelab.org">PipeLab</a></td><td><a href="https://cossmology.com/organizations/pipelab/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Agents</code>, <code>AI Security</code>, <code>Cybersecurity</code>, <code>Developer Tools</code>, <code>Firewall</code>, <code>MCP</code></td></tr>
 </tbody>
+</table>

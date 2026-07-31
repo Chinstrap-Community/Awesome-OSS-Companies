@@ -1,6 +1,8 @@
 # Media Management
 [← Back to Index](../README.md)
+
 **1 company**
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -21,3 +23,4 @@
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/immich">Immich</a></strong></td><td>Self-hosted photo & video management solution</td><td><a href="https://github.com/immich-app/immich">immich</a></td><td><a href="https://immich.app">Immich</a></td><td><a href="https://cossmology.com/organizations/immich/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Media Management</code>, <code>Mobile Apps</code>, <code>Photo Storage</code>, <code>Privacy-focused</code>, <code>Self-Hosted</code></td></tr>
 </tbody>
+</table>

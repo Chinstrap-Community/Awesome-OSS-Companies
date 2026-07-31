@@ -5,10 +5,10 @@ This repository serves as a directory of commercial open source software (COSS) 
 The information in this repository is sourced from [Cossmology](https://cossmology.com), a platform provided by [Chinstrap Community](https://chinstrap.community) for tracking and analyzing the commercial open source software landscape. This repository is jointly maintained by [Chinstrap Community](https://chinstrap.community) and [Puter](https://puter.com).
 
 ## Browse the Full List
-**[View all 1187 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
+**[View all 1192 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
 The searchable page lets you filter by category or search across company names, descriptions, and technology tags — all in one place.
 ## Companies by Category
-**1187 companies** across **292 categories**
+**1192 companies** across **292 categories**
 | Category | Companies |
 |---|---|
 | [5G/4G RAN](categories/5g-4g-ran.md) | 1 |
@@ -120,7 +120,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Data Streaming](categories/data-streaming.md) | 11 |
 | [Data Transformation](categories/data-transformation.md) | 1 |
 | [Data Visualization](categories/data-visualization.md) | 3 |
-| [Database](categories/database.md) | 62 |
+| [Database](categories/database.md) | 63 |
 | [Database Management](categories/database-management.md) | 3 |
 | [Decentralized](categories/decentralized.md) | 7 |
 | [Decentralized Identity](categories/decentralized-identity.md) | 1 |
@@ -129,7 +129,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Design Tools](categories/design-tools.md) | 4 |
 | [Desktop](categories/desktop.md) | 1 |
 | [Desktop Agents](categories/desktop-agents.md) | 1 |
-| [DevOps](categories/devops.md) | 16 |
+| [DevOps](categories/devops.md) | 18 |
 | [DevSecOps](categories/devsecops.md) | 1 |
 | [Developer Portal](categories/developer-portal.md) | 1 |
 | [Developer Tools](categories/developer-tools.md) | 65 |
@@ -201,7 +201,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Log Management](categories/log-management.md) | 1 |
 | [Low-Code](categories/low-code.md) | 8 |
 | [MCP](categories/mcp.md) | 3 |
-| [MLOps](categories/mlops.md) | 8 |
+| [MLOps](categories/mlops.md) | 9 |
 | [Machine Learning](categories/machine-learning.md) | 14 |
 | [Markdown](categories/markdown.md) | 1 |
 | [Media Management](categories/media-management.md) | 1 |
@@ -301,5 +301,5 @@ The searchable page lets you filter by category or search across company names, 
 | [WebAssembly](categories/webassembly.md) | 2 |
 | [Wiki](categories/wiki.md) | 2 |
 | [Workflow Automation](categories/workflow-automation.md) | 4 |
-| [Workflow Orchestration](categories/workflow-orchestration.md) | 6 |
+| [Workflow Orchestration](categories/workflow-orchestration.md) | 7 |
 | [Zero Trust](categories/zero-trust.md) | 2 |

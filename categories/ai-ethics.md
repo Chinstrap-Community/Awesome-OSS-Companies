@@ -1,6 +1,8 @@
 # AI Ethics
 [← Back to Index](../README.md)
+
 **2 companies**
+
 <table style="table-layout:fixed; width:900px">
 <colgroup>
 <col style="width:130px; min-width:130px; max-width:130px">
@@ -19,6 +21,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/guardrails-ai">Guardrails AI</a></strong></td><td>Mitigates Gen AI risks with AI-powered validation.</td><td><a href="https://github.com/guardrails-ai/guardrails">guardrails</a></td><td><a href="https://www.guardrailsai.com/">Guardrails AI</a></td><td><a href="https://cossmology.com/organizations/guardrails-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Ethics</code>, <code>Compliance</code>, <code>Safety</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/building-humane-technology">Building Humane Technology</a></strong></td><td>Open-source framework for humane tech</td><td><a href="https://github.com/buildinghumanetech/humanebench">HumaneBench</a></td><td><a href="https://www.buildinghumanetech.com">Building Humane Technology</a></td><td><a href="https://cossmology.com/organizations/building-humane-technology/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Ethics</code>, <code>AI Framework</code>, <code>AI Governance</code>, <code>AI evaluation</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/guardrails-ai">Guardrails AI</a></strong></td><td>Mitigates Gen AI risks with AI-powered validation.</td><td><a href="https://github.com/guardrails-ai/guardrails">guardrails</a></td><td><a href="https://www.guardrailsai.com/">Guardrails AI</a></td><td><a href="https://cossmology.com/organizations/guardrails-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Ethics</code>, <code>Compliance</code>, <code>Safety</code></td></tr>
 </tbody>
+</table>
