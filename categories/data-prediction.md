@@ -21,6 +21,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/prior-labs">Prior Labs</a></strong></td><td>Foundation models for tabular data</td><td><a href="https://github.com/PriorLabs/TabPFN">TabPFN</a></td><td><a href="https://priorlabs.ai/">Prior Labs</a></td><td><a href="https://cossmology.com/organizations/prior-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Analytics</code>, <code>Data Prediction</code>, <code>Developer Tools</code>, <code>MLOps</code>, <code>Machine Learning</code>, <code>Python</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/prior-labs">Prior Labs</a></strong></td><td>Foundation models for tabular data</td><td><a href="https://github.com/PriorLabs/TabPFN">TabPFN</a></td><td><a href="https://priorlabs.ai/">Prior Labs</a></td><td><a href="https://cossmology.com/organizations/prior-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Analytics</code>, <code>Data Prediction</code>, <code>Developer Tools</code>, <code>Machine Learning</code>, <code>MLOps</code>, <code>Python</code></td></tr>
 </tbody>
 </table>

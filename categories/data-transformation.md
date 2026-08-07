@@ -21,6 +21,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/dbt-labs">dbt Labs</a></strong></td><td>SQL-based data transformation platform</td><td><a href="https://github.com/dbt-labs/dbt-core">dbt Core</a></td><td><a href="https://www.getdbt.com">dbt Labs</a></td><td><a href="https://cossmology.com/organizations/dbt-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Data Modeling</code>, <code>Data Quality</code>, <code>Data Transformation</code>, <code>SQL</code>, <code>Semantic Layer</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/dbt-labs">dbt Labs</a></strong></td><td>SQL-based data transformation platform</td><td><a href="https://github.com/dbt-labs/dbt-core">dbt Core</a></td><td><a href="https://www.getdbt.com">dbt Labs</a></td><td><a href="https://cossmology.com/organizations/dbt-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Data Modeling</code>, <code>Data Quality</code>, <code>Data Transformation</code>, <code>Semantic Layer</code>, <code>SQL</code></td></tr>
 </tbody>
 </table>

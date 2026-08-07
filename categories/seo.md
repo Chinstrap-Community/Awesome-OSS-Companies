@@ -21,6 +21,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/openseo">OpenSEO</a></strong></td><td>Open-source alternative to Semrush and Ahrefs</td><td><a href="https://github.com/every-app/open-seo">open-seo</a></td><td><a href="https://openseo.so">OpenSEO</a></td><td><a href="https://cossmology.com/organizations/openseo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Developer Tools</code>, <code>SEO</code>, <code>Search</code>, <code>Web Analytics</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/openseo">OpenSEO</a></strong></td><td>Open-source alternative to Semrush and Ahrefs</td><td><a href="https://github.com/every-app/open-seo">open-seo</a></td><td><a href="https://openseo.so">OpenSEO</a></td><td><a href="https://cossmology.com/organizations/openseo/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Analytics</code>, <code>Developer Tools</code>, <code>Search</code>, <code>SEO</code>, <code>Web Analytics</code></td></tr>
 </tbody>
 </table>

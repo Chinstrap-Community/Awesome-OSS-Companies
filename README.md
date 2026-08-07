@@ -8,7 +8,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 **[View all 1192 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
 The searchable page lets you filter by category or search across company names, descriptions, and technology tags — all in one place.
 ## Companies by Category
-**1192 companies** across **292 categories**
+**1194 companies** across **292 categories**
 | Category | Companies |
 |---|---|
 | [5G/4G RAN](categories/5g-4g-ran.md) | 1 |
@@ -23,7 +23,7 @@ The searchable page lets you filter by category or search across company names, 
 | [AI Ethics](categories/ai-ethics.md) | 2 |
 | [AI Framework](categories/ai-framework.md) | 7 |
 | [AI Governance](categories/ai-governance.md) | 1 |
-| [AI Infrastructure](categories/ai-infrastructure.md) | 7 |
+| [AI Infrastructure](categories/ai-infrastructure.md) | 8 |
 | [AI Memory](categories/ai-memory.md) | 2 |
 | [AI Observability](categories/ai-observability.md) | 3 |
 | [AI Orchestration](categories/ai-orchestration.md) | 1 |
@@ -223,7 +223,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Note-taking](categories/note-taking.md) | 4 |
 | [Notifications](categories/notifications.md) | 2 |
 | [Object Storage](categories/object-storage.md) | 1 |
-| [Observability](categories/observability.md) | 14 |
+| [Observability](categories/observability.md) | 15 |
 | [Observability Platform](categories/observability-platform.md) | 1 |
 | [PDF](categories/pdf.md) | 1 |
 | [PLM](categories/plm.md) | 1 |
