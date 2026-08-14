@@ -8,7 +8,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 **[View all 1192 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
 The searchable page lets you filter by category or search across company names, descriptions, and technology tags — all in one place.
 ## Companies by Category
-**1194 companies** across **292 categories**
+**1197 companies** across **292 categories**
 | Category | Companies |
 |---|---|
 | [5G/4G RAN](categories/5g-4g-ran.md) | 1 |
@@ -44,7 +44,7 @@ The searchable page lets you filter by category or search across company names, 
 | [App Deployment](categories/app-deployment.md) | 3 |
 | [Application Security](categories/application-security.md) | 2 |
 | [Audio](categories/audio.md) | 1 |
-| [Authentication](categories/authentication.md) | 12 |
+| [Authentication](categories/authentication.md) | 13 |
 | [Authorization](categories/authorization.md) | 6 |
 | [Autonomous Vehicles](categories/autonomous-vehicles.md) | 2 |
 | [BPM](categories/bpm.md) | 2 |
@@ -120,7 +120,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Data Streaming](categories/data-streaming.md) | 11 |
 | [Data Transformation](categories/data-transformation.md) | 1 |
 | [Data Visualization](categories/data-visualization.md) | 3 |
-| [Database](categories/database.md) | 63 |
+| [Database](categories/database.md) | 64 |
 | [Database Management](categories/database-management.md) | 3 |
 | [Decentralized](categories/decentralized.md) | 7 |
 | [Decentralized Identity](categories/decentralized-identity.md) | 1 |
@@ -192,7 +192,7 @@ The searchable page lets you filter by category or search across company names, 
 | [LLM Evaluation](categories/llm-evaluation.md) | 1 |
 | [LLM Gateway](categories/llm-gateway.md) | 3 |
 | [LLM Training](categories/llm-training.md) | 2 |
-| [LLMOps](categories/llmops.md) | 6 |
+| [LLMOps](categories/llmops.md) | 7 |
 | [LLMs](categories/llms.md) | 13 |
 | [LegalTech](categories/legaltech.md) | 3 |
 | [Link Shortening](categories/link-shortening.md) | 1 |
