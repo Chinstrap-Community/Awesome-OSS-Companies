@@ -1,7 +1,7 @@
 # LLM Gateway
 [← Back to Index](../README.md)
 
-**3 companies**
+**4 companies**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -24,5 +24,6 @@
 <tr><td><strong><a href="https://cossmology.com/organizations/litellm">LiteLLM</a></strong></td><td>Lightweight LLM gateway for enterprises</td><td><a href="https://github.com/BerriAI/litellm">LiteLLM</a></td><td><a href="https://www.litellm.ai/">LiteLLM</a></td><td><a href="https://cossmology.com/organizations/litellm/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>LLM Gateway</code>, <code>LLMs</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/maxim-ai">Maxim AI</a></strong></td><td>Creator of Bitfrost, an AI gateway platform</td><td><a href="https://github.com/maximhq/bifrost">Bifrost</a></td><td><a href="https://www.getmaxim.ai">Maxim AI</a></td><td><a href="https://cossmology.com/organizations/maxim-ai/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI evaluation</code>, <code>AI Observability</code>, <code>Developer Tools</code>, <code>LLM Gateway</code>, <code>LLMOps</code>, <code>LLMs</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/openrouter">OpenRouter</a></strong></td><td>Unified API for large language models (LLMs)</td><td><a href="https://github.com/OpenRouterTeam/openrouter-runner">OpenRouter</a></td><td><a href="https://openrouter.ai/">OpenRouter</a></td><td><a href="https://cossmology.com/organizations/openrouter/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>API</code>, <code>LLM Gateway</code>, <code>LLMs</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/truefoundry">TrueFoundry</a></strong></td><td>Enterprise AI gateway for LLMs and agents</td><td><a href="https://github.com/truefoundry/trueforge">TrueForge</a></td><td><a href="https://www.truefoundry.com/">TrueFoundry</a></td><td><a href="https://cossmology.com/organizations/truefoundry/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI Governance</code>, <code>AI Infrastructure</code>, <code>AI Observability</code>, <code>LLM Gateway</code>, <code>LLMOps</code>, <code>Observability</code></td></tr>
 </tbody>
 </table>

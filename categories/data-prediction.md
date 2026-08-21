@@ -1,7 +1,7 @@
 # Data Prediction
 [← Back to Index](../README.md)
 
-**1 company**
+**2 companies**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -22,5 +22,6 @@
 </tr></thead>
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/prior-labs">Prior Labs</a></strong></td><td>Foundation models for tabular data</td><td><a href="https://github.com/PriorLabs/TabPFN">TabPFN</a></td><td><a href="https://priorlabs.ai/">Prior Labs</a></td><td><a href="https://cossmology.com/organizations/prior-labs/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Analytics</code>, <code>Data Prediction</code>, <code>Developer Tools</code>, <code>Machine Learning</code>, <code>MLOps</code>, <code>Python</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/synthefy">Synthefy</a></strong></td><td>Tabular data prediction models</td><td><a href="https://github.com/Synthefy/synthefy-nori">synthefy-nori</a></td><td><a href="https://www.synthefy.com/">Synthefy</a></td><td><a href="https://cossmology.com/organizations/synthefy/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Data Prediction</code>, <code>Developer Tools</code>, <code>Machine Learning</code></td></tr>
 </tbody>
 </table>

@@ -8,7 +8,7 @@ The information in this repository is sourced from [Cossmology](https://cossmolo
 **[View all 1192 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
 The searchable page lets you filter by category or search across company names, descriptions, and technology tags — all in one place.
 ## Companies by Category
-**1197 companies** across **292 categories**
+**1199 companies** across **292 categories**
 | Category | Companies |
 |---|---|
 | [5G/4G RAN](categories/5g-4g-ran.md) | 1 |
@@ -112,7 +112,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Data Observability](categories/data-observability.md) | 1 |
 | [Data Orchestration](categories/data-orchestration.md) | 4 |
 | [Data Pipelines](categories/data-pipelines.md) | 4 |
-| [Data Prediction](categories/data-prediction.md) | 1 |
+| [Data Prediction](categories/data-prediction.md) | 2 |
 | [Data Quality](categories/data-quality.md) | 2 |
 | [Data Room](categories/data-room.md) | 1 |
 | [Data Science](categories/data-science.md) | 6 |
@@ -190,7 +190,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Knowledge Management](categories/knowledge-management.md) | 7 |
 | [Kubernetes](categories/kubernetes.md) | 26 |
 | [LLM Evaluation](categories/llm-evaluation.md) | 1 |
-| [LLM Gateway](categories/llm-gateway.md) | 3 |
+| [LLM Gateway](categories/llm-gateway.md) | 4 |
 | [LLM Training](categories/llm-training.md) | 2 |
 | [LLMOps](categories/llmops.md) | 7 |
 | [LLMs](categories/llms.md) | 13 |
