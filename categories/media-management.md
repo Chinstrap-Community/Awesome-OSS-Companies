@@ -21,6 +21,6 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
-<tr><td><strong><a href="https://cossmology.com/organizations/immich">Immich</a></strong></td><td>Self-hosted photo & video management solution</td><td><a href="https://github.com/immich-app/immich">immich</a></td><td><a href="https://immich.app">Immich</a></td><td><a href="https://cossmology.com/organizations/immich/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Media Management</code>, <code>Mobile Apps</code>, <code>Photo Storage</code>, <code>Privacy-focused</code>, <code>Self-Hosted</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/immich">Immich</a></strong></td><td>Self-hosted photo &amp; video management solution</td><td><a href="https://github.com/immich-app/immich">immich</a></td><td><a href="https://immich.app">Immich</a></td><td><a href="https://cossmology.com/organizations/immich/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Media Management</code>, <code>Mobile Apps</code>, <code>Photo Storage</code>, <code>Privacy-focused</code>, <code>Self-Hosted</code></td></tr>
 </tbody>
 </table>
