@@ -1,7 +1,7 @@
 # Audio
 [← Back to Index](../README.md)
 
-**1 company**
+**2 companies**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -21,6 +21,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
+<tr><td><strong><a href="https://cossmology.com/organizations/muse-group">Muse Group</a></strong></td><td>Music-creation tools and publishing platform</td><td><a href="https://github.com/audacity/audacity">Audacity</a></td><td><a href="https://www.mu.se/">Muse Group</a></td><td><a href="https://cossmology.com/organizations/muse-group/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Audio</code>, <code>Content Creation</code>, <code>Visual Editor</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/parallax">Parallax</a></strong></td><td>Platform for producing studio-quality AI podcasts.</td><td><a href="https://github.com/iboughtbed/ai-podcast">Parallax</a></td><td><a href="https://prllxhq.com/">Parallax</a></td><td><a href="https://cossmology.com/organizations/parallax/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI/ML</code>, <code>Audio</code>, <code>Podcasts</code></td></tr>
 </tbody>
 </table>

@@ -5,10 +5,10 @@ This repository serves as a directory of commercial open source software (COSS) 
 The information in this repository is sourced from [Cossmology](https://cossmology.com), a platform provided by [Chinstrap Community](https://chinstrap.community) for tracking and analyzing the commercial open source software landscape. This repository is jointly maintained by [Chinstrap Community](https://chinstrap.community) and [Puter](https://puter.com).
 
 ## Browse the Full List
-**[View all 1201 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
+**[View all 1204 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
 The searchable page lets you filter by category or search across company names, descriptions, and technology tags — all in one place.
 ## Companies by Category
-**1201 companies** across **292 categories**
+**1204 companies** across **292 categories**
 | Category | Companies |
 |---|---|
 | [5G/4G RAN](categories/5g-4g-ran.md) | 1 |
@@ -43,7 +43,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Apache Kafka](categories/apache-kafka.md) | 1 |
 | [App Deployment](categories/app-deployment.md) | 3 |
 | [Application Security](categories/application-security.md) | 2 |
-| [Audio](categories/audio.md) | 1 |
+| [Audio](categories/audio.md) | 2 |
 | [Authentication](categories/authentication.md) | 13 |
 | [Authorization](categories/authorization.md) | 6 |
 | [Autonomous Vehicles](categories/autonomous-vehicles.md) | 2 |
@@ -117,7 +117,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Data Room](categories/data-room.md) | 1 |
 | [Data Science](categories/data-science.md) | 6 |
 | [Data Security](categories/data-security.md) | 1 |
-| [Data Streaming](categories/data-streaming.md) | 11 |
+| [Data Streaming](categories/data-streaming.md) | 12 |
 | [Data Transformation](categories/data-transformation.md) | 1 |
 | [Data Visualization](categories/data-visualization.md) | 3 |
 | [Database](categories/database.md) | 64 |
@@ -132,7 +132,7 @@ The searchable page lets you filter by category or search across company names, 
 | [DevOps](categories/devops.md) | 18 |
 | [DevSecOps](categories/devsecops.md) | 1 |
 | [Developer Portal](categories/developer-portal.md) | 1 |
-| [Developer Tools](categories/developer-tools.md) | 65 |
+| [Developer Tools](categories/developer-tools.md) | 67 |
 | [Diagramming](categories/diagramming.md) | 3 |
 | [Differential Privacy](categories/differential-privacy.md) | 1 |
 | [Digital Payments](categories/digital-payments.md) | 1 |
@@ -175,7 +175,7 @@ The searchable page lets you filter by category or search across company names, 
 | [HPC](categories/hpc.md) | 1 |
 | [Headless CMS](categories/headless-cms.md) | 2 |
 | [HealthTech](categories/healthtech.md) | 3 |
-| [IDE](categories/ide.md) | 8 |
+| [IDE](categories/ide.md) | 9 |
 | [Identity Management](categories/identity-management.md) | 7 |
 | [Image Generation](categories/image-generation.md) | 3 |
 | [Image Recognition](categories/image-recognition.md) | 1 |
