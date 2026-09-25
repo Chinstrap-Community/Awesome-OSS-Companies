@@ -5,16 +5,16 @@ This repository serves as a directory of commercial open source software (COSS) 
 The information in this repository is sourced from [Cossmology](https://cossmology.com), a platform provided by [Chinstrap Community](https://chinstrap.community) for tracking and analyzing the commercial open source software landscape. This repository is jointly maintained by [Chinstrap Community](https://chinstrap.community) and [Puter](https://puter.com).
 
 ## Browse the Full List
-**[View all 1204 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
+**[View all 1208 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
 The searchable page lets you filter by category or search across company names, descriptions, and technology tags — all in one place.
 ## Companies by Category
-**1204 companies** across **292 categories**
+**1208 companies** across **292 categories**
 | Category | Companies |
 |---|---|
 | [5G/4G RAN](categories/5g-4g-ran.md) | 1 |
 | [A/B Testing](categories/a-b-testing.md) | 1 |
 | [AGI](categories/agi.md) | 1 |
-| [AI Agents](categories/ai-agents.md) | 64 |
+| [AI Agents](categories/ai-agents.md) | 65 |
 | [AI Chat](categories/ai-chat.md) | 1 |
 | [AI Coding Agents](categories/ai-coding-agents.md) | 14 |
 | [AI Coding Assistant](categories/ai-coding-assistant.md) | 11 |
@@ -23,7 +23,7 @@ The searchable page lets you filter by category or search across company names, 
 | [AI Ethics](categories/ai-ethics.md) | 2 |
 | [AI Framework](categories/ai-framework.md) | 7 |
 | [AI Governance](categories/ai-governance.md) | 1 |
-| [AI Infrastructure](categories/ai-infrastructure.md) | 8 |
+| [AI Infrastructure](categories/ai-infrastructure.md) | 9 |
 | [AI Memory](categories/ai-memory.md) | 2 |
 | [AI Observability](categories/ai-observability.md) | 3 |
 | [AI Orchestration](categories/ai-orchestration.md) | 1 |
@@ -188,7 +188,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Kanban](categories/kanban.md) | 1 |
 | [Knowledge Graph](categories/knowledge-graph.md) | 2 |
 | [Knowledge Management](categories/knowledge-management.md) | 7 |
-| [Kubernetes](categories/kubernetes.md) | 26 |
+| [Kubernetes](categories/kubernetes.md) | 27 |
 | [LLM Evaluation](categories/llm-evaluation.md) | 1 |
 | [LLM Gateway](categories/llm-gateway.md) | 4 |
 | [LLM Training](categories/llm-training.md) | 2 |
@@ -248,7 +248,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Retrieval-Augmented Generation](categories/retrieval-augmented-generation.md) | 2 |
 | [Reverse Proxy](categories/reverse-proxy.md) | 1 |
 | [Rich Text Editor](categories/rich-text-editor.md) | 1 |
-| [Robotics](categories/robotics.md) | 2 |
+| [Robotics](categories/robotics.md) | 3 |
 | [SEO](categories/seo.md) | 1 |
 | [SQL](categories/sql.md) | 1 |
 | [SRE](categories/sre.md) | 1 |

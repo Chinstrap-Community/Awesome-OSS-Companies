@@ -1,7 +1,7 @@
 # Kubernetes
 [← Back to Index](../README.md)
 
-**26 companies**
+**27 companies**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -21,6 +21,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
+<tr><td><strong><a href="https://cossmology.com/organizations/clastix">Clastix</a></strong></td><td>Kubernetes platform for fleet-scale operations</td><td><a href="https://github.com/clastix/kamaji">Kamaji</a></td><td><a href="https://clastix.io/">Clastix</a></td><td><a href="https://cossmology.com/organizations/clastix/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud Native</code>, <code>DevOps</code>, <code>Kubernetes</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/cloudbase-solutions">Cloudbase Solutions</a></strong></td><td>Cloud migration and Kubernetes solutions.</td><td><a href="https://github.com/cloudbase/windows-imaging-tools">windows-imaging-tools</a></td><td><a href="https://cloudbase.it/">Cloudbase Solutions</a></td><td><a href="https://cossmology.com/organizations/cloudbase-solutions/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>ARM64</code>, <code>CI/CD</code>, <code>Cloud Computing</code>, <code>Go</code>, <code>Kubernetes</code>, <code>Linux</code>, <code>OpenStack</code>, <code>PowerShell</code>, <code>Python</code>, <code>Virtualization</code>, <code>Windows</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/coreos">CoreOS</a></strong></td><td>Container optimized OS with automatic updates.</td><td><a href="https://github.com/coreos">CoreOS - Container Linux and Kubernetes tools</a></td><td><a href="https://fedoraproject.org/coreos/">CoreOS</a></td><td><a href="https://cossmology.com/organizations/coreos/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Container Management</code>, <code>Kubernetes</code>, <code>Linux</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/coroot">Coroot</a></strong></td><td>eBPF-powered full-stack observability</td><td><a href="https://github.com/coroot/coroot">coroot</a></td><td><a href="https://coroot.com">Coroot</a></td><td><a href="https://cossmology.com/organizations/coroot/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>DevOps</code>, <code>eBPF</code>, <code>Kubernetes</code>, <code>Observability</code>, <code>OpenTelemetry</code></td></tr>
