@@ -1,7 +1,7 @@
 # Geospatial
 [← Back to Index](../README.md)
 
-**4 companies**
+**5 companies**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -23,6 +23,7 @@
 <tbody>
 <tr><td><strong><a href="https://cossmology.com/organizations/camptocamp">Camptocamp</a></strong></td><td>Open Source IT solutions in ERP, GIS, IT Manage...</td><td><a href="https://github.com/camptocamp/c2cgeoportal">c2cgeoportal</a></td><td><a href="https://camptocamp.com/">Camptocamp</a></td><td><a href="https://cossmology.com/organizations/camptocamp/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>AI</code>, <code>Geospatial</code>, <code>GIS</code>, <code>Open Source</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/dawarich">Dawarich</a></strong></td><td>Dawarich visualizes location history and travel.</td><td><a href="https://github.com/Freika/dawarich">Dawarich</a></td><td><a href="https://dawarich.app/">Dawarich</a></td><td><a href="https://cossmology.com/organizations/dawarich/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Geospatial</code>, <code>Location</code>, <code>Location-based</code>, <code>Navigation</code>, <code>Social Media</code></td></tr>
+<tr><td><strong><a href="https://cossmology.com/organizations/dronedb">DroneDB</a></strong></td><td>Geospatial data management platform</td><td><a href="https://github.com/DroneDB/DroneDB">DroneDB</a></td><td><a href="https://dronedb.app/">DroneDB</a></td><td><a href="https://cossmology.com/organizations/dronedb/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Cloud</code>, <code>Data Visualization</code>, <code>Developer Tools</code>, <code>Geospatial</code>, <code>GIS</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/mapbox">Mapbox</a></strong></td><td>Open-source mapping and geospatial platform</td><td><a href="https://github.com/mapbox/mapbox-gl-js">Mapbox GL JS</a></td><td><a href="https://www.mapbox.com/">Mapbox</a></td><td><a href="https://cossmology.com/organizations/mapbox/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Geospatial</code>, <code>GIS</code>, <code>Infrastructure Mapping</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/tile38">Tile38</a></strong></td><td>In-memory geospatial database &amp; geofencing</td><td><a href="https://github.com/tidwall/tile38">tile38</a></td><td><a href="https://tile38.com">Tile38</a></td><td><a href="https://cossmology.com/organizations/tile38/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Database</code>, <code>Geospatial</code>, <code>In-Memory Database</code>, <code>Location-based</code>, <code>Real-time</code></td></tr>
 </tbody>

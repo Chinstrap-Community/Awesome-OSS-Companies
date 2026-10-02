@@ -1,7 +1,7 @@
 # Monitoring
 [← Back to Index](../README.md)
 
-**14 companies**
+**15 companies**
 
 <table style="table-layout:fixed; width:900px">
 <colgroup>
@@ -21,6 +21,7 @@
 <th style="width:290px; min-width:290px; max-width:290px; overflow:hidden; text-overflow:ellipsis">Technologies</th>
 </tr></thead>
 <tbody>
+<tr><td><strong><a href="https://cossmology.com/organizations/betterdb">BetterDB</a></strong></td><td>Valkey and Redis monitoring platform</td><td><a href="https://github.com/BetterDB-inc/monitor">BetterDB Monitor</a></td><td><a href="https://www.betterdb.com/">BetterDB</a></td><td><a href="https://cossmology.com/organizations/betterdb/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Developer Tools</code>, <code>Monitoring</code>, <code>Observability</code>, <code>OpenTelemetry</code>, <code>Redis</code>, <code>Valkey</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/bitdrift">Bitdrift</a></strong></td><td>Mobile app debugging and monitoring</td><td><a href="https://github.com/bitdriftlabs/pulse">Pulse</a></td><td><a href="https://bitdrift.io/">Bitdrift</a></td><td><a href="https://cossmology.com/organizations/bitdrift/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Alerting</code>, <code>Mobile Development</code>, <code>Monitoring</code>, <code>Observability</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/changedetection-io">changedetection.io</a></strong></td><td>Monitors website changes and provides alerts.</td><td><a href="https://github.com/dgtlmoon/changedetection.io">changedetection.io</a></td><td><a href="https://changedetection.io/">changedetection.io</a></td><td><a href="https://cossmology.com/organizations/changedetection-io/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Flask</code>, <code>Monitoring</code>, <code>Python</code>, <code>Web Technologies</code></td></tr>
 <tr><td><strong><a href="https://cossmology.com/organizations/highlight">Highlight</a></strong></td><td>Open source full-stack monitoring platform</td><td><a href="https://github.com/highlight/highlight">highlight</a></td><td><a href="https://highlight.io/">Highlight</a></td><td><a href="https://cossmology.com/organizations/highlight/headlines"><img src="https://cossmology.com/cossmology_headlines_transparent_bg_154.png" width="77"></a></td><td><code>Error Monitoring</code>, <code>Monitoring</code>, <code>Observability</code>, <code>OpenTelemetry</code>, <code>Session Replay</code></td></tr>

@@ -5,16 +5,16 @@ This repository serves as a directory of commercial open source software (COSS) 
 The information in this repository is sourced from [Cossmology](https://cossmology.com), a platform provided by [Chinstrap Community](https://chinstrap.community) for tracking and analyzing the commercial open source software landscape. This repository is jointly maintained by [Chinstrap Community](https://chinstrap.community) and [Puter](https://puter.com).
 
 ## Browse the Full List
-**[View all 1208 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
+**[View all 1219 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
 The searchable page lets you filter by category or search across company names, descriptions, and technology tags — all in one place.
 ## Companies by Category
-**1208 companies** across **292 categories**
+**1219 companies** across **294 categories**
 | Category | Companies |
 |---|---|
 | [5G/4G RAN](categories/5g-4g-ran.md) | 1 |
 | [A/B Testing](categories/a-b-testing.md) | 1 |
 | [AGI](categories/agi.md) | 1 |
-| [AI Agents](categories/ai-agents.md) | 65 |
+| [AI Agents](categories/ai-agents.md) | 66 |
 | [AI Chat](categories/ai-chat.md) | 1 |
 | [AI Coding Agents](categories/ai-coding-agents.md) | 14 |
 | [AI Coding Assistant](categories/ai-coding-assistant.md) | 11 |
@@ -97,9 +97,10 @@ The searchable page lets you filter by category or search across company names, 
 | [Crypto Wallet](categories/crypto-wallet.md) | 1 |
 | [Cryptography](categories/cryptography.md) | 1 |
 | [Customer Data Platform](categories/customer-data-platform.md) | 1 |
-| [Cybersecurity](categories/cybersecurity.md) | 17 |
+| [Cybersecurity](categories/cybersecurity.md) | 19 |
 | [Dashboard](categories/dashboard.md) | 2 |
 | [Data Analytics](categories/data-analytics.md) | 13 |
+| [Data Anonymization](categories/data-anonymization.md) | 1 |
 | [Data Backup](categories/data-backup.md) | 3 |
 | [Data Engineering](categories/data-engineering.md) | 2 |
 | [Data Extraction](categories/data-extraction.md) | 1 |
@@ -117,10 +118,10 @@ The searchable page lets you filter by category or search across company names, 
 | [Data Room](categories/data-room.md) | 1 |
 | [Data Science](categories/data-science.md) | 6 |
 | [Data Security](categories/data-security.md) | 1 |
-| [Data Streaming](categories/data-streaming.md) | 12 |
+| [Data Streaming](categories/data-streaming.md) | 13 |
 | [Data Transformation](categories/data-transformation.md) | 1 |
 | [Data Visualization](categories/data-visualization.md) | 3 |
-| [Database](categories/database.md) | 64 |
+| [Database](categories/database.md) | 65 |
 | [Database Management](categories/database-management.md) | 3 |
 | [Decentralized](categories/decentralized.md) | 7 |
 | [Decentralized Identity](categories/decentralized-identity.md) | 1 |
@@ -165,9 +166,9 @@ The searchable page lets you filter by category or search across company names, 
 | [Firewall](categories/firewall.md) | 1 |
 | [Form Builder](categories/form-builder.md) | 2 |
 | [GPU Computing](categories/gpu-computing.md) | 2 |
-| [Gaming](categories/gaming.md) | 3 |
+| [Gaming](categories/gaming.md) | 4 |
 | [Generative AI](categories/generative-ai.md) | 6 |
-| [Geospatial](categories/geospatial.md) | 4 |
+| [Geospatial](categories/geospatial.md) | 5 |
 | [Git Hosting](categories/git-hosting.md) | 1 |
 | [GitOps](categories/gitops.md) | 1 |
 | [Graph Database](categories/graph-database.md) | 8 |
@@ -210,7 +211,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Mobile Automation](categories/mobile-automation.md) | 1 |
 | [Mobile Development](categories/mobile-development.md) | 3 |
 | [Model Monitoring](categories/model-monitoring.md) | 2 |
-| [Monitoring](categories/monitoring.md) | 14 |
+| [Monitoring](categories/monitoring.md) | 15 |
 | [Multi-Agent Systems](categories/multi-agent-systems.md) | 6 |
 | [Multimodal](categories/multimodal.md) | 1 |
 | [Natural Language Processing](categories/natural-language-processing.md) | 2 |
@@ -289,13 +290,14 @@ The searchable page lets you filter by category or search across company names, 
 | [Virtual Machines](categories/virtual-machines.md) | 1 |
 | [Virtualization](categories/virtualization.md) | 4 |
 | [VoIP](categories/voip.md) | 1 |
+| [Voice](categories/voice.md) | 1 |
 | [Voice Recognition](categories/voice-recognition.md) | 3 |
 | [Web Analytics](categories/web-analytics.md) | 4 |
 | [Web Application Framework](categories/web-application-framework.md) | 1 |
 | [Web Automation](categories/web-automation.md) | 1 |
 | [Web Browsers](categories/web-browsers.md) | 1 |
 | [Web Development](categories/web-development.md) | 3 |
-| [Web Framework](categories/web-framework.md) | 8 |
+| [Web Framework](categories/web-framework.md) | 9 |
 | [Web Publishing](categories/web-publishing.md) | 1 |
 | [Web Scraping](categories/web-scraping.md) | 5 |
 | [WebAssembly](categories/webassembly.md) | 2 |
