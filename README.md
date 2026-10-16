@@ -5,10 +5,10 @@ This repository serves as a directory of commercial open source software (COSS) 
 The information in this repository is sourced from [Cossmology](https://cossmology.com), a platform provided by [Chinstrap Community](https://chinstrap.community) for tracking and analyzing the commercial open source software landscape. This repository is jointly maintained by [Chinstrap Community](https://chinstrap.community) and [Puter](https://puter.com).
 
 ## Browse the Full List
-**[View all 1219 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
+**[View all 1222 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
 The searchable page lets you filter by category or search across company names, descriptions, and technology tags — all in one place.
 ## Companies by Category
-**1219 companies** across **294 categories**
+**1222 companies** across **295 categories**
 | Category | Companies |
 |---|---|
 | [5G/4G RAN](categories/5g-4g-ran.md) | 1 |
@@ -17,7 +17,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Advanced Materials](categories/advanced-materials.md) | 1 |
 | [Agent Memory](categories/agent-memory.md) | 4 |
 | [AGI](categories/agi.md) | 1 |
-| [AI Agents](categories/ai-agents.md) | 66 |
+| [AI Agents](categories/ai-agents.md) | 67 |
 | [AI Chat](categories/ai-chat.md) | 1 |
 | [AI Coding Agents](categories/ai-coding-agents.md) | 14 |
 | [AI Coding Assistant](categories/ai-coding-assistant.md) | 11 |
@@ -87,6 +87,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Containerization](categories/containerization.md) | 4 |
 | [Content Aggregation](categories/content-aggregation.md) | 2 |
 | [Content Management](categories/content-management.md) | 4 |
+| [Context Engineering](categories/context-engineering.md) | 1 |
 | [Continuous Profiling](categories/continuous-profiling.md) | 1 |
 | [Conversational AI](categories/conversational-ai.md) | 3 |
 | [Cost Management](categories/cost-management.md) | 1 |
@@ -206,7 +207,7 @@ The searchable page lets you filter by category or search across company names, 
 | [MCP](categories/mcp.md) | 3 |
 | [Media Management](categories/media-management.md) | 1 |
 | [Messaging](categories/messaging.md) | 7 |
-| [MLOps](categories/mlops.md) | 9 |
+| [MLOps](categories/mlops.md) | 10 |
 | [Mobile Apps](categories/mobile-apps.md) | 1 |
 | [Mobile Automation](categories/mobile-automation.md) | 1 |
 | [Mobile Development](categories/mobile-development.md) | 3 |
