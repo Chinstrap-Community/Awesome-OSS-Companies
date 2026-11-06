@@ -5,10 +5,10 @@ This repository serves as a directory of commercial open source software (COSS) 
 The information in this repository is sourced from [Cossmology](https://cossmology.com), a platform provided by [Chinstrap Community](https://chinstrap.community) for tracking and analyzing the commercial open source software landscape. This repository is jointly maintained by [Chinstrap Community](https://chinstrap.community) and [Puter](https://puter.com).
 
 ## Browse the Full List
-**[View all 1222 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
+**[View all 1223 companies on a single searchable page →](https://chinstrap-community.github.io/Awesome-OSS-Companies/)**
 The searchable page lets you filter by category or search across company names, descriptions, and technology tags — all in one place.
 ## Companies by Category
-**1222 companies** across **295 categories**
+**1223 companies** across **295 categories**
 | Category | Companies |
 |---|---|
 | [5G/4G RAN](categories/5g-4g-ran.md) | 1 |
@@ -17,7 +17,7 @@ The searchable page lets you filter by category or search across company names, 
 | [Advanced Materials](categories/advanced-materials.md) | 1 |
 | [Agent Memory](categories/agent-memory.md) | 4 |
 | [AGI](categories/agi.md) | 1 |
-| [AI Agents](categories/ai-agents.md) | 67 |
+| [AI Agents](categories/ai-agents.md) | 68 |
 | [AI Chat](categories/ai-chat.md) | 1 |
 | [AI Coding Agents](categories/ai-coding-agents.md) | 14 |
 | [AI Coding Assistant](categories/ai-coding-assistant.md) | 11 |
